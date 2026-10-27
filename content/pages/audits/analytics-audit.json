@@ -1,0 +1,264 @@
+{
+  "key": "audit:analytics-audit",
+  "path": "/services/digital-analytics/audit/",
+  "title": "Digital Analytics Audit: GA4 & Tracking Review | CXWorks",
+  "description": "Check that every order, lead and campaign is tracked correctly. Our Digital Analytics Audit reviews GA4, tagging, consent and dashboards you can trust.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Diagnose"
+    ],
+    [
+      "Digital Analytics Audit"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Digital Analytics Audit",
+      "a": "Digital Analytics Audit",
+      "b": "",
+      "lead": "Find the Gaps Between Your Data and Your Decisions",
+      "ctas": [
+        {
+          "l": "Book this audit",
+          "act": "book",
+          "topic": "Digital Analytics Audit"
+        },
+        {
+          "l": "Compare with the full DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ],
+      "meta": [
+        "1 to 2 weeks",
+        "Fixed price"
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "Who it is for",
+      "h": "Get it when:",
+      "items": [
+        "Reports disagree across tools",
+        "Teams do not trust the dashboard",
+        "Moving to GA4 or Adobe"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All (the measuring layer)"
+    },
+    {
+      "type": "chart",
+      "slug": "audit-analytics-audit"
+    },
+    {
+      "type": "checklist",
+      "eb": "What we check",
+      "h": "Checklist by gate.",
+      "groups": [
+        {
+          "gate": "Chosen",
+          "items": [
+            [
+              "Orders and leads",
+              "Purchase, quote, form and call events"
+            ]
+          ]
+        },
+        {
+          "gate": "All",
+          "items": [
+            [
+              "Tracking accuracy",
+              "Events firing correctly across templates"
+            ],
+            [
+              "Attribution",
+              "Channel and campaign tagging"
+            ],
+            [
+              "Dashboards",
+              "What leaders see, and whether it is right"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "What you get",
+      "h": "Delivered as:",
+      "items": [
+        "List of tracked events and gaps",
+        "Fix plan for your developers",
+        "Dashboard recommendations",
+        "One-page Nine Gates snapshot"
+      ],
+      "check": true
+    },
+    {
+      "type": "steps",
+      "eb": "How it works",
+      "h": "AI first, experts always.",
+      "items": [
+        [
+          "AI first pass",
+          "Agents scan pages, logs and feeds."
+        ],
+        [
+          "Expert review",
+          "A specialist checks every finding."
+        ],
+        [
+          "Walkthrough call",
+          "We present the priorities and quick wins."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample report",
+      "h": "What the report looks like.",
+      "name": "Digital Analytics Audit"
+    },
+    {
+      "type": "upgrade",
+      "h": "Credited toward the DCX Audit.",
+      "p": "Book the full Diagnostic within 60 days and this audit fee is credited.",
+      "btn": {
+        "l": "See the DCX Audit",
+        "href": "/services/dcx-transformation/dcx-audit/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Digital Analytics Audit",
+      "paras": [
+        "Organisations may have plenty of data, but incomplete tracking, inconsistent measurement, and disconnected reporting can make it difficult to know what is really happening.",
+        "Our Digital Analytics Audit examines the measurement and intelligence layer behind every digital experience to identify data-quality gaps, tracking issues, reporting limitations, and opportunities to turn customer data into actionable insight.",
+        "We assess the measurement infrastructure that supports your digital customer experience, from business objectives and KPI definition through tracking, reporting, behavioural analysis, and customer intelligence.",
+        "We begin by reviewing how business goals translate into primary, secondary, and diagnostic KPIs, including the leading metrics used to evaluate performance across the DCX Operating System."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How long does the Digital Analytics Audit take?",
+          "1 to 2 weeks. AI does a first pass, then an expert reviews and walks you through it."
+        ],
+        [
+          "How is it priced?",
+          "Fixed price. You know the price before we start."
+        ],
+        [
+          "What do I get at the end?",
+          "List of tracked events and gaps, Fix plan for your developers, Dashboard recommendations, One-page Nine Gates snapshot."
+        ],
+        [
+          "Does the fee count toward the DCX Audit?",
+          "Yes, if you book the Diagnostic within 60 days the fee is credited."
+        ],
+        [
+          "Do I need to give you access?",
+          "Read-only access to analytics and search logs helps. We can start with public pages only."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to diagnose",
+      "items": [
+        [
+          "DCX Audit",
+          "/services/dcx-transformation/dcx-audit/"
+        ],
+        [
+          "SEO Audit",
+          "/audits/seo-audit/"
+        ],
+        [
+          "Technical SEO Audit",
+          "/audits/technical-seo-audit/"
+        ],
+        [
+          "AI Visibility Audit",
+          "/audits/ai-visibility-audit/"
+        ],
+        [
+          "CRO Audit",
+          "/services/conversion-rate-optimization/audit/"
+        ],
+        [
+          "Accessibility Audit",
+          "/audits/accessibility-audit/"
+        ],
+        [
+          "Digital Merchandising Audit",
+          "/services/digital-merchandising/audit/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Book the Digital Analytics Audit.",
+      "p": "1 to 2 weeks · Fixed price",
+      "btn": {
+        "l": "Book this audit",
+        "act": "book",
+        "topic": "Digital Analytics Audit"
+      },
+      "form": true
+    }
+  ]
+}

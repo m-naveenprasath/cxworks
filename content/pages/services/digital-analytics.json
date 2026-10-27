@@ -1,0 +1,207 @@
+{
+  "key": "svc:digital-analytics",
+  "path": "/services/digital-analytics/",
+  "title": "Digital Analytics Solutions for eCommerce Growth | CXWorks",
+  "description": "Improve eCommerce performance with Digital Analytics Solutions from CXWorks. Build trusted measurement, customer intelligence, GA4 and dashboards",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "Digital Analytics"
+    ]
+  ],
+  "sticky": {
+    "l": "Book the Digital Analytics Audit",
+    "href": "/contact-us/?topic=Digital%20Analytics%20Audit"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Digital analytics consulting",
+      "a": "Digital Analytics & Experience Intelligence",
+      "b": "",
+      "lead": "Build the system that connects Customer Behavior to Business Performance.",
+      "ctas": [
+        {
+          "l": "Book the Digital Analytics Audit",
+          "act": "book",
+          "topic": "Digital Analytics Audit"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "Digital Analytics"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Reports disagree",
+        "Leads not tracked to source",
+        "Dashboards nobody opens"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "digital-analytics"
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All (the measuring layer)"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy Digital Analytics.",
+      "d": "Analytics and tracking audit",
+      "b": "GA4 / Adobe setup, dashboards",
+      "r": "Monthly insight reviews"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch all (the measuring layer), flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "GA4",
+        "Adobe Analytics",
+        "Quantum Metric",
+        "Contentsquare",
+        "Looker Studio",
+        "Google Tag Manager",
+        "BigQuery"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Digital Analytics & Experience Intelligence",
+      "paras": [
+        "CXWorks helps B2B, B2C, and D2C ecommerce businesses connect analytics implementation, behavioral intelligence, experimentation, customer data, commerce data and business KPIs to create a clearer view of digital customer experience and its effect on growth.",
+        "Modern eCommerce businesses collect customer signals across analytics platforms, tag managers, commerce platforms, search systems, CRM and CDP platforms, experimentation tools, data warehouses and BI environments. The problem is rarely a complete absence of data. The problem is that the data often sits in separate systems, follows different definitions and answers different questions.",
+        "Google states that large explorations in GA4 can use sampled data, while data thresholds can restrict information displayed in reports and explorations.",
+        "Any dashboard can show that conversion has fallen. It cannot automatically pinpoint if the root cause lies in acquisition quality, product discovery, site behavior, pricing, checkout, or an experience issue that standard analytics does not capture."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is digital analytics in eCommerce?",
+          "Digital analytics measures customer behavior and connects that behavior to commercial performance across the digital customer journey. It helps businesses understand how customers discover, evaluate, purchase and return, while identifying the data and experience signals that explain changes in KPIs."
+        ],
+        [
+          "How is digital analytics different from standard web analytics?",
+          "Digital analytics connects web or app behavior with commerce, customer, search, experimentation and business data. Standard web analytics can report what users do on a digital property, while a broader digital analytics framework examines how those behaviors relate to revenue, customer value, retention and experience performance."
+        ],
+        [
+          "What is experience intelligence?",
+          "Experience intelligence connects quantitative behavioral data with qualitative and technical experience signals to explain why customers behave differently. It brings together analytics, behavioral analysis, experimentation, search, customer data and commerce signals to identify friction that a single analytics platform may not reveal."
+        ],
+        [
+          "Do we need to replace our existing analytics technology?",
+          "No. CXWorks assesses the technology you already use before determining what needs to change. The analytics architecture can include GA4 or Adobe Analytics, GTM, experimentation platforms, search technology, CRM or CDP systems, commerce platforms, data warehouses and BI tools. The objective is to make the existing architecture produce consistent, connected evidence."
+        ],
+        [
+          "How does CXWorks improve analytics accuracy?",
+          "CXWorks improves measurement accuracy by examining how data is collected, defined, transferred and reported across the analytics architecture. This includes event implementation, parameters, tag management, ecommerce tracking, source reconciliation, KPI definitions and the relationship between platform-level metrics and business outcomes."
+        ],
+        [
+          "How does digital analytics support customer experience improvement?",
+          "Digital analytics identifies where customer behavior changes across the journey, while experience intelligence adds the signals needed to investigate why that change occurs. CXWorks connects these findings to commercial KPIs so teams can prioritize the experience issues that have a measurable relationship with conversion, revenue, customer value or retention."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with the Digital Analytics Audit.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book the Digital Analytics Audit",
+        "act": "book",
+        "topic": "Digital Analytics Audit"
+      },
+      "form": true
+    }
+  ]
+}

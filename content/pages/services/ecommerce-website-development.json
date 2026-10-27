@@ -1,0 +1,180 @@
+{
+  "key": "svc:ecommerce-website-development",
+  "path": "/services/ecommerce-website-development/",
+  "title": "eCommerce Website Development Services | CXWorks",
+  "description": "eCommerce website development on Shopify, Adobe Commerce, BigCommerce and headless stacks, built for fast pages, clean product data and higher conversion.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "Ecommerce Website Development"
+    ]
+  ],
+  "sticky": {
+    "l": "Book a scoping call",
+    "href": "/contact-us/?topic=Ecommerce%20Website%20Development"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Ecommerce website development",
+      "a": "eCommerce Website Development",
+      "b": "",
+      "lead": "Build an ecommerce experience designed to sell, scale and evolve.",
+      "ctas": [
+        {
+          "l": "Book a scoping call",
+          "act": "book",
+          "topic": "Ecommerce Website Development"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "Ecommerce Website Development"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Slow templates",
+        "Replatform on the roadmap",
+        "Small changes wait months"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "ecommerce-website-development"
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Usability, Assistance"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy Ecommerce Website Development.",
+      "d": "Tech and speed review",
+      "b": "Builds, migrations, template work",
+      "r": "Dev support on demand"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch usability, assistance, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Shopify Plus",
+        "Adobe Commerce",
+        "BigCommerce",
+        "Salesforce Commerce Cloud",
+        "commercetools"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "eCommerce Website Development",
+      "paras": [
+        "CXWorks helps B2B, B2C and D2C businesses design and develop ecommerce websites that connect experience, technology, content and commerce into one scalable system. We identify where customers experience friction, where the current platform limits growth and where technology can create a better path from discovery to purchase.",
+        "Customers can struggle because navigation doesn't match how they shop. Product pages may not answer important questions. The checkout experience may introduce unnecessary steps. Mobile experiences may feel like an afterthought. Or the underlying technology may make it difficult for your teams to launch, optimize and scale.",
+        "A problem that appears on one page can stem from somewhere else in the experience. Poor navigation can prevent discovery, weak category structures can make product selection difficult, and incomplete product information can create uncertainty.",
+        "A complicated checkout can turn purchase intent into abandonment. And an inflexible technology stack can make every improvement slower and more expensive to deliver. That's why ecommerce website development should look beyond individual pages and features."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is Ecommerce Website Development?",
+          "Ecommerce Website Development covers the design, development, and optimisation of digital experiences that help customers discover, evaluate, and purchase products."
+        ],
+        [
+          "When should a business invest in Ecommerce Website Development?",
+          "When an existing website creates friction in navigation, product discovery, mobile experience, checkout, or performance — or when the current platform no longer supports business growth."
+        ],
+        [
+          "Can CXWorks redesign an existing ecommerce website?",
+          "Yes. CXWorks can assess and redesign existing ecommerce experiences across navigation, product and category pages, mobile experience, checkout, and performance."
+        ],
+        [
+          "Can CXWorks build a new ecommerce website from scratch?",
+          "Yes. CXWorks can support new ecommerce builds from information architecture and experience design through development, integrations, launch, and optimisation."
+        ],
+        [
+          "Does Ecommerce Website Development include mobile optimisation?",
+          "Yes. Mobile experience is considered across navigation, product discovery, product pages, cart, checkout, and other key customer journeys."
+        ],
+        [
+          "Can CXWorks improve ecommerce website speed and performance?",
+          "Yes. CXWorks can assess technical and experience-related performance issues and implement improvements that support faster page experiences, better usability, and more efficient customer journeys."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with a short call.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book a scoping call",
+        "act": "book",
+        "topic": "Ecommerce Website Development"
+      },
+      "form": true
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "key": "contact",
+  "path": "/contact-us/",
+  "title": "Contact CXWorks | Talk to a Digital CX Expert",
+  "description": "Contact CXWorks about eCommerce customer experience, analytics, CRO, merchandising or AI search. Email info@cxworks.com or call +1 (725) 325-5270.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Contact"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "convert",
+      "kind": "book",
+      "eb": "Contact",
+      "a": "Talk to",
+      "b": "the CXWorks team.",
+      "items": [
+        "Phone: +1 (725) 325 5270",
+        "Office: 5755 North Point Pkwy, Alpharetta, GA, USA",
+        "Email: info@cxworks.com",
+        "Support: idris@, rithik@, sowmya@cxworks.com"
+      ],
+      "steps": [
+        [
+          "Send",
+          "Tell us what you need."
+        ],
+        [
+          "We reply",
+          "Within one business day."
+        ],
+        [
+          "Call",
+          "30 minutes to pick the right start."
+        ]
+      ]
+    },
+    {
+      "type": "reviews"
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Talk to the team",
+      "paras": [
+        "Tell us what you sell, how buyers reach you and where you think the journey breaks. We will reply within one business day with the best place to start.",
+        "Not sure yet? A free AI scan is the quickest way to see your Nine Gate score."
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "Build: our services",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    }
+  ]
+}

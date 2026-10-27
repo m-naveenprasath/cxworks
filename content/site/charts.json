@@ -1,0 +1,642 @@
+{
+  "dcx-transformation": {
+    "type": "funnel",
+    "eyebrow": "The journey, gate by gate",
+    "t": "More customers make it through every gate.",
+    "kpi": [
+      68,
+      "+",
+      "%"
+    ],
+    "kpiT": "more visitors reaching checkout",
+    "u": "%",
+    "legend": [
+      "Before (outline)",
+      "With CXWorks"
+    ],
+    "rows": [
+      [
+        "Discover the brand",
+        100,
+        100
+      ],
+      [
+        "Find the right product",
+        64,
+        81
+      ],
+      [
+        "Trust the offer",
+        38,
+        58
+      ],
+      [
+        "Reach checkout",
+        19,
+        32
+      ]
+    ],
+    "note": "Share of visitors who pass each stage. Fixing the earliest failing gate lifts every stage after it."
+  },
+  "digital-merchandising": {
+    "type": "bars",
+    "eyebrow": "Discovery performance",
+    "t": "Shoppers find the right product faster.",
+    "kpi": [
+      78,
+      "+",
+      "%"
+    ],
+    "kpiT": "lift in search-to-cart rate",
+    "u": "%",
+    "legend": [
+      "Before",
+      "With CXWorks"
+    ],
+    "rows": [
+      [
+        "Search-to-cart rate",
+        9,
+        16
+      ],
+      [
+        "Filter engagement",
+        22,
+        41
+      ],
+      [
+        "Category click-through",
+        31,
+        48
+      ],
+      [
+        "PDP add-to-cart",
+        7,
+        11
+      ]
+    ],
+    "note": "Better search relevance, filters and category structure turn browsing into buying."
+  },
+  "digital-analytics": {
+    "type": "waffle",
+    "eyebrow": "Data you can trust",
+    "t": "Every key event, tracked right.",
+    "kpi": [
+      98,
+      "",
+      "%"
+    ],
+    "kpiT": "of key events tracked accurately",
+    "legend": [
+      "Tracked before",
+      "Fixed by CXWorks",
+      "Still to fix"
+    ],
+    "base": 61,
+    "goal": 98,
+    "side": [
+      [
+        "Key events tracked correctly",
+        61,
+        98
+      ],
+      [
+        "Reports matching across tools",
+        44,
+        95
+      ],
+      [
+        "Decisions backed by data",
+        35,
+        82
+      ]
+    ],
+    "note": "Each square is one key event. Gold squares are the ones we fix, so reports finally match across tools."
+  },
+  "ai-search-visibility": {
+    "type": "line",
+    "eyebrow": "AI answer citations",
+    "t": "Cited in more AI answers, month after month.",
+    "kpi": [
+      4.2,
+      "",
+      "x"
+    ],
+    "kpiDec": 1,
+    "kpiT": "more AI answers citing the brand",
+    "legend": [
+      "Without a plan",
+      "With CXWorks"
+    ],
+    "xs": [
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "M5",
+      "M6"
+    ],
+    "s0": [
+      12,
+      13,
+      12,
+      14,
+      13,
+      14
+    ],
+    "s1": [
+      12,
+      18,
+      27,
+      36,
+      44,
+      51
+    ],
+    "u": "",
+    "dec": 0,
+    "note": "Share of tracked AI prompts where the brand is cited, across ChatGPT, Perplexity, Gemini and Google AI."
+  },
+  "conversion-rate-optimization": {
+    "type": "cols",
+    "eyebrow": "Compounding experiments",
+    "t": "Each test cycle sharpens the next.",
+    "kpi": [
+      62,
+      "+",
+      "%"
+    ],
+    "kpiT": "conversion rate after six cycles",
+    "legend": [
+      "Baseline",
+      "Conversion rate per cycle"
+    ],
+    "xs": [
+      "Start",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C5",
+      "C6"
+    ],
+    "vals": [
+      2.1,
+      2.3,
+      2.5,
+      2.7,
+      2.9,
+      3.1,
+      3.4
+    ],
+    "base": 2.1,
+    "u": "%",
+    "dec": 1,
+    "note": "Audit, hypothesize, test, learn: wins are kept and built on, so gains compound."
+  },
+  "growth-marketing": {
+    "type": "donut",
+    "eyebrow": "Revenue by channel",
+    "t": "Every channel pulling its weight.",
+    "kpi": [
+      1.8,
+      "",
+      "x"
+    ],
+    "kpiDec": 1,
+    "kpiT": "increase in customer lifetime value",
+    "legend": [
+      "Share of attributed revenue",
+      ""
+    ],
+    "cV": "4",
+    "cT": "Channels, one system",
+    "segs": [
+      [
+        "Paid media",
+        "Search, social, shopping",
+        34
+      ],
+      [
+        "SEO & AI search",
+        "Organic + AI answers",
+        26
+      ],
+      [
+        "Lifecycle & email",
+        "Retention and repeat",
+        22
+      ],
+      [
+        "Content",
+        "Editorial and guides",
+        18
+      ]
+    ],
+    "note": "Paid, SEO, content and lifecycle work as one system, so spend goes where it returns."
+  },
+  "catalog-management": {
+    "type": "rings",
+    "eyebrow": "Product data quality",
+    "t": "Complete attributes across every category.",
+    "kpi": [
+      96,
+      "",
+      "%"
+    ],
+    "kpiT": "average attribute completeness",
+    "legend": [
+      "Attribute completeness by category",
+      ""
+    ],
+    "cV": "96%",
+    "cT": "Avg. complete",
+    "rows": [
+      [
+        "Apparel",
+        48,
+        96
+      ],
+      [
+        "Electronics",
+        55,
+        97
+      ],
+      [
+        "Home & furniture",
+        41,
+        94
+      ],
+      [
+        "Industrial tools",
+        37,
+        95
+      ]
+    ],
+    "note": "Clean, complete product data powers search, filters, merchandising and AI discovery."
+  },
+  "ecommerce-website-development": {
+    "type": "gauge",
+    "eyebrow": "Experience performance",
+    "t": "Faster pages, smoother checkout.",
+    "kpi": [
+      75,
+      "+",
+      "%"
+    ],
+    "kpiT": "lift in mobile conversion",
+    "legend": [
+      "Before",
+      "With CXWorks"
+    ],
+    "g": [
+      42,
+      91
+    ],
+    "cT": "Page speed score",
+    "side": [
+      [
+        "Checkout completion",
+        48,
+        71,
+        "%",
+        0
+      ],
+      [
+        "Mobile conversion",
+        1.2,
+        2.1,
+        "%",
+        1
+      ],
+      [
+        "Repeat visit rate",
+        18,
+        27,
+        "%",
+        0
+      ]
+    ],
+    "note": "A scalable platform built around how customers actually shop, on every device."
+  },
+  "audit-dcx-diagnostic": {
+    "type": "cols",
+    "eyebrow": "Sample Nine Gates score",
+    "t": "Find the earliest gate that fails.",
+    "kpi": [
+      41,
+      "",
+      "/100"
+    ],
+    "kpiT": "Findability, the earliest failing gate",
+    "legend": [
+      "Healthy benchmark (60)",
+      "Score per gate"
+    ],
+    "xs": [
+      "Discoverability",
+      "Findability",
+      "Relevance",
+      "Clarity",
+      "Usability",
+      "Trust",
+      "Conversion",
+      "Assistance",
+      "Retention"
+    ],
+    "vals": [
+      72,
+      41,
+      58,
+      66,
+      63,
+      55,
+      49,
+      70,
+      52
+    ],
+    "base": 60,
+    "u": "",
+    "dec": 0,
+    "note": "A typical Diagnostic result. Fixing Findability first lifts every gate after it, so it goes to the top of the roadmap."
+  },
+  "audit-seo-audit": {
+    "type": "line",
+    "eyebrow": "Organic clicks",
+    "t": "Traffic that grows after the fixes.",
+    "kpi": [
+      58,
+      "+",
+      "%"
+    ],
+    "kpiT": "organic clicks six months after the audit",
+    "legend": [
+      "No changes",
+      "Audit fixes shipped"
+    ],
+    "xs": [
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "M5",
+      "M6"
+    ],
+    "s0": [
+      20,
+      21,
+      20,
+      22,
+      21,
+      21
+    ],
+    "s1": [
+      20,
+      22,
+      25,
+      28,
+      31,
+      33
+    ],
+    "u": "k",
+    "dec": 0,
+    "note": "Monthly organic clicks in thousands for a mid-size catalog site. Content, keyword and link fixes compound month on month."
+  },
+  "audit-technical-seo-audit": {
+    "type": "waffle",
+    "eyebrow": "Index coverage",
+    "t": "More of your pages Google can see.",
+    "kpi": [
+      92,
+      "",
+      "%"
+    ],
+    "kpiT": "of product pages indexed after fixes",
+    "legend": [
+      "Indexed today",
+      "Recovered by fixes",
+      "Still blocked"
+    ],
+    "base": 54,
+    "goal": 92,
+    "side": [
+      [
+        "Product pages indexed",
+        54,
+        92
+      ],
+      [
+        "Pages passing Core Web Vitals",
+        38,
+        81
+      ],
+      [
+        "Faceted URLs under control",
+        22,
+        90
+      ]
+    ],
+    "note": "Each square is 1% of your product pages. Crawl, duplicate and faceted-URL fixes bring hidden pages back into search."
+  },
+  "audit-ai-visibility-audit": {
+    "type": "bars",
+    "eyebrow": "Answers that cite you",
+    "t": "Where AI tools mention your brand.",
+    "kpi": [
+      3.8,
+      "",
+      "x"
+    ],
+    "kpiDec": 1,
+    "kpiT": "more AI answers citing the brand",
+    "legend": [
+      "Today",
+      "After feed and content fixes"
+    ],
+    "rows": [
+      [
+        "ChatGPT",
+        8,
+        31
+      ],
+      [
+        "Perplexity",
+        12,
+        38
+      ],
+      [
+        "Gemini",
+        6,
+        27
+      ],
+      [
+        "Google AI Mode",
+        10,
+        34
+      ]
+    ],
+    "u": "%",
+    "note": "Share of tracked buyer prompts where each AI tool names or links to the brand."
+  },
+  "audit-cro-ux-audit": {
+    "type": "funnel",
+    "eyebrow": "Where shoppers drop",
+    "t": "Find the step that leaks the most.",
+    "kpi": [
+      62,
+      "+",
+      "%"
+    ],
+    "kpiT": "more orders from the same traffic",
+    "legend": [
+      "Today (outline)",
+      "After fixes"
+    ],
+    "rows": [
+      [
+        "View a product",
+        100,
+        100
+      ],
+      [
+        "Add to cart",
+        18,
+        26
+      ],
+      [
+        "Start checkout",
+        9,
+        14
+      ],
+      [
+        "Place the order",
+        3,
+        5
+      ]
+    ],
+    "note": "Share of product viewers who reach each step. The audit names the step that leaks the most and why."
+  },
+  "audit-analytics-audit": {
+    "type": "rings",
+    "eyebrow": "Tracking accuracy",
+    "t": "Numbers you can defend in a meeting.",
+    "kpi": [
+      97,
+      "",
+      "%"
+    ],
+    "kpiT": "average event accuracy after the fix list",
+    "legend": [
+      "Accuracy by event group",
+      ""
+    ],
+    "cV": "97%",
+    "cT": "Avg. accurate",
+    "rows": [
+      [
+        "Purchases",
+        72,
+        99
+      ],
+      [
+        "Leads and forms",
+        48,
+        97
+      ],
+      [
+        "Add to cart",
+        61,
+        98
+      ],
+      [
+        "Site search",
+        30,
+        95
+      ]
+    ],
+    "note": "How often GA4 matches your order system and CRM, per event group. Inner ring today, outer ring after the fixes."
+  },
+  "audit-accessibility-audit": {
+    "type": "gauge",
+    "eyebrow": "WCAG 2.2 AA score",
+    "t": "A site everyone can use.",
+    "kpi": [
+      94,
+      "",
+      "/100"
+    ],
+    "kpiT": "accessibility score after the fix list",
+    "legend": [
+      "Today",
+      "After fixes"
+    ],
+    "g": [
+      58,
+      94
+    ],
+    "cT": "WCAG AA score",
+    "side": [
+      [
+        "Pages passing WCAG AA",
+        31,
+        88,
+        "%",
+        0
+      ],
+      [
+        "Keyboard-reachable actions",
+        64,
+        100,
+        "%",
+        0
+      ],
+      [
+        "Images with alt text",
+        47,
+        98,
+        "%",
+        0
+      ]
+    ],
+    "note": "Scored against WCAG 2.2 AA with automated checks plus keyboard and screen reader testing."
+  },
+  "audit-catalog-search-audit": {
+    "type": "donut",
+    "eyebrow": "What happens after a search",
+    "t": "One in six searches finds nothing.",
+    "kpi": [
+      17,
+      "",
+      "%"
+    ],
+    "kpiT": "of site searches return zero results today",
+    "legend": [
+      "Share of site searches",
+      ""
+    ],
+    "cV": "17%",
+    "cT": "Zero results",
+    "segs": [
+      [
+        "Relevant results",
+        "Found and clicked",
+        58
+      ],
+      [
+        "Zero results",
+        "Valid terms, nothing shown",
+        17
+      ],
+      [
+        "Weak results",
+        "Shown, not clicked",
+        15
+      ],
+      [
+        "Exit after search",
+        "Left the site",
+        10
+      ]
+    ],
+    "note": "A typical large catalog. Most zero-result searches are real part numbers or specs with missing data or synonyms."
+  }
+}

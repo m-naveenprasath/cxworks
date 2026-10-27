@@ -1,0 +1,208 @@
+{
+  "key": "svc:catalog-management",
+  "path": "/services/catalog-management/",
+  "title": "Catalog & Product Data Management Services | CXWorks",
+  "description": "Catalog management services for large ecommerce catalogs: product data cleanup, attribute enrichment, titles, specs and feeds, priced per SKU batch.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "Catalog and Product Data"
+    ]
+  ],
+  "sticky": {
+    "l": "Book the Digital Merchandising Audit",
+    "href": "/contact-us/?topic=Digital%20Merchandising%20Audit"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Catalog management services",
+      "a": "Catalog & Product Data Foundation",
+      "b": "",
+      "lead": "Give every product the data foundation to be found, understood, and chosen.",
+      "ctas": [
+        {
+          "l": "Book the Digital Merchandising Audit",
+          "act": "book",
+          "topic": "Digital Merchandising Audit"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "Catalog and Product Data"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Missing specs and empty filters",
+        "Duplicate titles across suppliers",
+        "AI tools skip your products"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "catalog-management"
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Discoverability, Findability, Clarity"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy Catalog and Product Data.",
+      "d": "Catalog health check",
+      "b": "SKU data cleanup and enrichment",
+      "r": "Ongoing catalog upkeep"
+    },
+    {
+      "type": "table",
+      "eb": "Per-batch pricing",
+      "h": "Priced per batch of SKUs.",
+      "cols": [
+        "Batch",
+        "What is included",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Up to 1,000 SKUs",
+          "Titles, specs, attributes",
+          "Fixed price"
+        ],
+        [
+          "1,000 to 10,000 SKUs",
+          "Plus enrichment and filters",
+          "Fixed price"
+        ],
+        [
+          "10,000+ SKUs",
+          "Plus supplier rules and upkeep",
+          "Quoted"
+        ],
+        [
+          "Minimum job",
+          "One batch",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch discoverability, findability, clarity, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Akeneo",
+        "Salsify",
+        "inRiver",
+        "Shopify",
+        "Adobe Commerce"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Catalog & Product Data Foundation",
+      "paras": [
+        "CXWorks builds and structures the product data layer across SKUs, attributes, taxonomy, variants, and specifications. The service supports new catalog creation, platform migrations, new-market launches, and legacy catalog cleanup, creating the data foundation required for stronger discoverability, findability, and relevance.",
+        "Customers cannot confidently find or evaluate products when key product information is missing, inconsistent, or difficult to compare.",
+        "Supplier data arrives in different formats. Attributes remain incomplete. Categories become inconsistent. Product specifications vary across channels. Over time, these gaps affect search, filtering, merchandising, product pages, and AI-powered discovery.",
+        "We help B2B, B2C, and D2C eCommerce businesses cover SKU and catalog building, product enrichment, categorization, and attribute governance creating structured product data to support stronger Discoverability, Findability, and Relevance."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is Catalog & Product Data Foundation?",
+          "Catalog & Product Data Foundation creates the structured product data required for effective eCommerce discovery, search, merchandising, and channel distribution."
+        ],
+        [
+          "How is this different from Digital Merchandising?",
+          "Catalog Foundation builds and structures product data. Digital Merchandising analyzes and optimizes the catalog for discovery, relevance, and commercial performance."
+        ],
+        [
+          "Can you clean an existing catalog?",
+          "Yes. The service supports duplicate detection, missing-attribute remediation, categorization cleanup, enrichment, and ongoing catalog governance."
+        ],
+        [
+          "Do you use AI for catalog enrichment?",
+          "Yes. AI accelerates extraction, categorization, and first-pass content generation, while human review verifies the output before publication."
+        ],
+        [
+          "When should we start with a Catalog Audit?",
+          "Start with a Catalog Audit when the size or quality of the data problem is unclear. The audit identifies the SKUs, attributes, and taxonomy issues that require remediation."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with the Digital Merchandising Audit.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book the Digital Merchandising Audit",
+        "act": "book",
+        "topic": "Digital Merchandising Audit"
+      },
+      "form": true
+    }
+  ]
+}

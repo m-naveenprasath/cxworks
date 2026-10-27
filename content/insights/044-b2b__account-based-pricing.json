@@ -1,0 +1,146 @@
+{
+  "slug": "b2b/account-based-pricing",
+  "cat": "B2B Commerce",
+  "t": "What Is Account-Based Pricing in B2B eCommerce?",
+  "title": "Account-Based Pricing: A B2B eCommerce Guide to Customer-Specific Pricing - CXWorks",
+  "d": "Account-based pricing assigns prices to specific business customers or defined customer groups instead of applying one universal price to every visitor.…",
+  "ex": "Account-based pricing assigns prices to specific business customers or defined customer groups instead of applying one universal price to every visitor. Standard B2B pricing typically starts with a…",
+  "date": "September 17, 2026",
+  "read": "5 min",
+  "secs": [
+    {
+      "h": "Introduction",
+      "b": [
+        {
+          "p": "Account-based pricing assigns prices to specific business customers or defined customer groups instead of applying one universal price to every visitor. Standard B2B pricing typically starts with a base price and applies rules such as quantity discounts or customer tiers. Account-level pricing adds another layer: the buyer's account determines which commercial rules apply."
+        },
+        {
+          "p": "For example, a B2B customer could see a contracted price of $84 for a product while another account sees $91. Both customers can access the same product catalog, but the eCommerce platform retrieves a different price based on their account configuration. This model is particularly relevant for businesses with negotiated rates, contract pricing, volume agreements, customer-specific catalogs, or multiple sales channels."
+        }
+      ]
+    },
+    {
+      "h": "How Customer-Specific Pricing Works",
+      "b": [
+        {
+          "p": "The process starts with the customer account. The account connects to one or more pricing rules, price lists, contracts, or customer groups. The product catalog supplies the products that those rules govern. When an authenticated buyer views a product, the pricing system evaluates the account and applicable rules before displaying the price."
+        },
+        {
+          "p": "The resulting architecture can connect:"
+        },
+        {
+          "p": "Customer account → Contract or price list → Product or product group → Pricing rule → Displayed price"
+        },
+        {
+          "p": "This structure separates commercial policy from the storefront presentation. It also reduces the need for sales teams to manually communicate every account's price."
+        }
+      ]
+    },
+    {
+      "h": "Why B2B eCommerce Businesses Use Account-Based Pricing",
+      "b": [
+        {
+          "p": "B2B companies use customer-specific pricing because commercial relationships frequently determine what a buyer pays. Contract pricing can establish fixed rates for selected products. Volume pricing can change the unit price according to order quantity. Negotiated pricing can apply different rates to individual accounts. Customer groups can provide a scalable way to manage shared commercial terms."
+        },
+        {
+          "p": "These models become difficult to manage when pricing exists across spreadsheets, ERP records, sales agreements, and manual overrides. A digital pricing model creates a central structure for those rules. The eCommerce platform can then apply the correct price to the authenticated customer. Pricing also affects account profitability. A low price can reduce gross margin on an account, while an overly high price can create friction with a buyer operating under established commercial terms."
+        },
+        {
+          "p": "For this reason, B2B pricing strategy needs to consider both customer experience and margin control."
+        }
+      ]
+    },
+    {
+      "h": "How to Build an Account-Based Pricing Strategy",
+      "b": [
+        {
+          "p": "A practical strategy starts with customer segmentation. Businesses should identify which accounts require individual prices, which accounts can share pricing tiers, and which customers should use standard pricing. The segmentation model should reflect actual commercial agreements, not arbitrary categories."
+        },
+        {
+          "p": "The next step is to define pricing rules. These rules can include fixed account prices, percentage adjustments, volume breaks, quantity discounts, contract rates, and product-specific exceptions. The business should then map products, accounts, contracts, and price lists. Every rule needs a clear scope. For example, a contract might apply to one account, 250 products, and a defined period. Another pricing tier might apply to 40 accounts and an entire product category. Without defined ownership and scope, exceptions can quickly become difficult to maintain."
+        },
+        {
+          "p": "Pricing governance should establish who creates, approves, changes, and retires pricing rules. It should also define how conflicts are resolved when multiple rules apply to the same customer and product. Governance matters because pricing data can become a commercial control point. An incorrect rule can affect every order placed by an account."
+        }
+      ]
+    },
+    {
+      "h": "How Account-Based Pricing Works in B2B eCommerce Platforms",
+      "b": [
+        {
+          "p": "The eCommerce platform needs a reliable connection between customer identity and pricing data. A logged-in customer account can determine the applicable price list. The platform can then retrieve the relevant product price and display it across product pages, search results, category pages, carts, and checkout."
+        },
+        {
+          "p": "The underlying architecture often connects the eCommerce platform with ERP, CRM, PIM, and pricing systems. The ERP may contain customer and commercial data. The CRM may contain account relationships and sales information. The PIM manages product information. The eCommerce platform presents the resulting catalog and purchasing experience."
+        },
+        {
+          "p": "The exact system of record depends on the business architecture. What matters is that each system has a defined responsibility. A pricing engine can sit between these systems when pricing logic becomes too complex for basic catalog rules. It can evaluate customer accounts, products, quantities, contracts, and other conditions before returning the applicable price. Real-time or near-real-time pricing can become important when account prices change frequently. Cached pricing can support performance, but the business must control cache invalidation so buyers do not receive outdated commercial terms."
+        }
+      ]
+    },
+    {
+      "h": "Common Account-Based Pricing Challenges",
+      "b": [
+        {
+          "p": "Pricing data becomes difficult when businesses accumulate years of exceptions. One account may have a negotiated price for a single SKU. Another may have a category-level discount. A third may have volume pricing that overrides a standard customer tier."
+        },
+        {
+          "p": "These rules can conflict unless the business establishes pricing precedence. Integration creates another challenge. If the ERP contains one price and the eCommerce platform contains another, the buyer may receive an inconsistent experience. The business needs clear ownership of pricing data and reliable synchronization between systems. Scale also matters. A pricing model that works for 100 accounts may become difficult to operate across thousands of accounts and millions of account-product relationships."
+        },
+        {
+          "p": "Margin control presents a separate issue. Customer-specific prices should be evaluated against cost, discount levels, order volume, and account profitability. Pricing analytics should identify where commercial terms produce undesirable margin outcomes."
+        }
+      ]
+    },
+    {
+      "h": "How to Manage Account-Based Pricing at Scale",
+      "b": [
+        {
+          "p": "Automation reduces manual pricing administration. A pricing architecture can apply predefined rules based on account, product, quantity, contract, or customer group. Rule management should include effective dates, approval workflows, version history, and exception handling."
+        },
+        {
+          "p": "Analytics should then measure how the pricing model performs. Useful measures include average selling price, discount depth, gross margin, order quantity, revenue by account, product-level margin, and the frequency of pricing overrides. These measures help commercial teams identify pricing behavior that requires investigation. For example, a high volume of manual overrides may indicate that the pricing model does not adequately represent how sales teams negotiate with customers. Testing should also cover the full buying journey. A price that appears correctly on a product page must remain correct in the cart, checkout, order confirmation, and downstream ERP transaction."
+        }
+      ]
+    },
+    {
+      "h": "Account-Based Pricing Best Practices for B2B eCommerce",
+      "b": [
+        {
+          "p": "Effective implementation starts with a clear pricing hierarchy. The business should define which rule takes precedence when standard pricing, customer-group pricing, contract pricing, volume discounts, and account-specific overrides overlap. Pricing data should have a defined system of record. Product data, customer data, and commercial terms should not rely on uncontrolled spreadsheets as the long-term operating model."
+        },
+        {
+          "p": "Businesses should also separate pricing logic from presentation wherever possible. This approach allows the commercial rules to evolve without rebuilding the storefront experience. Every pricing rule should have an owner, an effective date, and a defined scope. Expired agreements should stop applying automatically. Finally, teams should monitor pricing exceptions and margin outcomes. Account-based models work best when commercial governance and digital execution operate from the same rules."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "What is account-based pricing?",
+      "Account-based pricing assigns different prices to specific B2B customer accounts or customer groups. The applicable price depends on commercial rules associated with the buyer’s account."
+    ],
+    [
+      "How does account-based pricing work in B2B eCommerce?",
+      "Account-based pricing works by connecting customer accounts with price lists, contracts, discounts, or pricing rules. The eCommerce platform evaluates those rules and displays the applicable price to the authenticated buyer."
+    ],
+    [
+      "What is the difference between account-based pricing and customer-specific pricing?",
+      "Account-based pricing is a method of managing customer-specific pricing through account-level rules. Customer-specific pricing describes the outcome, while account-based pricing describes how the business structures and applies that pricing."
+    ],
+    [
+      "How do B2B companies manage customer-specific prices online?",
+      "B2B companies manage customer-specific prices by connecting customer accounts with pricing data and applying rules through an eCommerce platform, ERP, pricing engine, or related systems."
+    ],
+    [
+      "What systems are needed to implement account-based pricing?",
+      "A typical implementation uses an eCommerce platform connected with systems such as an ERP, CRM, PIM, and pricing engine. The required architecture depends on where customer, product, contract, and pricing data resides. Account-based pricing assigns different prices to specific B2B customer accounts or customer groups. The applicable price depends on commercial rules associated with the buyer's account. Account-based pricing works by connecting customer accounts with price lists, contracts, discounts, or pricing rules. The eCommerce platform evaluates those rules and displays the applicable price to the authenticated buyer. Account-based pricing is a method of managing customer-specific pricing through account-level rules. Customer-specific pricing describes the outcome, while account-based pricing describes how the business structures and applies that pricing. B2B companies manage customer-specific prices by connecting customer accounts with pricing data and applying rules through an eCommerce platform, ERP, pricing engine, or related systems. A typical implementation uses an eCommerce platform connected with systems such as an ERP, CRM, PIM, and pricing engine. The required architecture depends on where customer, product, contract, and pricing data resides."
+    ]
+  ],
+  "draft": true,
+  "sols": [
+    "conversion-rate-optimization",
+    "dcx-transformation",
+    "digital-analytics"
+  ]
+}

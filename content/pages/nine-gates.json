@@ -1,0 +1,130 @@
+{
+  "key": "nine-gates",
+  "path": "/nine-gates/",
+  "title": "The Nine Gates: Customer Journey Framework | CXWorks",
+  "description": "The Nine Gates framework maps every step from Cited to Clicked to Chosen, so you can find the earliest gate where your eCommerce journey loses customers.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Nine Gates"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Customer journey framework",
+      "a": "Nine gates.",
+      "b": "Fix the earliest one that fails.",
+      "lead": "Cited, Clicked, Chosen. Every customer passes through nine gates. Fixing a later gate while an earlier one fails is money spent in the wrong place.",
+      "ctas": [
+        {
+          "l": "Get your Nine Gates score",
+          "href": "/free-ai-scan/"
+        }
+      ]
+    },
+    {
+      "type": "journey",
+      "eb": "The journey",
+      "h": "Each gate, with an example for both doors.",
+      "full": true
+    },
+    {
+      "type": "gatesall",
+      "eb": "All nine gates",
+      "h": "Three stages. Nine gates. One order."
+    },
+    {
+      "type": "list",
+      "eb": "Why it matters",
+      "h": "Why buyers use it.",
+      "items": [
+        "One shared language for every team and agency",
+        "Spend goes to the gate that actually fails",
+        "Progress you can score and track monthly"
+      ]
+    },
+    {
+      "type": "stats"
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Why the earliest gate matters most",
+      "paras": [
+        "The Nine Gates are the steps every buyer passes through online. Cited: discoverability and findability. Clicked: relevance, clarity and usability. Chosen: trust, conversion, assistance and retention.",
+        "Each gate can be measured, and each one caps the next. If buyers cannot discover you, nothing else matters. If they find you but cannot find the right product, a better checkout will not help.",
+        "That is why we always fix the earliest gate that fails. It gives the biggest lift for the effort and makes every later fix work harder.",
+        "A free AI scan gives you a first Nine Gate score. A DCX Audit measures every gate in depth and prices the leak at each one."
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to run",
+      "items": [
+        [
+          "Ways to work",
+          "/ways-to-work/"
+        ],
+        [
+          "Insights",
+          "/insights/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Get your Nine Gates score.",
+      "p": "Free AI scan in about 48 hours.",
+      "btn": {
+        "l": "Get your free AI scan",
+        "href": "/free-ai-scan/"
+      },
+      "form": true
+    }
+  ]
+}

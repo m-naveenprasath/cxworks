@@ -1,0 +1,175 @@
+{
+  "key": "svc:growth-marketing",
+  "path": "/services/growth-marketing/",
+  "title": "Growth Marketing Services for eCommerce | CXWorks",
+  "description": "Growth marketing tied to the full customer journey: paid search, SEO, email and CRM programs set up around the gates where you win or lose customers.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "Growth Marketing"
+    ]
+  ],
+  "sticky": {
+    "l": "Talk to an expert",
+    "href": "/contact-us/?topic=Growth%20Marketing"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Growth marketing agency",
+      "a": "Growth Marketing Solutions",
+      "b": "",
+      "lead": "Build a Measurable Growth System that integrates Organic & AI Visibility, Customer Acquisition, and Retention",
+      "ctas": [
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "Growth Marketing"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Rising acquisition costs",
+        "First orders, no repeat orders",
+        "Channels managed in silos"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "growth-marketing"
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Discoverability, Retention"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy Growth Marketing.",
+      "d": "Channel and CAC review",
+      "b": "Campaign and lifecycle setup",
+      "r": "Paid, SEO, CRM management"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch discoverability, retention, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Google Ads",
+        "Meta",
+        "Instagram Ads",
+        "LinkedIn Ads",
+        "TikTok Ads",
+        "Snapchat Ads",
+        "Klaviyo",
+        "HubSpot",
+        "Salesforce"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Growth Marketing Solutions",
+      "paras": [
+        "CXWorks helps B2B, B2C and D2C businesses improve how they are discovered, found and remembered across paid media, search, content, AI-driven discovery and lifecycle marketing.",
+        "Growth does not always slow because businesses are failing to reach enough people. Brands can invest across paid media, SEO, content, and social while still struggling to turn that activity into sustainable commercial growth.",
+        "The first challenge is discoverability. Customers now find brands across traditional search, social platforms, marketplaces, communities and AI-powered answers. If your business is not visible when high-intent questions are being asked, competitors can enter the consideration set before you do.",
+        "The challenge continues after discovery. More traffic does not automatically mean better growth. Campaigns can generate clicks without qualified demand. SEO can attract visits without commercial intent. Content can create attention without creating enough value."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is Growth Marketing?",
+          "Growth Marketing is a data-driven approach to improving discoverability, acquisition, engagement and retention. It connects paid media, SEO, content, AI Search Visibility and lifecycle marketing around measurable business growth."
+        ],
+        [
+          "What is the difference between Growth Marketing and Performance Marketing?",
+          "Performance Marketing typically focuses on measurable outcomes from paid channels. Growth Marketing is broader, combining paid, organic, content, lifecycle and retention activity across the customer journey."
+        ],
+        [
+          "How does Growth Marketing improve customer retention?",
+          "Growth Marketing uses lifecycle strategy, segmentation and behavioural signals to create more relevant post-acquisition engagement, including welcome, post-purchase, reactivation and win-back journeys."
+        ],
+        [
+          "How does CXWorks approach Growth Marketing?",
+          "CXWorks identifies where growth is breaking across discoverability, findability, acquisition and retention, then connects channels, customer behaviour and measurement to prioritise the highest-impact opportunities."
+        ],
+        [
+          "How does CXWorks measure Growth Marketing success?",
+          "CXWorks measures outcomes using metrics such as CAC, ROAS, Organic Traffic Growth, Email Revenue Contribution, LTV:CAC and AI Search Visibility, aligned to the business model and commercial priorities."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with a short call.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Talk to an expert",
+        "act": "book",
+        "topic": "Growth Marketing"
+      },
+      "form": true
+    }
+  ]
+}

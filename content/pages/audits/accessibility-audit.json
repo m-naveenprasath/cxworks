@@ -1,0 +1,259 @@
+{
+  "key": "audit:accessibility-audit",
+  "path": "/audits/accessibility-audit/",
+  "title": "eCommerce Accessibility Audit (WCAG 2.2) | CXWorks",
+  "description": "A WCAG 2.2 accessibility audit of your store’s key journeys, from navigation and search to checkout, with prioritised fixes that also lift conversion.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Diagnose"
+    ],
+    [
+      "Accessibility Audit"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Accessibility audit",
+      "a": "Accessibility audit",
+      "b": "against WCAG 2.2 AA.",
+      "lead": "A clear fix list so everyone can use your site.",
+      "ctas": [
+        {
+          "l": "Book this audit",
+          "act": "book",
+          "topic": "Accessibility Audit"
+        },
+        {
+          "l": "Compare with the full DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ],
+      "meta": [
+        "2 to 3 weeks",
+        "Fixed price"
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "Who it is for",
+      "h": "Get it when:",
+      "items": [
+        "Legal or procurement requirement",
+        "Customers using screen readers or keyboards",
+        "Redesign coming up"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Usability, Trust"
+    },
+    {
+      "type": "chart",
+      "slug": "audit-accessibility-audit"
+    },
+    {
+      "type": "checklist",
+      "eb": "What we check",
+      "h": "Checklist by gate.",
+      "groups": [
+        {
+          "gate": "Clicked",
+          "items": [
+            [
+              "WCAG 2.2 AA",
+              "Checked against the recognised standard"
+            ],
+            [
+              "Keyboard",
+              "Every action reachable without a mouse"
+            ],
+            [
+              "Screen readers",
+              "Labels, headings, alt text"
+            ],
+            [
+              "Contrast",
+              "Text and controls at least 4.5:1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "What you get",
+      "h": "Delivered as:",
+      "items": [
+        "Fix list by template",
+        "Severity and effort per issue",
+        "Retest after fixes",
+        "One-page Nine Gates snapshot"
+      ],
+      "check": true
+    },
+    {
+      "type": "steps",
+      "eb": "How it works",
+      "h": "AI first, experts always.",
+      "items": [
+        [
+          "AI first pass",
+          "Agents scan pages, logs and feeds."
+        ],
+        [
+          "Expert review",
+          "A specialist checks every finding."
+        ],
+        [
+          "Walkthrough call",
+          "We present the priorities and quick wins."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample report",
+      "h": "What the report looks like.",
+      "name": "Accessibility Audit"
+    },
+    {
+      "type": "upgrade",
+      "h": "Credited toward the DCX Audit.",
+      "p": "Book the full Diagnostic within 60 days and this audit fee is credited.",
+      "btn": {
+        "l": "See the DCX Audit",
+        "href": "/services/dcx-transformation/dcx-audit/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Accessibility that reaches every customer",
+      "paras": [
+        "Accessibility is about customers who cannot use your site today. It is also a growing legal risk. Our accessibility audit tests your site against WCAG 2.2 AA, focusing on the templates and journeys that matter most.",
+        "We combine automated scans with manual testing using keyboard and screen readers. We check navigation, search, filters, product pages, forms, cart and checkout, colour contrast, focus states and error messages.",
+        "Issues are grouped by template, so one fix improves every page that uses it, and ranked by severity and reach. You get clear guidance your developers can act on.",
+        "Many accessibility fixes also improve usability and SEO for everyone. They can be delivered as part of a template rebuild or a Build sprint."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How long does the Accessibility Audit take?",
+          "2 to 3 weeks. AI does a first pass, then an expert reviews and walks you through it."
+        ],
+        [
+          "How is it priced?",
+          "Fixed price. You know the price before we start."
+        ],
+        [
+          "What do I get at the end?",
+          "Fix list by template, Severity and effort per issue, Retest after fixes, One-page Nine Gates snapshot."
+        ],
+        [
+          "Does the fee count toward the DCX Audit?",
+          "Yes, if you book the Diagnostic within 60 days the fee is credited."
+        ],
+        [
+          "Do I need to give you access?",
+          "Read-only access to analytics and search logs helps. We can start with public pages only."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to diagnose",
+      "items": [
+        [
+          "DCX Audit",
+          "/services/dcx-transformation/dcx-audit/"
+        ],
+        [
+          "SEO Audit",
+          "/audits/seo-audit/"
+        ],
+        [
+          "Technical SEO Audit",
+          "/audits/technical-seo-audit/"
+        ],
+        [
+          "AI Visibility Audit",
+          "/audits/ai-visibility-audit/"
+        ],
+        [
+          "CRO Audit",
+          "/services/conversion-rate-optimization/audit/"
+        ],
+        [
+          "Digital Analytics Audit",
+          "/services/digital-analytics/audit/"
+        ],
+        [
+          "Digital Merchandising Audit",
+          "/services/digital-merchandising/audit/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Book the Accessibility Audit.",
+      "p": "2 to 3 weeks · Fixed price",
+      "btn": {
+        "l": "Book this audit",
+        "act": "book",
+        "topic": "Accessibility Audit"
+      },
+      "form": true
+    }
+  ]
+}

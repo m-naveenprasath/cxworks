@@ -1,0 +1,257 @@
+{
+  "key": "sol:ecommerce-consulting",
+  "path": "/ecommerce-consulting/",
+  "title": "eCommerce Consulting for B2B, B2C & D2C Brands | CXWorks",
+  "description": "eCommerce consulting for B2B, B2C and D2C brands: strategy, platform, catalog, search, CRO and analytics, prioritised by where revenue is leaking.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Ecommerce Consulting"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Ecommerce Consulting",
+      "a": "Ecommerce consulting",
+      "b": "for distributors, retailers and D2C brands.",
+      "lead": "Catalogs, search, B2B ordering and marketplaces, fixed by one team.",
+      "ctas": [
+        {
+          "l": "Book a DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        },
+        {
+          "l": "Get your free AI scan",
+          "href": "/free-ai-scan/"
+        }
+      ]
+    },
+    {
+      "type": "catalog",
+      "eb": "Deep on catalogs",
+      "h": "Built for distributors and large-catalog retail.",
+      "p": "Thousands of SKUs, messy supplier data, ERP-connected portals and buyers who reorder. We fix the templates, data and search that every page depends on.",
+      "chips": [
+        "Part-number search",
+        "Account pricing",
+        "Quick reorder",
+        "Quotes",
+        "Marketplaces",
+        "PIM and ERP"
+      ],
+      "big": [
+        "48,000",
+        "part numbers normalised in one project"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All nine"
+    },
+    {
+      "type": "gates",
+      "eb": "Cited, Clicked, Chosen",
+      "h": "Nine gates every customer passes through.",
+      "p": "Lost revenue shows up at conversion, but it usually starts earlier. We find the earliest gate that fails and fix that first.",
+      "link": {
+        "l": "See the Nine Gates framework",
+        "href": "/nine-gates/"
+      }
+    },
+    {
+      "type": "ai",
+      "eb": "AI plus human in the loop",
+      "h": "AI watches every gate. Experts fix what matters.",
+      "watch": [
+        "Zero-result and failed searches",
+        "Speed and errors by template",
+        "Tracking breaks and data gaps",
+        "Product feed and spec gaps",
+        "Mentions and citations in AI answers",
+        "Drop-off at checkout, quote or form"
+      ],
+      "decide": [
+        "Which signals are real",
+        "What fixing it is worth",
+        "What to fix first",
+        "How to design and build it",
+        "When it is ready to ship"
+      ]
+    },
+    {
+      "type": "cards",
+      "eb": "Services in this solution",
+      "h": "What makes it up.",
+      "items": [
+        {
+          "t": "Catalog and Product Data",
+          "d": "Clean, complete product data for search, filters and AI answers.",
+          "href": "/services/catalog-management/",
+          "meta": [
+            "Discoverability, Findability, Clarity"
+          ]
+        },
+        {
+          "t": "Digital Merchandising",
+          "d": "Search, filters and categories that turn browsing into buying.",
+          "href": "/services/digital-merchandising/",
+          "meta": [
+            "Findability, Relevance"
+          ]
+        },
+        {
+          "t": "Ecommerce Website Development",
+          "d": "Builds, migrations and template work that ship on time.",
+          "href": "/services/ecommerce-website-development/",
+          "meta": [
+            "Usability, Assistance"
+          ]
+        },
+        {
+          "t": "Conversion Rate Optimization",
+          "d": "A testing program that fixes causes, not symptoms.",
+          "href": "/services/conversion-rate-optimization/",
+          "meta": [
+            "Usability, Trust, Conversion"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ladder",
+      "eb": "Ways to start",
+      "h": "Small enough to say yes to.",
+      "p": "Each step sets up the next. Audits and fixed-price jobs sit beside the ladder as a side door, paid as you go or with prepaid credits.",
+      "items": [
+        {
+          "n": "01",
+          "t": "Free AI scan",
+          "d": "Automated. Nine Gate score, catalog health snapshot, zero-result search sample and AI visibility check. AI does the work, a human adds a two-line note before it goes out.",
+          "time": "About 48 hours",
+          "price": "Free",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "n": "02",
+          "t": "DCX Audit",
+          "d": "Human-led. Finds the earliest failing gate and puts a money value on fixing it. Ends with a prioritised roadmap.",
+          "time": "About 30 days",
+          "price": "Paid, fixed price",
+          "href": "/services/dcx-transformation/dcx-audit/",
+          "hi": true
+        },
+        {
+          "n": "03",
+          "t": "90-day Build sprint",
+          "d": "Fixes the top issues from the roadmap: templates, product data, search, tracking, first tests.",
+          "time": "90 days",
+          "price": "Fixed scope",
+          "href": "/services/dcx-transformation/"
+        }
+      ],
+      "link": {
+        "l": "Compare ways to work",
+        "href": "/ways-to-work/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Ecommerce consulting for large catalogs",
+      "paras": [
+        "Large catalogs have their own problems: messy product data, search that misses part numbers, filters that do not work and templates that repeat the same issue across thousands of pages. Our ecommerce consulting is built around them.",
+        "We help distributors, retailers and D2C brands decide where to invest: catalog data, search and merchandising, CRO, analytics, growth marketing or a new platform. Every recommendation is ranked by revenue impact.",
+        "Unlike advisory-only firms, we also deliver the work, with fixed-price jobs and 90-day sprints.",
+        "Start with a free AI scan or a DCX Audit to see where your store loses the most revenue."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is ecommerce consulting?",
+          "Finding where customers drop across the journey and fixing the earliest failing gate first."
+        ],
+        [
+          "Is it only for ecommerce?",
+          "This page is for ecommerce. Enquiry-based businesses should see customer experience consulting."
+        ],
+        [
+          "How do you start?",
+          "With a free AI scan, then a DCX Audit if needed."
+        ],
+        [
+          "How long until results?",
+          "Quick wins in 30 days, larger fixes in a 90-day sprint."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More solutions",
+      "items": [
+        [
+          "Customer Experience Consulting",
+          "/customer-experience-consulting/"
+        ],
+        [
+          "Customer Journey Optimization",
+          "/customer-journey-optimization/"
+        ]
+      ],
+      "hubs": [],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Find your earliest failing gate.",
+      "p": "Free AI scan in about 48 hours.",
+      "btn": {
+        "l": "Get your free AI scan",
+        "href": "/free-ai-scan/"
+      },
+      "form": true
+    }
+  ]
+}

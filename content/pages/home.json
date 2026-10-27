@@ -1,0 +1,374 @@
+{
+  "key": "home",
+  "path": "/",
+  "title": "CXWorks | Premium DCX Partner for eCommerce Brands",
+  "description": "CXWorks helps eCommerce businesses improve customer experience, analytics, CRO, merchandising, and digital growth through one connected operating system.",
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Digital customer experience (DCX)",
+      "a": "Your website is your revenue engine.",
+      "b": "We make every step of it work.",
+      "lead": "Not a CRO agency. A DCX team for businesses with complex journeys, from first search to repeat order. Built for distributors, retailers and large-catalog brands.",
+      "ctas": [
+        {
+          "l": "Get your free AI scan",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "l": "Book a DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ],
+      "home": true,
+      "small": {
+        "l": "Get enquiries online instead? See how we help",
+        "href": "/"
+      }
+    },
+    {
+      "type": "logos",
+      "eb": "Platforms and partners we work with"
+    },
+    {
+      "type": "stats"
+    },
+    {
+      "type": "problem",
+      "eb": "The problem",
+      "a": "Your conversion rate is not the problem.",
+      "b": "It is where the problem shows up.",
+      "lines": [
+        [
+          "Cited",
+          "Buyers ask an AI tool and it recommends a competitor."
+        ],
+        [
+          "Clicked",
+          "They land, search for a part number and get \"no results\"."
+        ],
+        [
+          "Chosen",
+          "They hesitate at shipping costs and pick up the phone instead."
+        ]
+      ]
+    },
+    {
+      "type": "gates",
+      "eb": "Cited, Clicked, Chosen",
+      "h": "Nine gates every customer passes through.",
+      "p": "Lost revenue shows up at conversion, but it usually starts earlier. We find the earliest gate that fails and fix that first.",
+      "link": {
+        "l": "See the Nine Gates framework",
+        "href": "/nine-gates/"
+      }
+    },
+    {
+      "type": "stages",
+      "eb": "How we work",
+      "h": "Diagnose. Build.",
+      "p": "Every service sits under one of two stages, with an AI agent layer running across both.",
+      "items": [
+        {
+          "slug": "diagnose",
+          "name": "Diagnose",
+          "verb": "Find",
+          "line": "Find the earliest failing gate before you spend on fixes.",
+          "links": [
+            [
+              "DCX Audit",
+              "/services/dcx-transformation/dcx-audit/"
+            ],
+            [
+              "SEO Audit",
+              "/audits/seo-audit/"
+            ],
+            [
+              "Technical SEO Audit",
+              "/audits/technical-seo-audit/"
+            ],
+            [
+              "AI Visibility Audit",
+              "/audits/ai-visibility-audit/"
+            ],
+            [
+              "CRO Audit",
+              "/services/conversion-rate-optimization/audit/"
+            ]
+          ],
+          "href": "/services/dcx-transformation/dcx-audit/"
+        },
+        {
+          "slug": "build",
+          "name": "Build",
+          "verb": "Fix",
+          "line": "Fix the top issues in a 90-day sprint or a fixed-price job.",
+          "links": [
+            [
+              "DCX Strategy and Transformation",
+              "/services/dcx-transformation/"
+            ],
+            [
+              "Conversion Rate Optimization",
+              "/services/conversion-rate-optimization/"
+            ],
+            [
+              "AI Search Visibility (GEO)",
+              "/services/ai-search-visibility/"
+            ],
+            [
+              "Digital Merchandising",
+              "/services/digital-merchandising/"
+            ],
+            [
+              "Catalog and Product Data",
+              "/services/catalog-management/"
+            ]
+          ],
+          "href": "/services/dcx-transformation/"
+        }
+      ]
+    },
+    {
+      "type": "loop",
+      "eb": "How it works",
+      "h": "AI watches every gate. Experts decide and ship."
+    },
+    {
+      "type": "catalog",
+      "eb": "Built for large catalogs",
+      "h": "One fix, thousands of pages.",
+      "p": "We fix templates, product data and search, not single pages. Change one product template or clean one attribute, and every page that uses it improves at once.",
+      "chips": [
+        "Part-number search",
+        "Filters and facets",
+        "Specs and attributes",
+        "B2B reorder",
+        "Quotes and account pricing",
+        "Product feeds for AI"
+      ],
+      "big": [
+        "1 template",
+        "9,000+ pages improved"
+      ]
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "ladder",
+      "eb": "Ways to start",
+      "h": "Small enough to say yes to.",
+      "p": "Each step sets up the next. Audits and fixed-price jobs sit beside the ladder as a side door, paid as you go or with prepaid credits.",
+      "items": [
+        {
+          "n": "01",
+          "t": "Free AI scan",
+          "d": "Automated. Nine Gate score, catalog health snapshot, zero-result search sample and AI visibility check. AI does the work, a human adds a two-line note before it goes out.",
+          "time": "About 48 hours",
+          "price": "Free",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "n": "02",
+          "t": "DCX Audit",
+          "d": "Human-led. Finds the earliest failing gate and puts a money value on fixing it. Ends with a prioritised roadmap.",
+          "time": "About 30 days",
+          "price": "Paid, fixed price",
+          "href": "/services/dcx-transformation/dcx-audit/",
+          "hi": true
+        },
+        {
+          "n": "03",
+          "t": "90-day Build sprint",
+          "d": "Fixes the top issues from the roadmap: templates, product data, search, tracking, first tests.",
+          "time": "90 days",
+          "price": "Fixed scope",
+          "href": "/services/dcx-transformation/"
+        }
+      ],
+      "link": {
+        "l": "Compare ways to work",
+        "href": "/ways-to-work/"
+      }
+    },
+    {
+      "type": "cases",
+      "eb": "Case stories",
+      "h": "Named by the gate that was failing.",
+      "items": [
+        {
+          "slug": "industrial-distributor-search",
+          "gate": "Findability",
+          "door": "I sell online",
+          "ind": "Industrial tools and supplies",
+          "client": "US industrial distributor",
+          "n1": [
+            "-71%",
+            "zero-result searches"
+          ],
+          "n2": [
+            "+34%",
+            "online reorders"
+          ],
+          "t": "Part-number search that finally returns parts.",
+          "ch": "Trade buyers typed exact part numbers and got \"no results\", so they picked up the phone instead.",
+          "ai": "AI agents flagged 2,300 zero-result searches a month, most of them valid part numbers with formatting differences.",
+          "ex": "Experts decided to fix the product data and search synonyms first, not the search UI.",
+          "built": [
+            "Normalised 48,000 part numbers",
+            "Synonym and fuzzy-match rules",
+            "Reorder from order history"
+          ],
+          "quote": "Our reps stopped being a search engine for our own website.",
+          "illustrative": true
+        },
+        {
+          "slug": "retailer-filters",
+          "gate": "Usability",
+          "door": "I sell online",
+          "ind": "Home and furniture",
+          "client": "UK multi-category retailer",
+          "n1": [
+            "+22%",
+            "filter-to-cart rate"
+          ],
+          "n2": [
+            "-18%",
+            "returns on sized items"
+          ],
+          "t": "One template fix across 9,000 product pages.",
+          "ch": "Shoppers could not filter by size or delivery date, then returned items that did not fit.",
+          "ai": "AI flagged filter drop-off and return reasons clustering around dimensions.",
+          "ex": "Experts rebuilt the listing and product templates once, so every page improved together.",
+          "built": [
+            "Size and delivery filters",
+            "Dimension block on product template",
+            "Delivery date promise"
+          ],
+          "quote": "It felt like we fixed the whole site, not a page.",
+          "illustrative": true
+        },
+        {
+          "slug": "rehab-admissions",
+          "gate": "Conversion",
+          "door": "I get enquiries online",
+          "ind": "Enquiry-based businesses",
+          "client": "US healthcare and rehab provider",
+          "n1": [
+            "+41%",
+            "admission enquiries"
+          ],
+          "n2": [
+            "20 → 6",
+            "form questions"
+          ],
+          "t": "From a 20-question form to a call-back.",
+          "ch": "The admission form asked 20 questions before anyone could talk to a person.",
+          "ai": "AI flagged where families left the form and which pages built the most trust.",
+          "ex": "Experts cut the form, added trust signals and a call-back option, within compliance rules.",
+          "built": [
+            "6-field form with call-back",
+            "Accreditation and insurance block",
+            "Same-day response flow"
+          ],
+          "quote": "Families reach a person sooner, and that is the whole job.",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "type": "reviews"
+    },
+    {
+      "type": "insrail"
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Premium Digital Customer Experience Partner for eCommerce Brands",
+      "paras": [
+        "CXWorks drives measurable eCommerce growth by aligning digital customer experience, analytics, merchandising, and acquisition into an integrated operating system.",
+        "CXWorks is a Digital Customer Experience and Growth partner for eCommerce brands across B2B, B2C, and D2C.",
+        "Modern eCommerce growth fails not because businesses lack technology, channels, or marketing investment. It fails because customer experience, analytics, merchandising, experimentation, AI search visibility, and growth marketing operate independently rather than as one connected system.",
+        "CXWorks helps B2B, B2C, and D2C eCommerce businesses identify where customer journeys break, prioritize the highest-impact improvements, and build measurable digital growth through one connected operating system."
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "Build: our services",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Find your earliest failing gate.",
+      "p": "Free AI scan. Nine Gate score in about 48 hours.",
+      "btn": {
+        "l": "Get your free AI scan",
+        "href": "/free-ai-scan/"
+      },
+      "form": true
+    }
+  ]
+}

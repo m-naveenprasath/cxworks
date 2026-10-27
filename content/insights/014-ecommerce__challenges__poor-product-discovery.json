@@ -1,0 +1,182 @@
+{
+  "slug": "ecommerce/challenges/poor-product-discovery",
+  "cat": "eCommerce Challenges",
+  "t": "What Is eCommerce Product Discovery?",
+  "title": "eCommerce Product Discovery: Common Challenges and Solutions",
+  "d": "Learn how eCommerce product discovery challenges affect search, navigation, merchandising and conversion, with practical optimization strategies.",
+  "ex": "Learn how eCommerce product discovery challenges affect search, navigation, merchandising and conversion, with practical optimization strategies.",
+  "date": "August 31, 2026",
+  "read": "5 min",
+  "secs": [
+    {
+      "h": "Introduction",
+      "b": [
+        {
+          "p": "eCommerce product discovery is the process shoppers use to find, evaluate, and select products through search, navigation, category pages, recommendations, filters, and merchandising. The process starts with shopper intent. A customer may know the exact product they want, have a broad category in mind, or simply recognize a need without knowing the product name. Each scenario requires a different discovery path."
+        },
+        {
+          "p": "eCommerce site search supports shoppers with explicit intent. Category navigation supports exploratory browsing. Product filters narrow large assortments. Recommendations introduce relevant alternatives or complementary products. Merchandising controls the commercial presentation of products across these touchpoints. Effective product search and discovery therefore depends on more than a search box. It depends on how the commerce experience interprets intent and presents relevant products."
+        },
+        {
+          "p": "Common eCommerce Product Discovery Challenges"
+        },
+        {
+          "p": "Poor Site Search and Irrelevant Results"
+        },
+        {
+          "p": "Search relevance determines whether an internal search produces useful results for a shopper's query. Exact keyword matching often fails because shoppers use abbreviations, synonyms, product attributes, colloquial terms, or incomplete descriptions. Search autocomplete can reduce typing effort, but just the autocomplete does not solve relevance. A search engine must interpret the query against product names, descriptions, attributes, taxonomy, inventory, and commercial rules. Zero-result searches expose a particularly important failure point. A shopper searching for a product that exists but cannot be retrieved through internal search receives the wrong signal: that the retailer does not carry it. Search analytics should therefore examine zero-result searches, low-engagement queries, search exits, refinements, and conversion following search."
+        }
+      ]
+    },
+    {
+      "h": "Weak Category Navigation and Filtering",
+      "b": [
+        {
+          "p": "Navigation becomes difficult when categories reflect internal catalog structures. A customer does not understand how a retailer organizes its product information. Product filters create a second layer of friction when attributes are incomplete, inconsistent, or irrelevant to the category. A fashion shopper may need size, color, fit, material, and price. A B2B buyer may need technical specification, application, brand, compatibility, and certification."
+        },
+        {
+          "p": "Faceted navigation should reflect the attributes that materially influence product selection. Category pages and product listing pages should expose useful paths without creating unnecessary filter combinations."
+        }
+      ]
+    },
+    {
+      "h": "Incomplete or Inconsistent Product Data",
+      "b": [
+        {
+          "p": "Product discovery depends on product data quality. Search engines, filters, category pages, recommendations, and merchandising rules all depend on structured product information. Inconsistent naming creates retrieval problems. Missing attributes reduce filtering accuracy. Poor taxonomy creates navigation problems. Incomplete descriptions weaken relevance and product evaluation. Product taxonomy should therefore create a consistent relationship between categories, attributes, products, and shopper intent."
+        }
+      ]
+    },
+    {
+      "h": "Limited Merchandising and Product Ranking",
+      "b": [
+        {
+          "p": "Search and navigation determine which products shoppers can access, while merchandising determines how those products are presented and prioritized. A retailer may have strong search technology but still produce weak commercial outcomes if product ranking ignores stock availability, margin strategy, seasonality, popularity, product lifecycle, or promotional priorities."
+        },
+        {
+          "p": "Searchandising, the combination of search and merchandising allows teams to apply commercial logic to relevant product results without replacing relevance with manual promotion."
+        }
+      ]
+    },
+    {
+      "h": "Disconnected Search, Navigation, and Merchandising",
+      "b": [
+        {
+          "p": "The most difficult problem often sits between systems. When search, navigation, recommendations, merchandising, and analytics operate independently, teams receive fragmented signals about shopper behavior. A query may reveal strong intent, while the category experience presents different products and the recommendation engine uses another logic. A connected product discovery model creates consistent signals across these touchpoints. Analytics then provides the evidence required to refine those signals."
+        },
+        {
+          "p": "How to Improve eCommerce Product Discovery"
+        },
+        {
+          "p": "Improve On-Site Search Relevance and Intent Matching"
+        },
+        {
+          "p": "Product search optimization should begin with actual shopper queries. Search teams should analyze query frequency, zero-result searches, refinements, exits, clicks, add-to-cart activity, and conversion. Search relevance improves when the search engine understands synonyms, spelling variations, attributes, product identifiers, and natural-language intent. Search autocomplete should also guide shoppers toward valid products, categories, and common queries. The goal is not simply to return results, it is to return products that satisfy the intent behind the query."
+        }
+      ]
+    },
+    {
+      "h": "Strengthen Categories, Filters, and Faceted Navigation",
+      "b": [
+        {
+          "p": "Category navigation should reflect how customers evaluate the assortment. Teams should assess category structures against search behavior, product attributes, analytics data, and usability evidence. Faceted navigation should expose meaningful product attributes and remove filters that provide little decision value. Product listing pages should also maintain useful sorting and filtering behavior as shoppers narrow the assortment. This approach supports product findability while reducing unnecessary interaction costs."
+        }
+      ]
+    },
+    {
+      "h": "Standardize Product Information and Attributes",
+      "b": [
+        {
+          "p": "Product information management should establish consistent names, descriptions, attributes, identifiers, category assignments, and merchandising fields. A standardized data model gives search, filters, recommendations, and merchandising a common product foundation. It also makes analytics more reliable because teams can compare products and categories using consistent attributes."
+        }
+      ]
+    },
+    {
+      "h": "Apply Data-Driven Merchandising Rules",
+      "b": [
+        {
+          "p": "Merchandising rules should reflect measurable commercial and customer signals. Depending on the business model, those signals can include inventory, conversion, product engagement, sales velocity, seasonality, margin, promotions, and customer segments. Rules should complement search relevance, teams should also monitor the impact of ranking changes through controlled testing where appropriate."
+        }
+      ]
+    },
+    {
+      "h": "Connect Search, Navigation, Recommendations, and Analytics",
+      "b": [
+        {
+          "p": "Product discovery optimization works best when each touchpoint contributes to the same customer journey. Search data can reveal emerging demand. Navigation data can expose category friction. Recommendation performance can show which products create engagement. Merchandising data can explain ranking outcomes. Analytics can connect those behaviors to conversion and revenue. This creates a continuous optimization cycle instead of a collection of isolated improvements."
+        }
+      ]
+    },
+    {
+      "h": "How to Measure Product Discovery Performance",
+      "b": []
+    },
+    {
+      "h": "Search Success, Product Engagement, and Conversion Metrics",
+      "b": [
+        {
+          "p": "Product discovery performance should connect behavioral metrics with commercial outcomes. Useful measures include search success rate, search exit rate, click-through rate, product engagement, add-to-cart rate, conversion rate, revenue per search, and conversion differences between shoppers who use search and those who do not. No single metric explains product findability. A high search click-through rate can still coexist with weak conversion if shoppers reach irrelevant or poorly presented products."
+        }
+      ]
+    },
+    {
+      "h": "Zero-Result Searches and Search Refinement",
+      "b": [
+        {
+          "p": "Zero-result searches provide direct evidence of discovery gaps. Teams should classify these queries to determine whether the underlying issue involves missing products, synonyms, taxonomy, product data, spelling, or search configuration. Search refinement also matters. Repeated query reformulation can indicate that the initial result set failed to satisfy shopper intent. Monitoring these patterns gives teams a practical roadmap for product search optimization."
+        }
+      ]
+    },
+    {
+      "h": "Product Discovery Funnel and Revenue Impact",
+      "b": [
+        {
+          "p": "A useful measurement model connects the discovery funnel from query or category entry → product view → engagement → add to cart → checkout → purchase."
+        },
+        {
+          "p": "Teams can then compare performance across search, category navigation, recommendations, and other discovery paths. The commercial question is straightforward: which discovery experiences help qualified shoppers reach relevant products and convert?"
+        }
+      ]
+    },
+    {
+      "h": "eCommerce Product Discovery Tools and Technologies",
+      "b": []
+    },
+    {
+      "h": "Site Search, Product Recommendations, and Merchandising Platforms",
+      "b": [
+        {
+          "p": "Modern product discovery stacks commonly combine site search, product recommendations, merchandising, analytics, product information management, and experimentation. Platforms such as Algolia can support search and discovery capabilities. Recommendation engines can use behavioral and product signals to surface relevant products. Merchandising platforms can give commerce teams greater control over ranking and promotional rules. GA4 and related analytics systems can help measure discovery behavior and downstream conversion. The technology should follow the operating model. A sophisticated search platform cannot compensate for poor taxonomy, incomplete product data, weak measurement, or unclear merchandising rules."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "What is eCommerce product discovery?",
+      "eCommerce product discovery is the process shoppers use to find relevant products through search, navigation, filtering, recommendations, and merchandising."
+    ],
+    [
+      "Why is product discovery important for eCommerce?",
+      "Product discovery is important because it connects shopper intent with relevant products and directly influences product engagement, conversion, and customer experience."
+    ],
+    [
+      "What causes poor product discovery?",
+      "Poor product discovery commonly results from weak search relevance, incomplete product data, inconsistent taxonomy, ineffective filters, weak merchandising, and disconnected discovery systems."
+    ],
+    [
+      "How can eCommerce businesses improve product discovery?",
+      "eCommerce businesses can improve product discovery by optimizing site search, strengthening category navigation, standardizing product attributes, improving merchandising rules, and connecting discovery data across the customer journey."
+    ],
+    [
+      "How do you measure product discovery?",
+      "You measure product discovery through search success, zero-result searches, search refinement, product engagement, add-to-cart activity, conversion rate, revenue per search, and discovery funnel performance."
+    ]
+  ],
+  "draft": false,
+  "sols": [
+    "digital-merchandising",
+    "dcx-transformation",
+    "digital-analytics"
+  ]
+}

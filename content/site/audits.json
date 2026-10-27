@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "dcx-diagnostic",
+    "name": "DCX Audit",
+    "kw": "Customer experience audit",
+    "h1": [
+      "Customer experience audit:",
+      "the full DCX Audit."
+    ],
+    "out": "Find the earliest failing gate and what fixing it is worth.",
+    "time": "About 30 days",
+    "price": "Fixed price by site size",
+    "badge": "Most complete",
+    "who": [
+      "Revenue is flat and nobody agrees why",
+      "Several agencies, no single owner of the journey",
+      "Planning a replatform or redesign"
+    ],
+    "checks": [
+      [
+        "Cited",
+        "Discoverability",
+        "Showing up in Google, AI answers and marketplaces when buyers search."
+      ],
+      [
+        "Cited",
+        "Findability",
+        "Search, menus and filters that get people to the right product or page fast."
+      ],
+      [
+        "Clicked",
+        "Relevance",
+        "The landing page matches what they searched for."
+      ],
+      [
+        "Clicked",
+        "Clarity",
+        "They understand what you offer, who it is for and what to do next."
+      ],
+      [
+        "Clicked",
+        "Usability",
+        "Speed, mobile, navigation and forms that never get in the way."
+      ],
+      [
+        "Chosen",
+        "Trust",
+        "Reviews, specs, policies and proof that remove doubt."
+      ],
+      [
+        "Chosen",
+        "Conversion",
+        "Checkout, quote, form, call or booking that works first time."
+      ],
+      [
+        "Chosen",
+        "Assistance",
+        "Order updates, onboarding, enquiry follow-up and fast answers on calls, email, chat and WhatsApp."
+      ],
+      [
+        "Chosen",
+        "Retention",
+        "Reorders, renewals and referrals."
+      ]
+    ],
+    "get": [
+      "Nine Gates score with evidence",
+      "Earliest failing gate, valued in money",
+      "Prioritised 90-day roadmap",
+      "Walkthrough with your leadership team"
+    ]
+  },
+  {
+    "slug": "seo-audit",
+    "name": "SEO Audit",
+    "kw": "SEO audit services",
+    "h1": [
+      "SEO audit services",
+      "for large catalogs."
+    ],
+    "out": "See what holds your rankings back and what to fix first.",
+    "time": "2 to 3 weeks",
+    "price": "Fixed price by site size",
+    "who": [
+      "Organic traffic is flat or falling",
+      "Category pages rank below competitors",
+      "Planning a migration"
+    ],
+    "checks": [
+      [
+        "Cited",
+        "Content",
+        "Thin, duplicate or missing category and product copy"
+      ],
+      [
+        "Cited",
+        "Keywords",
+        "Buyer terms you rank for, and the ones you miss"
+      ],
+      [
+        "Cited",
+        "Links",
+        "Authority compared with competitors"
+      ],
+      [
+        "Cited",
+        "Ecommerce SEO",
+        "Faceted URLs, pagination, product schema"
+      ],
+      [
+        "Clicked",
+        "Relevance",
+        "Search intent versus landing page"
+      ]
+    ],
+    "get": [
+      "Issue list ranked by impact",
+      "Quick wins for the first 30 days",
+      "Ecommerce section for catalogs",
+      "One-page Nine Gates snapshot"
+    ]
+  },
+  {
+    "slug": "technical-seo-audit",
+    "name": "Technical SEO Audit",
+    "kw": "Technical SEO audit",
+    "h1": [
+      "Technical SEO audit",
+      "for sites with thousands of pages."
+    ],
+    "out": "Make sure search engines can crawl, index and understand every page.",
+    "time": "2 to 3 weeks",
+    "price": "Fixed price by site size",
+    "who": [
+      "Pages missing from Google",
+      "Slow templates",
+      "Faceted navigation creating duplicate URLs"
+    ],
+    "checks": [
+      [
+        "Cited",
+        "Crawling",
+        "Crawl budget, blocked paths, orphan pages"
+      ],
+      [
+        "Cited",
+        "Indexing",
+        "Canonicals, duplicates, parameter URLs"
+      ],
+      [
+        "Clicked",
+        "Speed",
+        "Core Web Vitals by template"
+      ],
+      [
+        "Cited",
+        "Structured data",
+        "Product, offer, review and FAQ schema"
+      ],
+      [
+        "Cited",
+        "Large-catalog issues",
+        "Faceted URLs, near-duplicate products"
+      ]
+    ],
+    "get": [
+      "Fix list by template",
+      "Developer-ready tickets",
+      "Indexing and speed benchmarks",
+      "One-page Nine Gates snapshot"
+    ]
+  },
+  {
+    "slug": "ai-visibility-audit",
+    "name": "AI Visibility Audit",
+    "kw": "AI visibility audit",
+    "h1": [
+      "AI visibility audit:",
+      "are you in the answer?"
+    ],
+    "out": "See where ChatGPT, Gemini and Google AI Mode mention you, and where they pick a competitor.",
+    "time": "2 weeks",
+    "price": "Fixed price",
+    "who": [
+      "Buyers ask AI tools before they search",
+      "Competitors appear in AI answers and you do not",
+      "Product feeds are incomplete"
+    ],
+    "checks": [
+      [
+        "Cited",
+        "Mentions",
+        "Where AI tools name you and competitors"
+      ],
+      [
+        "Cited",
+        "Citations",
+        "Which sources and pages they cite"
+      ],
+      [
+        "Cited",
+        "Feeds",
+        "Product feed and structured data gaps"
+      ],
+      [
+        "Clicked",
+        "Content",
+        "Pages AI can quote: FAQs, specs, comparisons"
+      ]
+    ],
+    "get": [
+      "AI share of voice versus competitors",
+      "Before / after citation examples",
+      "Feed and content fix list",
+      "One-page Nine Gates snapshot"
+    ]
+  },
+  {
+    "slug": "cro-ux-audit",
+    "name": "CRO Audit",
+    "kw": "CRO audit · UX audit",
+    "h1": [
+      "CRO audit",
+      "grouped by gate."
+    ],
+    "out": "Find where visitors drop and build a test backlog that fixes causes.",
+    "time": "2 to 3 weeks",
+    "price": "Fixed price",
+    "who": [
+      "Conversion rate is flat",
+      "Paid traffic lands and leaves",
+      "Checkout or forms leak"
+    ],
+    "checks": [
+      [
+        "Clicked",
+        "Usability",
+        "Navigation, mobile, speed, accessibility basics"
+      ],
+      [
+        "Chosen",
+        "Trust",
+        "Reviews, policies, proof near the decision"
+      ],
+      [
+        "Chosen",
+        "Conversion",
+        "Checkout, quote or form friction"
+      ],
+      [
+        "Clicked",
+        "Mobile",
+        "Thumb reach, sticky actions, form inputs"
+      ]
+    ],
+    "get": [
+      "Issues grouped by gate",
+      "Prioritised test backlog",
+      "Quick wins",
+      "One-page Nine Gates snapshot"
+    ]
+  },
+  {
+    "slug": "analytics-audit",
+    "name": "Digital Analytics Audit",
+    "kw": "GA4 audit · analytics audit",
+    "h1": [
+      "GA4 and analytics audit:",
+      "numbers you can defend."
+    ],
+    "out": "Check that every order and lead is tracked correctly.",
+    "time": "1 to 2 weeks",
+    "price": "Fixed price",
+    "who": [
+      "Reports disagree across tools",
+      "Teams do not trust the dashboard",
+      "Moving to GA4 or Adobe"
+    ],
+    "checks": [
+      [
+        "All",
+        "Tracking accuracy",
+        "Events firing correctly across templates"
+      ],
+      [
+        "Chosen",
+        "Orders and leads",
+        "Purchase, quote, form and call events"
+      ],
+      [
+        "All",
+        "Attribution",
+        "Channel and campaign tagging"
+      ],
+      [
+        "All",
+        "Dashboards",
+        "What leaders see, and whether it is right"
+      ]
+    ],
+    "get": [
+      "List of tracked events and gaps",
+      "Fix plan for your developers",
+      "Dashboard recommendations",
+      "One-page Nine Gates snapshot"
+    ]
+  },
+  {
+    "slug": "accessibility-audit",
+    "name": "Accessibility Audit",
+    "kw": "Accessibility audit",
+    "h1": [
+      "Accessibility audit",
+      "against WCAG 2.2 AA."
+    ],
+    "out": "A clear fix list so everyone can use your site.",
+    "time": "2 to 3 weeks",
+    "price": "Fixed price",
+    "who": [
+      "Legal or procurement requirement",
+      "Customers using screen readers or keyboards",
+      "Redesign coming up"
+    ],
+    "checks": [
+      [
+        "Clicked",
+        "WCAG 2.2 AA",
+        "Checked against the recognised standard"
+      ],
+      [
+        "Clicked",
+        "Keyboard",
+        "Every action reachable without a mouse"
+      ],
+      [
+        "Clicked",
+        "Screen readers",
+        "Labels, headings, alt text"
+      ],
+      [
+        "Clicked",
+        "Contrast",
+        "Text and controls at least 4.5:1"
+      ]
+    ],
+    "get": [
+      "Fix list by template",
+      "Severity and effort per issue",
+      "Retest after fixes",
+      "One-page Nine Gates snapshot"
+    ]
+  },
+  {
+    "slug": "catalog-search-audit",
+    "name": "Digital Merchandising Audit",
+    "kw": "Digital Merchandising audit",
+    "h1": [
+      "Digital Merchandising audit:",
+      "fix the searches that return nothing."
+    ],
+    "out": "Find missing specs, duplicates and zero-result searches.",
+    "time": "2 weeks",
+    "price": "Fixed price by catalog size",
+    "who": [
+      "Searches return \"no results\"",
+      "Filters are empty or wrong",
+      "Product data comes from many suppliers"
+    ],
+    "checks": [
+      [
+        "Cited",
+        "Zero-result searches",
+        "What buyers type and get nothing back"
+      ],
+      [
+        "Cited",
+        "Filters",
+        "Missing or inconsistent attributes"
+      ],
+      [
+        "Clicked",
+        "Specs",
+        "Missing, thin or duplicated product data"
+      ],
+      [
+        "Cited",
+        "Duplicates",
+        "Near-identical titles and SKUs"
+      ]
+    ],
+    "get": [
+      "Catalog health score",
+      "Zero-result search report",
+      "Batch cleanup plan and price",
+      "One-page Nine Gates snapshot"
+    ]
+  }
+]

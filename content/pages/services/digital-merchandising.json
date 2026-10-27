@@ -1,0 +1,176 @@
+{
+  "key": "svc:digital-merchandising",
+  "path": "/services/digital-merchandising/",
+  "title": "Digital Merchandising Solutions for eCommerce | CXWorks",
+  "description": "Improve product discovery, on-site search, category performance, and conversions with CXWorks's data-driven Digital Merchandising Solutions.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "Digital Merchandising"
+    ]
+  ],
+  "sticky": {
+    "l": "Book the Digital Merchandising Audit",
+    "href": "/contact-us/?topic=Digital%20Merchandising%20Audit"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Ecommerce merchandising",
+      "a": "Digital Merchandising Solutions",
+      "b": "",
+      "lead": "Grow your business by making the right products easier to find and choose.",
+      "ctas": [
+        {
+          "l": "Book the Digital Merchandising Audit",
+          "act": "book",
+          "topic": "Digital Merchandising Audit"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "Digital Merchandising"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Searches return the wrong products",
+        "Category pages buried in filters",
+        "Promotions hard to find"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "digital-merchandising"
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Findability, Relevance"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy Digital Merchandising.",
+      "d": "Search, PLP and assortment review",
+      "b": "Search tuning, category and filter rebuild",
+      "r": "Ongoing merchandising ops"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch findability, relevance, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Algolia",
+        "Bloomreach",
+        "Constructor",
+        "Shopify",
+        "Adobe Commerce"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Digital Merchandising Solutions",
+      "paras": [
+        "CXWorks helps B2B, B2C and D2C eCommerce businesses connect product discovery, search, category experience, product information and commercial intelligence into one merchandising system.",
+        "Customers do not always search using the same language businesses use in their product catalogs. They search naturally using synonyms, alternative terminology, incomplete phrases, or even misspellings.",
+        "When search depends on exact product names or catalog terminology, relevant products can remain invisible even when they are available.",
+        "Discovery friction does not end once a customer reaches the right category. Large assortments still need to be narrowed into a manageable set of relevant options. When filtering, sorting, and category structures fail to support that process, customers are left to do the work themselves."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is Digital Merchandising?",
+          "Digital Merchandising improves how products are discovered, prioritised, presented, and selected across digital channels."
+        ],
+        [
+          "Is Digital Merchandising just about ecommerce search?",
+          "No. It also covers taxonomy, navigation, PLPs, filtering, ranking, product information, recommendations, and product visibility."
+        ],
+        [
+          "How does Digital Merchandising improve conversion?",
+          "It helps customers find more relevant products and make confident decisions with less friction."
+        ],
+        [
+          "How does CXWorks approach Digital Merchandising?",
+          "CXWorks focuses on making products easier to find, easier to choose, and merchandising decisions more commercially intelligent."
+        ],
+        [
+          "Can CXWorks help with an existing ecommerce platform?",
+          "Yes. CXWorks can improve search, taxonomy, PLPs, filtering, product information, ranking, and recommendations within your existing platform"
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with the Digital Merchandising Audit.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book the Digital Merchandising Audit",
+        "act": "book",
+        "topic": "Digital Merchandising Audit"
+      },
+      "form": true
+    }
+  ]
+}

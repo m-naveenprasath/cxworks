@@ -1,0 +1,424 @@
+{
+  "key": "ways-to-work",
+  "path": "/ways-to-work/",
+  "title": "Ways to Work With CXWorks: Audit, Sprint or Pod",
+  "description": "Start with a free AI scan or fixed-price audit, fix the top issues in a 90-day Build sprint. Choose your path.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Ways to work"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Ways to work",
+      "a": "Start small.",
+      "b": "Grow step by step.",
+      "lead": "A free scan, fixed-price audits and jobs, and 90-day Build sprints.",
+      "ctas": [
+        {
+          "l": "Book a call to pick the right option",
+          "act": "book",
+          "topic": "Ways to work"
+        },
+        {
+          "l": "Buy credits",
+          "act": "book",
+          "topic": "Prepaid credits"
+        }
+      ]
+    },
+    {
+      "type": "ladder",
+      "eb": "The engagement ladder",
+      "h": "Each step sets up the next.",
+      "p": "Each step is small enough to say yes to. Pay-as-you-go jobs sit beside the ladder as a side door: any of them can lead to step 2.",
+      "items": [
+        {
+          "n": "01",
+          "t": "Free AI scan",
+          "d": "Automated. Nine Gate score, catalog health snapshot, zero-result search sample and AI visibility check. AI does the work, a human adds a two-line note before it goes out.",
+          "time": "About 48 hours",
+          "price": "Free",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "n": "02",
+          "t": "DCX Audit",
+          "d": "Human-led. Finds the earliest failing gate and puts a money value on fixing it. Ends with a prioritised roadmap.",
+          "time": "About 30 days",
+          "price": "Paid, fixed price",
+          "href": "/services/dcx-transformation/dcx-audit/",
+          "hi": true
+        },
+        {
+          "n": "03",
+          "t": "90-day Build sprint",
+          "d": "Fixes the top issues from the roadmap: templates, product data, search, tracking, first tests.",
+          "time": "90 days",
+          "price": "Fixed scope",
+          "href": "/services/dcx-transformation/"
+        }
+      ]
+    },
+    {
+      "type": "analogy",
+      "h": "Pay-as-you-go: a good idea, with rules.",
+      "p": "Fixed-price jobs with a clear output, never hourly billing. Think of a restaurant: the à la carte menu brings people in, but the set menu (a Build sprint) is where the relationship lives."
+    },
+    {
+      "type": "list",
+      "eb": "Good fit for pay-as-you-go",
+      "h": "A job can be pay-as-you-go when:",
+      "items": [
+        "It has a clear finish line: a report, a fixed batch of SKUs, a set of built tests",
+        "The scope can be priced up front",
+        "It feeds data or quick wins into the bigger journey story"
+      ],
+      "check": true
+    },
+    {
+      "type": "list",
+      "eb": "Better on a retainer",
+      "h": "Keep it monthly when the value comes from doing it month after month:",
+      "items": [
+        "Testing programs",
+        "Merchandising ops",
+        "Growth marketing"
+      ]
+    },
+    {
+      "type": "table",
+      "eb": "Pay-as-you-go by service",
+      "h": "What you can buy as a one-off job.",
+      "cols": [
+        "Service",
+        "Pay-as-you-go?",
+        "How it is packaged"
+      ],
+      "rows": [
+        [
+          "Catalog and Product Data Foundation",
+          "Yes, best fit",
+          "Priced per batch of SKUs cleaned or enriched"
+        ],
+        [
+          "Digital Analytics",
+          "Yes, for audits and setup",
+          "Fixed-price tracking audit, fixed-price GA4 / Adobe setup"
+        ],
+        [
+          "Ecommerce Website Development",
+          "Yes",
+          "Fixed-price projects, plus prepaid dev credits for small changes"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "Partly",
+          "Per-test build pricing for brands with their own strategy team. The full program stays on retainer"
+        ],
+        [
+          "AI Search and Shopping Visibility",
+          "Partly",
+          "Audit and feed fixes pay-as-you-go, monthly tracking on retainer"
+        ],
+        [
+          "Digital Merchandising",
+          "Partly",
+          "One-off search or category rebuild, ongoing ops on retainer"
+        ],
+        [
+          "Growth Marketing",
+          "No",
+          "Retainer only. Results build over months"
+        ],
+        [
+          "DCX Strategy and Transformation",
+          "No (except the Diagnostic)",
+          "Paid Diagnostic up front, then a Build sprint"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "eb": "Three rules",
+      "h": "What keeps pay-as-you-go healthy.",
+      "items": [
+        [
+          "A note on your other gates",
+          "Every job ends with a short \"what we saw across your other gates\" note."
+        ],
+        [
+          "Prepaid credits",
+          "Buy a block and spend it on any job from the menu."
+        ],
+        [
+          "A minimum job size",
+          "So small jobs stay worth doing for both sides."
+        ]
+      ]
+    },
+    {
+      "type": "cards",
+      "eb": "Pay as you go",
+      "h": "Audits and fixed-price jobs.",
+      "items": [
+        {
+          "t": "SEO Audit",
+          "d": "See what holds your rankings back and what to fix first.",
+          "href": "/audits/seo-audit/",
+          "meta": [
+            "2 to 3 weeks",
+            "Fixed price"
+          ]
+        },
+        {
+          "t": "Technical SEO Audit",
+          "d": "Make sure search engines can crawl, index and understand every page.",
+          "href": "/audits/technical-seo-audit/",
+          "meta": [
+            "2 to 3 weeks",
+            "Fixed price"
+          ]
+        },
+        {
+          "t": "AI Visibility Audit",
+          "d": "See where ChatGPT, Gemini and Google AI Mode mention you, and where they pick a competitor.",
+          "href": "/audits/ai-visibility-audit/",
+          "meta": [
+            "2 weeks",
+            "Fixed price"
+          ]
+        },
+        {
+          "t": "CRO Audit",
+          "d": "Find where visitors drop and build a test backlog that fixes causes.",
+          "href": "/services/conversion-rate-optimization/audit/",
+          "meta": [
+            "2 to 3 weeks",
+            "Fixed price"
+          ]
+        },
+        {
+          "t": "Digital Analytics Audit",
+          "d": "Check that every order and lead is tracked correctly.",
+          "href": "/services/digital-analytics/audit/",
+          "meta": [
+            "1 to 2 weeks",
+            "Fixed price"
+          ]
+        },
+        {
+          "t": "Catalog data cleanup",
+          "d": "Specs, titles and attributes cleaned per SKU batch.",
+          "meta": [
+            "Per batch",
+            "Fixed price per batch"
+          ],
+          "href": "/services/catalog-management/"
+        },
+        {
+          "t": "Search tuning",
+          "d": "Synonyms, part numbers, zero-result fixes.",
+          "meta": [
+            "2 to 4 weeks",
+            "Fixed price"
+          ],
+          "href": "/services/digital-merchandising/"
+        },
+        {
+          "t": "Template rebuild",
+          "d": "One listing or product template, improving every page that uses it.",
+          "meta": [
+            "4 to 6 weeks",
+            "Fixed price"
+          ],
+          "href": "/services/ecommerce-website-development/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "eb": "Prepaid credits",
+      "h": "Buy a block, spend it on any job.",
+      "items": [
+        [
+          "Buy a block",
+          "Credits paid up front at a better rate."
+        ],
+        [
+          "Spend on any job",
+          "Audits, data batches, dev changes."
+        ],
+        [
+          "Get a gate note",
+          "Every job ends with what we saw across your other gates."
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "eb": "Build sprints",
+      "h": "What 90 days covers.",
+      "items": [
+        [
+          "Weeks 1 to 2",
+          "Confirm the roadmap and scope"
+        ],
+        [
+          "Weeks 3 to 8",
+          "Data, search and template fixes"
+        ],
+        [
+          "Weeks 9 to 11",
+          "Tracking and first tests"
+        ],
+        [
+          "Week 12",
+          "Results review and next-step plan"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "eb": "Compare",
+      "h": "Side by side.",
+      "cols": [
+        "",
+        "Pay as you go",
+        "Build sprint"
+      ],
+      "rows": [
+        [
+          "Best for",
+          "One clear job",
+          "Top roadmap issues"
+        ],
+        [
+          "Length",
+          "Days to weeks",
+          "90 days"
+        ],
+        [
+          "Pricing",
+          "Fixed price or credits",
+          "Fixed scope"
+        ],
+        [
+          "AI agents",
+          "First pass",
+          "Throughout"
+        ],
+        [
+          "Gate note",
+          "Yes",
+          "Yes"
+        ]
+      ]
+    },
+    {
+      "type": "routes",
+      "eb": "Site map",
+      "h": "Every route leads to a DCX Audit or a Build sprint."
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Pick the engagement that fits",
+      "paras": [
+        "Every engagement is small enough to say yes to and sets up the next step. Start with a free AI scan, move to a fixed-price audit, then a 90-day Build sprint.",
+        "Pay-as-you-go jobs work well for clearly scoped tasks, such as a single template fix, a search tuning job or a catalog batch. Ongoing improvement across several gates is better suited to a Build sprint.",
+        "Prepaid credits keep small jobs simple and a minimum job size keeps them worth doing for both sides."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "Can I start with one job?",
+          "Yes. Every pay-as-you-go job ends with a short note on your other gates."
+        ],
+        [
+          "Is there a minimum?",
+          "Yes, a minimum job size, so small jobs stay worth doing for both sides."
+        ],
+        [
+          "Do credits expire?",
+          "Credits are valid for 12 months."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to run",
+      "items": [
+        [
+          "Nine Gates",
+          "/nine-gates/"
+        ],
+        [
+          "Insights",
+          "/insights/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Not sure which fits?",
+      "p": "A 30-minute call is enough to pick.",
+      "btn": {
+        "l": "Book a call",
+        "act": "book",
+        "topic": "Ways to work"
+      },
+      "form": true
+    }
+  ]
+}

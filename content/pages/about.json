@@ -1,0 +1,236 @@
+{
+  "key": "about",
+  "path": "/about/",
+  "title": "About CXWorks: Digital Customer Experience Consultancy",
+  "description": "CXWorks is a digital customer experience consultancy with 15+ years helping B2B, B2C and D2C eCommerce brands grow through CX, analytics, CRO and search.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Contact us"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Contact us",
+      "a": "A digital customer experience (DCX) firm.",
+      "b": "AI agents plus experts.",
+      "lead": "CXWorks is a digital customer experience (DCX) firm. We pair AI agents that monitor every step of the customer journey with experts who decide and deliver the fixes, from being found in search and AI answers to winning and keeping the customer.",
+      "ctas": [
+        {
+          "l": "Book a call",
+          "act": "book",
+          "topic": "General"
+        }
+      ]
+    },
+    {
+      "type": "ai",
+      "eb": "AI plus human in the loop",
+      "h": "AI watches every gate. Experts fix what matters.",
+      "watch": [
+        "Zero-result and failed searches",
+        "Speed and errors by template",
+        "Tracking breaks and data gaps",
+        "Product feed and spec gaps",
+        "Mentions and citations in AI answers",
+        "Drop-off at checkout, quote or form"
+      ],
+      "decide": [
+        "Which signals are real",
+        "What fixing it is worth",
+        "What to fix first",
+        "How to design and build it",
+        "When it is ready to ship"
+      ]
+    },
+    {
+      "type": "stats"
+    },
+    {
+      "type": "why",
+      "h": "Why CXWorks?",
+      "items": [
+        "15+ Years of Experience",
+        "Top-Rated Consultancy",
+        "Certified Professionals"
+      ],
+      "p": "CXCommerce is a specialist Digital Customer Experience (DCX) consultancy that helps B2B, B2C, and D2C eCommerce businesses unlock measurable growth."
+    },
+    {
+      "type": "cta",
+      "h": "Talk to the team.",
+      "p": "We reply within one business day.",
+      "btn": {
+        "l": "Book a call",
+        "act": "book",
+        "topic": "General"
+      },
+      "form": true
+    },
+    {
+      "type": "cases",
+      "eb": "Case stories",
+      "h": "Named by the gate that was failing.",
+      "items": [
+        {
+          "slug": "industrial-distributor-search",
+          "gate": "Findability",
+          "door": "I sell online",
+          "ind": "Industrial tools and supplies",
+          "client": "US industrial distributor",
+          "n1": [
+            "-71%",
+            "zero-result searches"
+          ],
+          "n2": [
+            "+34%",
+            "online reorders"
+          ],
+          "t": "Part-number search that finally returns parts.",
+          "ch": "Trade buyers typed exact part numbers and got \"no results\", so they picked up the phone instead.",
+          "ai": "AI agents flagged 2,300 zero-result searches a month, most of them valid part numbers with formatting differences.",
+          "ex": "Experts decided to fix the product data and search synonyms first, not the search UI.",
+          "built": [
+            "Normalised 48,000 part numbers",
+            "Synonym and fuzzy-match rules",
+            "Reorder from order history"
+          ],
+          "quote": "Our reps stopped being a search engine for our own website.",
+          "illustrative": true
+        },
+        {
+          "slug": "retailer-filters",
+          "gate": "Usability",
+          "door": "I sell online",
+          "ind": "Home and furniture",
+          "client": "UK multi-category retailer",
+          "n1": [
+            "+22%",
+            "filter-to-cart rate"
+          ],
+          "n2": [
+            "-18%",
+            "returns on sized items"
+          ],
+          "t": "One template fix across 9,000 product pages.",
+          "ch": "Shoppers could not filter by size or delivery date, then returned items that did not fit.",
+          "ai": "AI flagged filter drop-off and return reasons clustering around dimensions.",
+          "ex": "Experts rebuilt the listing and product templates once, so every page improved together.",
+          "built": [
+            "Size and delivery filters",
+            "Dimension block on product template",
+            "Delivery date promise"
+          ],
+          "quote": "It felt like we fixed the whole site, not a page.",
+          "illustrative": true
+        },
+        {
+          "slug": "rehab-admissions",
+          "gate": "Conversion",
+          "door": "I get enquiries online",
+          "ind": "Enquiry-based businesses",
+          "client": "US healthcare and rehab provider",
+          "n1": [
+            "+41%",
+            "admission enquiries"
+          ],
+          "n2": [
+            "20 → 6",
+            "form questions"
+          ],
+          "t": "From a 20-question form to a call-back.",
+          "ch": "The admission form asked 20 questions before anyone could talk to a person.",
+          "ai": "AI flagged where families left the form and which pages built the most trust.",
+          "ex": "Experts cut the form, added trust signals and a call-back option, within compliance rules.",
+          "built": [
+            "6-field form with call-back",
+            "Accreditation and insurance block",
+            "Same-day response flow"
+          ],
+          "quote": "Families reach a person sooner, and that is the whole job.",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "type": "reviews"
+    },
+    {
+      "type": "facts",
+      "eb": "Contact us",
+      "items": [
+        [
+          "United States",
+          "5755 North Point Pkwy, Alpharetta, GA"
+        ],
+        [
+          "Phone",
+          "+1 (725) 325 5270"
+        ],
+        [
+          "Email",
+          "info@cxworks.com\nidris@cxworks.com\nsowmya@cxworks.com\nrithik@cxworks.com"
+        ]
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "A Premium Digital Customer Experience Partner",
+      "paras": [
+        "CXCommerce is a specialist Digital Customer Experience (DCX) consultancy that helps B2B, B2C, and D2C eCommerce businesses unlock measurable growth.",
+        "CXWorks is a specialist Digital Customer Experience (DCX) consultancy that helps B2B, B2C, and D2C eCommerce businesses unlock measurable growth through connected strategy, customer intelligence, experimentation, analytics, and optimization.",
+        "Most organizations invest heavily in websites, platforms, marketing channels, analytics tools, and customer acquisition programs. Yet many still struggle to achieve consistent improvements in conversion, customer retention, and digital profitability. The reason is rarely a lack of technology. The reason is usually a lack of connection between customer experience, data, optimization, and growth execution.",
+        "We help eCommerce organizations move beyond fragmented digital initiatives and build a connected growth system that identifies customer friction, prioritizes the highest-impact opportunities, and continuously improves performance across the customer journey. Our approach is built around the DCX Operating System, a framework that helps businesses become more discoverable, more relevant, and more likely to be chosen by customers. This positioning is central to our mission and operating model."
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "Build: our services",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    }
+  ]
+}

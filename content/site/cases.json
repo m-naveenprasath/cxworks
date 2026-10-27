@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "industrial-distributor-search",
+    "gate": "Findability",
+    "door": "I sell online",
+    "ind": "Industrial tools and supplies",
+    "client": "US industrial distributor",
+    "n1": [
+      "-71%",
+      "zero-result searches"
+    ],
+    "n2": [
+      "+34%",
+      "online reorders"
+    ],
+    "t": "Part-number search that finally returns parts.",
+    "ch": "Trade buyers typed exact part numbers and got \"no results\", so they picked up the phone instead.",
+    "ai": "AI agents flagged 2,300 zero-result searches a month, most of them valid part numbers with formatting differences.",
+    "ex": "Experts decided to fix the product data and search synonyms first, not the search UI.",
+    "built": [
+      "Normalised 48,000 part numbers",
+      "Synonym and fuzzy-match rules",
+      "Reorder from order history"
+    ],
+    "quote": "Our reps stopped being a search engine for our own website.",
+    "illustrative": true
+  },
+  {
+    "slug": "retailer-filters",
+    "gate": "Usability",
+    "door": "I sell online",
+    "ind": "Home and furniture",
+    "client": "UK multi-category retailer",
+    "n1": [
+      "+22%",
+      "filter-to-cart rate"
+    ],
+    "n2": [
+      "-18%",
+      "returns on sized items"
+    ],
+    "t": "One template fix across 9,000 product pages.",
+    "ch": "Shoppers could not filter by size or delivery date, then returned items that did not fit.",
+    "ai": "AI flagged filter drop-off and return reasons clustering around dimensions.",
+    "ex": "Experts rebuilt the listing and product templates once, so every page improved together.",
+    "built": [
+      "Size and delivery filters",
+      "Dimension block on product template",
+      "Delivery date promise"
+    ],
+    "quote": "It felt like we fixed the whole site, not a page.",
+    "illustrative": true
+  },
+  {
+    "slug": "rehab-admissions",
+    "gate": "Conversion",
+    "door": "I get enquiries online",
+    "ind": "Enquiry-based businesses",
+    "client": "US healthcare and rehab provider",
+    "n1": [
+      "+41%",
+      "admission enquiries"
+    ],
+    "n2": [
+      "20 → 6",
+      "form questions"
+    ],
+    "t": "From a 20-question form to a call-back.",
+    "ch": "The admission form asked 20 questions before anyone could talk to a person.",
+    "ai": "AI flagged where families left the form and which pages built the most trust.",
+    "ex": "Experts cut the form, added trust signals and a call-back option, within compliance rules.",
+    "built": [
+      "6-field form with call-back",
+      "Accreditation and insurance block",
+      "Same-day response flow"
+    ],
+    "quote": "Families reach a person sooner, and that is the whole job.",
+    "illustrative": true
+  }
+]

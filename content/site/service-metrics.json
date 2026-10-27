@@ -1,0 +1,42 @@
+{
+  "dcx-transformation": {
+    "value": "+68%",
+    "label": "more visitors reaching checkout",
+    "gate": "All nine gates"
+  },
+  "conversion-rate-optimization": {
+    "value": "+62%",
+    "label": "conversion rate after six test cycles",
+    "gate": "Conversion"
+  },
+  "ai-search-visibility": {
+    "value": "3x",
+    "label": "brand citations in AI answers",
+    "gate": "Discoverability"
+  },
+  "digital-merchandising": {
+    "value": "+78%",
+    "label": "lift in search-to-cart rate",
+    "gate": "Findability"
+  },
+  "catalog-management": {
+    "value": "96%",
+    "label": "average attribute completeness",
+    "gate": "Clarity"
+  },
+  "digital-analytics": {
+    "value": "98%",
+    "label": "of key events tracked accurately",
+    "gate": "Measuring layer"
+  },
+  "growth-marketing": {
+    "value": "+34%",
+    "label": "repeat orders from retention flows",
+    "gate": "Retention"
+  },
+  "ecommerce-website-development": {
+    "value": "+75%",
+    "label": "lift in mobile conversion",
+    "gate": "Usability"
+  }
+}

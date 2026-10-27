@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "customer-experience-consulting",
+    "name": "Customer Experience Consulting",
+    "h1": [
+      "Customer experience consulting",
+      "with AI agents and expert teams."
+    ],
+    "svcs": [
+      "dcx-transformation",
+      "conversion-rate-optimization",
+      "digital-analytics",
+      "ai-search-visibility"
+    ],
+    "doors": true,
+    "cta": {
+      "l": "Get your free AI scan",
+      "href": "/free-ai-scan/"
+    }
+  },
+  {
+    "slug": "customer-journey-optimization",
+    "name": "Customer Journey Optimization",
+    "h1": [
+      "Customer journey optimization:",
+      "find where you lose customers and fix it first."
+    ],
+    "svcs": [
+      "conversion-rate-optimization",
+      "digital-merchandising",
+      "digital-analytics",
+      "dcx-transformation"
+    ],
+    "doors": true,
+    "journey": true,
+    "cta": {
+      "l": "Get your free AI scan",
+      "href": "/free-ai-scan/"
+    }
+  },
+  {
+    "slug": "ecommerce-consulting",
+    "name": "Ecommerce Consulting",
+    "h1": [
+      "Ecommerce consulting",
+      "for distributors, retailers and D2C brands."
+    ],
+    "svcs": [
+      "catalog-management",
+      "digital-merchandising",
+      "ecommerce-website-development",
+      "conversion-rate-optimization"
+    ],
+    "doors": false,
+    "deep": true,
+    "cta": {
+      "l": "Book a DCX Audit",
+      "href": "/services/dcx-transformation/dcx-audit/"
+    }
+  }
+]

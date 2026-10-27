@@ -1,0 +1,236 @@
+[
+  {
+    "slug": "industrial-tools-supplies",
+    "name": "Industrial Tools and Supplies",
+    "h1": [
+      "Industrial tools and supplies:",
+      "move more orders online."
+    ],
+    "probs": [
+      [
+        "Findability",
+        "Part-number search returns nothing"
+      ],
+      [
+        "Clarity",
+        "Specs missing or inconsistent across suppliers"
+      ],
+      [
+        "Conversion",
+        "B2B pricing and quotes handled by email"
+      ],
+      [
+        "Retention",
+        "Reorders still go through sales reps"
+      ]
+    ],
+    "fix": "Part-number search, spec cleanup, account pricing, quick reorder.",
+    "plat": [
+      "Adobe Commerce",
+      "BigCommerce B2B",
+      "SAP Commerce",
+      "Shopify Plus B2B"
+    ],
+    "eg": "Example: \"3/8 x 2 hex bolt zinc\" should return the SKU, not \"no results\"."
+  },
+  {
+    "slug": "home-furniture",
+    "name": "Home and Furniture",
+    "h1": [
+      "Home and furniture:",
+      "fewer returns, more confident buyers."
+    ],
+    "probs": [
+      [
+        "Findability",
+        "Filtering by size, colour and material"
+      ],
+      [
+        "Trust",
+        "Delivery dates and returns unclear"
+      ],
+      [
+        "Clarity",
+        "Dimensions hidden below the fold"
+      ],
+      [
+        "Assistance",
+        "Delivery promises missed"
+      ]
+    ],
+    "fix": "Visual browsing, size and option pickers, delivery and returns trust blocks.",
+    "plat": [
+      "Shopify Plus",
+      "Adobe Commerce",
+      "Salesforce Commerce Cloud"
+    ],
+    "eg": "Example: a delivery-date promise on every product page."
+  },
+  {
+    "slug": "consumer-electronics",
+    "name": "Consumer Electronics",
+    "h1": [
+      "Consumer electronics:",
+      "win the spec comparison."
+    ],
+    "probs": [
+      [
+        "Clarity",
+        "Specs not comparable across products"
+      ],
+      [
+        "Trust",
+        "Compatibility questions unanswered"
+      ],
+      [
+        "Discoverability",
+        "Missing from AI shopping answers"
+      ],
+      [
+        "Conversion",
+        "Accessories not bundled"
+      ]
+    ],
+    "fix": "Spec comparison, compatibility checkers, review display, AI shopping feeds.",
+    "plat": [
+      "Shopify Plus",
+      "Adobe Commerce",
+      "commercetools"
+    ],
+    "eg": "Example: a side-by-side comparison built from clean spec data."
+  },
+  {
+    "slug": "health-wellness",
+    "name": "Health and Wellness",
+    "h1": [
+      "Health and wellness:",
+      "trust first, then repeat orders."
+    ],
+    "probs": [
+      [
+        "Trust",
+        "Claims rules limit what you can say"
+      ],
+      [
+        "Clarity",
+        "Ingredients and dosage hard to find"
+      ],
+      [
+        "Retention",
+        "Subscriptions cancelled early"
+      ],
+      [
+        "Conversion",
+        "Checkout drops at subscription choice"
+      ]
+    ],
+    "fix": "Compliant claims, ingredient clarity, subscription flows, replenishment.",
+    "plat": [
+      "Shopify Plus",
+      "BigCommerce",
+      "Recharge"
+    ],
+    "eg": "Example: a trust and claims block reviewed against your rules."
+  },
+  {
+    "slug": "beauty-personal-care",
+    "name": "Beauty and Personal Care",
+    "h1": [
+      "Beauty and personal care:",
+      "help shoppers pick the right shade."
+    ],
+    "probs": [
+      [
+        "Findability",
+        "Too many shades and variants"
+      ],
+      [
+        "Trust",
+        "Reviews not shown where it matters"
+      ],
+      [
+        "Retention",
+        "No replenishment reminders"
+      ],
+      [
+        "Discoverability",
+        "Missing from AI beauty answers"
+      ]
+    ],
+    "fix": "Shade and fit finders, review placement, replenishment journeys.",
+    "plat": [
+      "Shopify Plus",
+      "Salesforce Commerce Cloud",
+      "Klaviyo"
+    ],
+    "eg": "Example: a three-question shade finder that cuts returns."
+  },
+  {
+    "slug": "apparel-fashion",
+    "name": "Apparel and Fashion",
+    "h1": [
+      "Apparel and fashion:",
+      "right size, first time."
+    ],
+    "probs": [
+      [
+        "Clarity",
+        "Size guidance generic or missing"
+      ],
+      [
+        "Findability",
+        "Filters miss fit, length, fabric"
+      ],
+      [
+        "Assistance",
+        "Returns eat the margin"
+      ],
+      [
+        "Relevance",
+        "New drops buried"
+      ]
+    ],
+    "fix": "Size guidance, smarter filters, returns reduction, drop merchandising.",
+    "plat": [
+      "Shopify Plus",
+      "Salesforce Commerce Cloud",
+      "Adobe Commerce"
+    ],
+    "eg": "Example: fit notes from returns data shown on the product page."
+  },
+  {
+    "slug": "enquiry-based-businesses",
+    "name": "Enquiry-based businesses",
+    "test": true,
+    "h1": [
+      "Enquiry-based businesses:",
+      "more demos, admissions and consultations."
+    ],
+    "probs": [
+      [
+        "Clarity",
+        "Service pages that do not say who it is for"
+      ],
+      [
+        "Trust",
+        "Proof hidden far from the form"
+      ],
+      [
+        "Conversion",
+        "Forms with too many questions"
+      ],
+      [
+        "Assistance",
+        "Slow follow-up after enquiry"
+      ]
+    ],
+    "fix": "Shorter forms, trust signals, call-back and booking options, faster follow-up. SaaS, education, healthcare and rehab, professional services.",
+    "plat": [
+      "HubSpot",
+      "Salesforce",
+      "WordPress",
+      "Calendly"
+    ],
+    "eg": "Example: a 20-question admission form cut to 6 fields plus a call-back."
+  }
+]

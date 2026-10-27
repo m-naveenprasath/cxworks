@@ -1,0 +1,268 @@
+{
+  "key": "audit:technical-seo-audit",
+  "path": "/audits/technical-seo-audit/",
+  "title": "Technical SEO Audit for eCommerce Websites | CXWorks",
+  "description": "A technical SEO audit of crawlability, indexation, site speed, Core Web Vitals, structured data and faceted navigation, with clear fixes for your dev team.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Diagnose"
+    ],
+    [
+      "Technical SEO Audit"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Technical SEO audit",
+      "a": "Technical SEO audit",
+      "b": "for sites with thousands of pages.",
+      "lead": "Make sure search engines can crawl, index and understand every page.",
+      "ctas": [
+        {
+          "l": "Book this audit",
+          "act": "book",
+          "topic": "Technical SEO Audit"
+        },
+        {
+          "l": "Compare with the full DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ],
+      "meta": [
+        "2 to 3 weeks",
+        "Fixed price by site size"
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "Who it is for",
+      "h": "Get it when:",
+      "items": [
+        "Pages missing from Google",
+        "Slow templates",
+        "Faceted navigation creating duplicate URLs"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Discoverability, Usability"
+    },
+    {
+      "type": "chart",
+      "slug": "audit-technical-seo-audit"
+    },
+    {
+      "type": "checklist",
+      "eb": "What we check",
+      "h": "Checklist by gate.",
+      "groups": [
+        {
+          "gate": "Cited",
+          "items": [
+            [
+              "Crawling",
+              "Crawl budget, blocked paths, orphan pages"
+            ],
+            [
+              "Indexing",
+              "Canonicals, duplicates, parameter URLs"
+            ],
+            [
+              "Structured data",
+              "Product, offer, review and FAQ schema"
+            ],
+            [
+              "Large-catalog issues",
+              "Faceted URLs, near-duplicate products"
+            ]
+          ]
+        },
+        {
+          "gate": "Clicked",
+          "items": [
+            [
+              "Speed",
+              "Core Web Vitals by template"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "What you get",
+      "h": "Delivered as:",
+      "items": [
+        "Fix list by template",
+        "Developer-ready tickets",
+        "Indexing and speed benchmarks",
+        "One-page Nine Gates snapshot"
+      ],
+      "check": true
+    },
+    {
+      "type": "steps",
+      "eb": "How it works",
+      "h": "AI first, experts always.",
+      "items": [
+        [
+          "AI first pass",
+          "Agents scan pages, logs and feeds."
+        ],
+        [
+          "Expert review",
+          "A specialist checks every finding."
+        ],
+        [
+          "Walkthrough call",
+          "We present the priorities and quick wins."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample report",
+      "h": "What the report looks like.",
+      "name": "Technical SEO Audit"
+    },
+    {
+      "type": "upgrade",
+      "h": "Credited toward the DCX Audit.",
+      "p": "Book the full Diagnostic within 60 days and this audit fee is credited.",
+      "btn": {
+        "l": "See the DCX Audit",
+        "href": "/services/dcx-transformation/dcx-audit/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Technical SEO for sites with thousands of pages",
+      "paras": [
+        "On large sites, technical SEO problems multiply. One bad filter rule can create millions of crawlable URLs. One template error can drop structured data from every product page. A technical SEO audit finds those issues before they cost you rankings.",
+        "We crawl the site at scale and review log files where available. The audit covers crawl budget, indexation, canonical tags, faceted navigation, pagination, redirects, Core Web Vitals, JavaScript rendering, structured data and international setup.",
+        "Each issue is traced to the template or rule that causes it, sized by the number of URLs affected and ranked by impact. That makes it easy for developers to fix the cause once.",
+        "Clean technical foundations also help AI visibility, since AI tools rely on the same crawlable, well-structured pages. Fixes can be delivered as a fixed-price job or inside a Build sprint."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How long does the Technical SEO Audit take?",
+          "2 to 3 weeks. AI does a first pass, then an expert reviews and walks you through it."
+        ],
+        [
+          "How is it priced?",
+          "Fixed price by site size. You know the price before we start."
+        ],
+        [
+          "What do I get at the end?",
+          "Fix list by template, Developer-ready tickets, Indexing and speed benchmarks, One-page Nine Gates snapshot."
+        ],
+        [
+          "Does the fee count toward the DCX Audit?",
+          "Yes, if you book the Diagnostic within 60 days the fee is credited."
+        ],
+        [
+          "Do I need to give you access?",
+          "Read-only access to analytics and search logs helps. We can start with public pages only."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to diagnose",
+      "items": [
+        [
+          "DCX Audit",
+          "/services/dcx-transformation/dcx-audit/"
+        ],
+        [
+          "SEO Audit",
+          "/audits/seo-audit/"
+        ],
+        [
+          "AI Visibility Audit",
+          "/audits/ai-visibility-audit/"
+        ],
+        [
+          "CRO Audit",
+          "/services/conversion-rate-optimization/audit/"
+        ],
+        [
+          "Digital Analytics Audit",
+          "/services/digital-analytics/audit/"
+        ],
+        [
+          "Accessibility Audit",
+          "/audits/accessibility-audit/"
+        ],
+        [
+          "Digital Merchandising Audit",
+          "/services/digital-merchandising/audit/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Book the Technical SEO Audit.",
+      "p": "2 to 3 weeks · Fixed price by site size",
+      "btn": {
+        "l": "Book this audit",
+        "act": "book",
+        "topic": "Technical SEO Audit"
+      },
+      "form": true
+    }
+  ]
+}

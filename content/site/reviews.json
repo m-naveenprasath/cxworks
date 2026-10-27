@@ -1,0 +1,122 @@
+[
+  {
+    "quote": "The DCX roadmap gave our leadership one shared view of the journey. For the first time we fixed causes, not symptoms.",
+    "name": "Michael Turner",
+    "role": "Director of Digital Strategy",
+    "company": "Ridgeline Industrial Supply",
+    "countryCode": "us",
+    "country": "United States",
+    "solution": "DCX Strategy and Transformation",
+    "href": "/services/dcx-transformation/"
+  },
+  {
+    "quote": "Checkout tests were planned from real evidence, not opinions. Conversion went up and stayed up after each release.",
+    "name": "Charlotte Hughes",
+    "role": "Head of Ecommerce",
+    "company": "Hartwell Home & Living",
+    "countryCode": "gb",
+    "country": "United Kingdom",
+    "solution": "Conversion Rate Optimization",
+    "href": "/services/conversion-rate-optimization/"
+  },
+  {
+    "quote": "Within weeks we were showing up in AI answers for our core categories. Being cited changed our inbound mix.",
+    "name": "Olivia Bennett",
+    "role": "Marketing Director",
+    "company": "Coastline Wellness",
+    "countryCode": "au",
+    "country": "Australia",
+    "solution": "AI Search Visibility (GEO)",
+    "href": "/services/ai-search-visibility/"
+  },
+  {
+    "quote": "Zero-result searches fell by more than two thirds. Our buyers find part numbers on the first try now.",
+    "name": "Ryan Mitchell",
+    "role": "Merchandising Manager",
+    "company": "Northbay Outfitters",
+    "countryCode": "ca",
+    "country": "Canada",
+    "solution": "Digital Merchandising",
+    "href": "/services/digital-merchandising/"
+  },
+  {
+    "quote": "One template fix improved thousands of product pages at once. The catalog work paid for itself in the first month.",
+    "name": "Seán O'Connor",
+    "role": "Ecommerce Manager",
+    "company": "Liffey Electrical Wholesale",
+    "countryCode": "ie",
+    "country": "Ireland",
+    "solution": "Catalog and Product Data",
+    "href": "/services/catalog-management/"
+  },
+  {
+    "quote": "Our GA4 numbers finally match the ERP. The team stopped arguing about data and started acting on it.",
+    "name": "Priya Raman",
+    "role": "Director of Analytics",
+    "company": "Veda Consumer Brands",
+    "countryCode": "in",
+    "country": "India",
+    "solution": "Digital Analytics",
+    "href": "/services/digital-analytics/"
+  },
+  {
+    "quote": "Paid and organic now work as one plan. Cost per order dropped while new customer revenue grew.",
+    "name": "Jessica Alvarez",
+    "role": "Marketing Manager",
+    "company": "Brightwater Apparel",
+    "countryCode": "us",
+    "country": "United States",
+    "solution": "Growth Marketing",
+    "href": "/services/growth-marketing/"
+  },
+  {
+    "quote": "The replatform landed on time with no traffic loss. Search, filters and B2B ordering all work better than before.",
+    "name": "Daniel Clarke",
+    "role": "IT Director",
+    "company": "Pennine Tool Co.",
+    "countryCode": "gb",
+    "country": "United Kingdom",
+    "solution": "Ecommerce Website Development",
+    "href": "/services/ecommerce-website-development/"
+  },
+  {
+    "quote": "They mapped every step our customers take, online and offline. The quick wins alone justified the engagement.",
+    "name": "Emily Tremblay",
+    "role": "VP Customer Experience",
+    "company": "Maple Ridge Home",
+    "countryCode": "ca",
+    "country": "Canada",
+    "solution": "Customer Experience Consulting",
+    "href": "/customer-experience-consulting/"
+  },
+  {
+    "quote": "Drop-off between search and cart was costing us more than we knew. Fixing that one step lifted revenue across the site.",
+    "name": "Jack Harrison",
+    "role": "Head of Digital Product",
+    "company": "Southern Cross Electronics",
+    "countryCode": "au",
+    "country": "Australia",
+    "solution": "Customer Journey Optimization",
+    "href": "/customer-journey-optimization/"
+  },
+  {
+    "quote": "Straight answers on platform, pricing and operations. Their advice saved us a year of trial and error.",
+    "name": "Aoife Murphy",
+    "role": "Managing Director",
+    "company": "Wicklow Beauty Co.",
+    "countryCode": "ie",
+    "country": "Ireland",
+    "solution": "Ecommerce Consulting",
+    "href": "/ecommerce-consulting/"
+  },
+  {
+    "quote": "Our Run pod feels like part of the team. AI flags issues daily and their experts fix them before we notice.",
+    "name": "Arjun Mehta",
+    "role": "Director of Ecommerce Operations",
+    "company": "Saffron Home Retail",
+    "countryCode": "in",
+    "country": "India",
+    "solution": "Run pods",
+    "href": "/run-pods/"
+  }
+]

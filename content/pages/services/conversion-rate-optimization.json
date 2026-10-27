@@ -1,0 +1,205 @@
+{
+  "key": "svc:conversion-rate-optimization",
+  "path": "/services/conversion-rate-optimization/",
+  "title": "Conversion Rate Optimisation (CRO) for eCommerce | CXWorks",
+  "description": "Increase eCommerce revenue with data-driven Conversion Rate Optimisation (CRO). CXWorks delivers audits, A/B testing, analytics, and UX research.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "Conversion Rate Optimization"
+    ]
+  ],
+  "sticky": {
+    "l": "Book the CRO Audit",
+    "href": "/contact-us/?topic=CRO%20Audit"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Conversion rate optimization agency",
+      "a": "Conversion Rate Optimisation",
+      "b": "",
+      "lead": "Grow your business by making the right products easier to find and choose.",
+      "ctas": [
+        {
+          "l": "Book the CRO Audit",
+          "act": "book",
+          "topic": "CRO Audit"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "Conversion Rate Optimization"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Conversion rate stuck for months",
+        "Tests win, revenue does not move",
+        "Paid traffic lands and leaves"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "conversion-rate-optimization"
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Usability, Trust, Conversion"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy Conversion Rate Optimization.",
+      "d": "CRO audit, test backlog",
+      "b": "Test design and development",
+      "r": "Ongoing test program"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch usability, trust, conversion, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Optimizely",
+        "Adobe Target",
+        "VWO",
+        "Contentsquare",
+        "GA4"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Conversion Rate Optimisation",
+      "paras": [
+        "CXWorks helps B2B, B2C and D2C eCommerce businesses connect product discovery, search, category experience, product information and commercial intelligence into one merchandising system.",
+        "Conversion friction often appears as a weak button, an underperforming page, or an abandoned checkout. The true cause usually begins earlier.",
+        "A visitor may arrive with the right intent but land on a page that does not match the promise of the campaign. A shopper may find the right product but remain uncertain about specifications, fit, delivery, returns, or value. A buyer may begin checkout but stop when an unexpected cost or unnecessary step interrupts momentum. These are not isolated page problems. They are connected breaks across the customer journey.",
+        "Analytics can show where customers leave. Behavioral evidence helps explain how they struggle. Research and experimentation reveal why the friction exists and which change is most likely to remove it."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is Conversion Rate Optimization?",
+          "Conversion Rate Optimization is the structured process of improving how effectively a digital experience turns visitors into customers, leads, subscribers, or other meaningful outcomes. It combines analytics, customer research, UX evaluation, experimentation, and measurement."
+        ],
+        [
+          "Do we need large amounts of traffic to run CRO?",
+          "Not every CRO engagement requires high-volume A/B testing. When traffic is limited, CXWorks can use deeper qualitative research, funnel analysis, usability evaluation, customer feedback, and phased validation to make evidence-informed improvements. The testing method should reflect the available traffic and the risk of the decision."
+        ],
+        [
+          "Which parts of the customer journey can CXWorks optimize?",
+          "CXWorks can assess and improve landing pages, navigation, search, category pages, product pages, forms, cart, checkout, lead-generation journeys, and selected retention experiences. The priority is determined by where the greatest evidence-backed opportunity exists."
+        ],
+        [
+          "How does CXWorks decide what to test?",
+          "We prioritise hypotheses using customer evidence, commercial impact, confidence, effort, strategic relevance, and technical feasibility. This ensures the testing roadmap is driven by meaningful opportunities rather than opinions or cosmetic preferences."
+        ],
+        [
+          "Can CXWorks work with our existing analytics, testing, and eCommerce platforms?",
+          "Yes. CXWorks can work within existing environments including GA4, Adobe Analytics, VWO, Optimizely, AB Tasty, Hotjar, FullStory, and major eCommerce platforms. We begin by assessing measurement and implementation readiness before defining the programme."
+        ],
+        [
+          "How does CRO work with the wider CXWorks service portfolio?",
+          "CRO owns the Conversion gate and supports Relevance, Usability, and Trust within the DCX Operating System. Where an issue begins earlier in the journey, CRO works with Digital Merchandising, Analytics, UX, Content, Product Data, Growth Marketing, AI Enablement, and eCommerce Development to address the actual cause."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with the CRO Audit.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book the CRO Audit",
+        "act": "book",
+        "topic": "CRO Audit"
+      },
+      "form": true
+    }
+  ]
+}

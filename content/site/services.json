@@ -1,0 +1,227 @@
+[
+  {
+    "slug": "dcx-transformation",
+    "name": "DCX Strategy and Transformation",
+    "kw": "Customer experience strategy",
+    "h1": [
+      "Customer experience strategy",
+      "for the whole journey."
+    ],
+    "promise": "One roadmap and one team owning every gate.",
+    "gates": "All nine",
+    "d": "DCX Audit, journey mapping",
+    "b": "Roadmap, governance setup",
+    "r": "dCOE pod that owns the roadmap",
+    "audit": "dcx-diagnostic",
+    "doors": true,
+    "symptoms": [
+      "Five agencies, no single owner",
+      "Every team has its own numbers",
+      "Fixes ship, results do not"
+    ],
+    "tools": [
+      "Adobe",
+      "Google Analytics",
+      "Quantum Metric",
+      "Contentsquare",
+      "Qualtrics"
+    ]
+  },
+  {
+    "slug": "conversion-rate-optimization",
+    "name": "Conversion Rate Optimization",
+    "kw": "Conversion rate optimization agency",
+    "h1": [
+      "Conversion rate optimization",
+      "for businesses that sell or get enquiries online."
+    ],
+    "promise": "A testing program that fixes causes, not symptoms.",
+    "gates": "Usability, Trust, Conversion",
+    "d": "CRO audit, test backlog",
+    "b": "Test design and development",
+    "r": "Ongoing test program",
+    "audit": "cro-ux-audit",
+    "doors": true,
+    "perTest": true,
+    "symptoms": [
+      "Conversion rate stuck for months",
+      "Tests win, revenue does not move",
+      "Paid traffic lands and leaves"
+    ],
+    "tools": [
+      "Optimizely",
+      "Adobe Target",
+      "VWO",
+      "Contentsquare",
+      "GA4"
+    ]
+  },
+  {
+    "slug": "ai-search-visibility",
+    "name": "AI Search Visibility (GEO)",
+    "kw": "Generative engine optimization agency",
+    "h1": [
+      "Generative engine optimization:",
+      "get cited in AI answers."
+    ],
+    "promise": "Be the brand ChatGPT, Gemini and Google AI Mode recommend.",
+    "gates": "Discoverability",
+    "d": "AI visibility audit",
+    "b": "Feed, structured data and content fixes",
+    "r": "Monthly citation tracking",
+    "audit": "ai-visibility-audit",
+    "doors": true,
+    "aiAnswer": true,
+    "symptoms": [
+      "Competitors named in AI answers, you are not",
+      "Product feeds with missing attributes",
+      "No FAQs or specs AI can quote"
+    ],
+    "tools": [
+      "Google Merchant Center",
+      "Schema.org",
+      "ChatGPT",
+      "Gemini",
+      "Perplexity"
+    ]
+  },
+  {
+    "slug": "digital-merchandising",
+    "name": "Digital Merchandising",
+    "kw": "Ecommerce merchandising",
+    "h1": [
+      "Ecommerce merchandising",
+      "that makes the right products easy to find."
+    ],
+    "promise": "Search, filters and categories that turn browsing into buying.",
+    "gates": "Findability, Relevance",
+    "d": "Search, PLP and assortment review",
+    "b": "Search tuning, category and filter rebuild",
+    "r": "Ongoing merchandising ops",
+    "audit": "catalog-search-audit",
+    "symptoms": [
+      "Searches return the wrong products",
+      "Category pages buried in filters",
+      "Promotions hard to find"
+    ],
+    "tools": [
+      "Algolia",
+      "Bloomreach",
+      "Constructor",
+      "Shopify",
+      "Adobe Commerce"
+    ]
+  },
+  {
+    "slug": "catalog-management",
+    "name": "Catalog and Product Data",
+    "kw": "Catalog management services",
+    "h1": [
+      "Catalog management services:",
+      "fix data once, improve thousands of pages."
+    ],
+    "promise": "Clean, complete product data for search, filters and AI answers.",
+    "gates": "Discoverability, Findability, Clarity",
+    "d": "Catalog health check",
+    "b": "SKU data cleanup and enrichment",
+    "r": "Ongoing catalog upkeep",
+    "audit": "catalog-search-audit",
+    "batch": true,
+    "symptoms": [
+      "Missing specs and empty filters",
+      "Duplicate titles across suppliers",
+      "AI tools skip your products"
+    ],
+    "tools": [
+      "Akeneo",
+      "Salsify",
+      "inRiver",
+      "Shopify",
+      "Adobe Commerce"
+    ]
+  },
+  {
+    "slug": "digital-analytics",
+    "name": "Digital Analytics",
+    "kw": "Digital analytics consulting",
+    "h1": [
+      "Digital analytics consulting:",
+      "decisions you can defend."
+    ],
+    "promise": "Tracking for orders and leads that every team trusts.",
+    "gates": "All (the measuring layer)",
+    "d": "Analytics and tracking audit",
+    "b": "GA4 / Adobe setup, dashboards",
+    "r": "Monthly insight reviews",
+    "audit": "analytics-audit",
+    "doors": true,
+    "symptoms": [
+      "Reports disagree",
+      "Leads not tracked to source",
+      "Dashboards nobody opens"
+    ],
+    "tools": [
+      "GA4",
+      "Adobe Analytics",
+      "Looker Studio",
+      "Google Tag Manager",
+      "BigQuery"
+    ]
+  },
+  {
+    "slug": "growth-marketing",
+    "name": "Growth Marketing",
+    "kw": "Growth marketing agency",
+    "h1": [
+      "Growth marketing",
+      "tied to every gate."
+    ],
+    "promise": "More value from the traffic you already pay for.",
+    "gates": "Discoverability, Retention",
+    "d": "Channel and CAC review",
+    "b": "Campaign and lifecycle setup",
+    "r": "Paid, SEO, CRM management",
+    "audit": null,
+    "retainer": true,
+    "symptoms": [
+      "Rising acquisition costs",
+      "First orders, no repeat orders",
+      "Channels managed in silos"
+    ],
+    "tools": [
+      "Google Ads",
+      "Meta",
+      "Klaviyo",
+      "HubSpot",
+      "Salesforce"
+    ]
+  },
+  {
+    "slug": "ecommerce-website-development",
+    "name": "Ecommerce Website Development",
+    "kw": "Ecommerce website development",
+    "h1": [
+      "Ecommerce website development",
+      "for complex catalogs."
+    ],
+    "promise": "Builds, migrations and template work that ship on time.",
+    "gates": "Usability, Assistance",
+    "d": "Tech and speed review",
+    "b": "Builds, migrations, template work",
+    "r": "Dev support on demand",
+    "audit": null,
+    "credits": true,
+    "symptoms": [
+      "Slow templates",
+      "Replatform on the roadmap",
+      "Small changes wait months"
+    ],
+    "tools": [
+      "Shopify Plus",
+      "Adobe Commerce",
+      "BigCommerce",
+      "Salesforce Commerce Cloud",
+      "commercetools"
+    ]
+  }
+]

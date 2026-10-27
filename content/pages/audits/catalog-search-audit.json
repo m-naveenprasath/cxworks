@@ -1,0 +1,264 @@
+{
+  "key": "audit:catalog-search-audit",
+  "path": "/services/digital-merchandising/audit/",
+  "title": "Digital Merchandising Audit for eCommerce | CXWorks",
+  "description": "A Digital Merchandising Audit that checks search, filters, categories and product data to show where shoppers fail to find, compare and choose products.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Diagnose"
+    ],
+    [
+      "Digital Merchandising Audit"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Digital Merchandising Audit",
+      "a": "Digital Merchandising Audit",
+      "b": "",
+      "lead": "Find Where Your Digital Storefront Is Losing Customers",
+      "ctas": [
+        {
+          "l": "Book this audit",
+          "act": "book",
+          "topic": "Digital Merchandising Audit"
+        },
+        {
+          "l": "Compare with the full DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ],
+      "meta": [
+        "2 weeks",
+        "Fixed price by catalog size"
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "Who it is for",
+      "h": "Get it when:",
+      "items": [
+        "Searches return \"no results\"",
+        "Filters are empty or wrong",
+        "Product data comes from many suppliers"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Findability, Relevance, Clarity"
+    },
+    {
+      "type": "chart",
+      "slug": "audit-catalog-search-audit"
+    },
+    {
+      "type": "checklist",
+      "eb": "What we check",
+      "h": "Checklist by gate.",
+      "groups": [
+        {
+          "gate": "Cited",
+          "items": [
+            [
+              "Zero-result searches",
+              "What buyers type and get nothing back"
+            ],
+            [
+              "Filters",
+              "Missing or inconsistent attributes"
+            ],
+            [
+              "Duplicates",
+              "Near-identical titles and SKUs"
+            ]
+          ]
+        },
+        {
+          "gate": "Clicked",
+          "items": [
+            [
+              "Specs",
+              "Missing, thin or duplicated product data"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "What you get",
+      "h": "Delivered as:",
+      "items": [
+        "Catalog health score",
+        "Zero-result search report",
+        "Batch cleanup plan and price",
+        "One-page Nine Gates snapshot"
+      ],
+      "check": true
+    },
+    {
+      "type": "steps",
+      "eb": "How it works",
+      "h": "AI first, experts always.",
+      "items": [
+        [
+          "AI first pass",
+          "Agents scan pages, logs and feeds."
+        ],
+        [
+          "Expert review",
+          "A specialist checks every finding."
+        ],
+        [
+          "Walkthrough call",
+          "We present the priorities and quick wins."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample report",
+      "h": "What the report looks like.",
+      "name": "Digital Merchandising Audit"
+    },
+    {
+      "type": "upgrade",
+      "h": "Credited toward the DCX Audit.",
+      "p": "Book the full Diagnostic within 60 days and this audit fee is credited.",
+      "btn": {
+        "l": "See the DCX Audit",
+        "href": "/services/dcx-transformation/dcx-audit/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Digital Merchandising Audit",
+      "paras": [
+        "Your products may be strong, but can customers easily find the right products, understand their options, and move confidently toward purchase?",
+        "Our Digital Merchandising Audit examines your digital storefront to uncover gaps in findability, relevance, product presentation, and merchandising performance.",
+        "We assess your digital merchandising experience from product discovery through consideration and purchase, focusing on how effectively customers can find, understand, and engage with your product range.",
+        "We begin with findability across branded and on-site search, navigation, category structures, rankings, and product discovery. This reflects Merchandising's role in Gate 2, while also supporting Growth Marketing's broader findability work."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How long does the Digital Merchandising Audit take?",
+          "2 weeks. AI does a first pass, then an expert reviews and walks you through it."
+        ],
+        [
+          "How is it priced?",
+          "Fixed price by catalog size. You know the price before we start."
+        ],
+        [
+          "What do I get at the end?",
+          "Catalog health score, Zero-result search report, Batch cleanup plan and price, One-page Nine Gates snapshot."
+        ],
+        [
+          "Does the fee count toward the DCX Audit?",
+          "Yes, if you book the Diagnostic within 60 days the fee is credited."
+        ],
+        [
+          "Do I need to give you access?",
+          "Read-only access to analytics and search logs helps. We can start with public pages only."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to diagnose",
+      "items": [
+        [
+          "DCX Audit",
+          "/services/dcx-transformation/dcx-audit/"
+        ],
+        [
+          "SEO Audit",
+          "/audits/seo-audit/"
+        ],
+        [
+          "Technical SEO Audit",
+          "/audits/technical-seo-audit/"
+        ],
+        [
+          "AI Visibility Audit",
+          "/audits/ai-visibility-audit/"
+        ],
+        [
+          "CRO Audit",
+          "/services/conversion-rate-optimization/audit/"
+        ],
+        [
+          "Digital Analytics Audit",
+          "/services/digital-analytics/audit/"
+        ],
+        [
+          "Accessibility Audit",
+          "/audits/accessibility-audit/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Book the Digital Merchandising Audit.",
+      "p": "2 weeks · Fixed price by catalog size",
+      "btn": {
+        "l": "Book this audit",
+        "act": "book",
+        "topic": "Digital Merchandising Audit"
+      },
+      "form": true
+    }
+  ]
+}

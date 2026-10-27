@@ -1,0 +1,268 @@
+{
+  "key": "audit:seo-audit",
+  "path": "/audits/seo-audit/",
+  "title": "SEO Audit Services for Large eCommerce Catalogs | CXWorks",
+  "description": "An eCommerce SEO audit covering crawl, indexation, category and product pages, internal links and content gaps, with a fix list ranked by revenue impact.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Diagnose"
+    ],
+    [
+      "SEO Audit"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "SEO audit services",
+      "a": "SEO audit services",
+      "b": "for large catalogs.",
+      "lead": "See what holds your rankings back and what to fix first.",
+      "ctas": [
+        {
+          "l": "Book this audit",
+          "act": "book",
+          "topic": "SEO Audit"
+        },
+        {
+          "l": "Compare with the full DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ],
+      "meta": [
+        "2 to 3 weeks",
+        "Fixed price by site size"
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "Who it is for",
+      "h": "Get it when:",
+      "items": [
+        "Organic traffic is flat or falling",
+        "Category pages rank below competitors",
+        "Planning a migration"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Discoverability, Findability"
+    },
+    {
+      "type": "chart",
+      "slug": "audit-seo-audit"
+    },
+    {
+      "type": "checklist",
+      "eb": "What we check",
+      "h": "Checklist by gate.",
+      "groups": [
+        {
+          "gate": "Cited",
+          "items": [
+            [
+              "Content",
+              "Thin, duplicate or missing category and product copy"
+            ],
+            [
+              "Keywords",
+              "Buyer terms you rank for, and the ones you miss"
+            ],
+            [
+              "Links",
+              "Authority compared with competitors"
+            ],
+            [
+              "Ecommerce SEO",
+              "Faceted URLs, pagination, product schema"
+            ]
+          ]
+        },
+        {
+          "gate": "Clicked",
+          "items": [
+            [
+              "Relevance",
+              "Search intent versus landing page"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "What you get",
+      "h": "Delivered as:",
+      "items": [
+        "Issue list ranked by impact",
+        "Quick wins for the first 30 days",
+        "Ecommerce section for catalogs",
+        "One-page Nine Gates snapshot"
+      ],
+      "check": true
+    },
+    {
+      "type": "steps",
+      "eb": "How it works",
+      "h": "AI first, experts always.",
+      "items": [
+        [
+          "AI first pass",
+          "Agents scan pages, logs and feeds."
+        ],
+        [
+          "Expert review",
+          "A specialist checks every finding."
+        ],
+        [
+          "Walkthrough call",
+          "We present the priorities and quick wins."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample report",
+      "h": "What the report looks like.",
+      "name": "SEO Audit"
+    },
+    {
+      "type": "upgrade",
+      "h": "Credited toward the DCX Audit.",
+      "p": "Book the full Diagnostic within 60 days and this audit fee is credited.",
+      "btn": {
+        "l": "See the DCX Audit",
+        "href": "/services/dcx-transformation/dcx-audit/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "An SEO audit built for large catalogs",
+      "paras": [
+        "Generic SEO audits list hundreds of warnings. Ours ranks the few issues that cost you traffic and revenue. It is designed for ecommerce and large catalog sites, where category pages, product pages and filters decide most organic visibility.",
+        "We review keyword coverage against what your buyers search, how category and product pages target those terms, internal linking, duplicate and thin content, and the pages competitors outrank you on. We also check how your pages show up in AI Overviews.",
+        "Findings are grouped by template and gate, so one fix often covers thousands of URLs. Each recommendation comes with expected impact and effort.",
+        "If the audit shows deeper technical issues, it points to a technical SEO audit. If content is the gap, it feeds straight into GEO and content work in a Build sprint."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How long does the SEO Audit take?",
+          "2 to 3 weeks. AI does a first pass, then an expert reviews and walks you through it."
+        ],
+        [
+          "How is it priced?",
+          "Fixed price by site size. You know the price before we start."
+        ],
+        [
+          "What do I get at the end?",
+          "Issue list ranked by impact, Quick wins for the first 30 days, Ecommerce section for catalogs, One-page Nine Gates snapshot."
+        ],
+        [
+          "Does the fee count toward the DCX Audit?",
+          "Yes, if you book the Diagnostic within 60 days the fee is credited."
+        ],
+        [
+          "Do I need to give you access?",
+          "Read-only access to analytics and search logs helps. We can start with public pages only."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to diagnose",
+      "items": [
+        [
+          "DCX Audit",
+          "/services/dcx-transformation/dcx-audit/"
+        ],
+        [
+          "Technical SEO Audit",
+          "/audits/technical-seo-audit/"
+        ],
+        [
+          "AI Visibility Audit",
+          "/audits/ai-visibility-audit/"
+        ],
+        [
+          "CRO Audit",
+          "/services/conversion-rate-optimization/audit/"
+        ],
+        [
+          "Digital Analytics Audit",
+          "/services/digital-analytics/audit/"
+        ],
+        [
+          "Accessibility Audit",
+          "/audits/accessibility-audit/"
+        ],
+        [
+          "Digital Merchandising Audit",
+          "/services/digital-merchandising/audit/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Book the SEO Audit.",
+      "p": "2 to 3 weeks · Fixed price by site size",
+      "btn": {
+        "l": "Book this audit",
+        "act": "book",
+        "topic": "SEO Audit"
+      },
+      "form": true
+    }
+  ]
+}

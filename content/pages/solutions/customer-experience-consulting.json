@@ -1,0 +1,267 @@
+{
+  "key": "sol:customer-experience-consulting",
+  "path": "/customer-experience-consulting/",
+  "title": "Customer Experience Consulting for eCommerce | CXWorks",
+  "description": "Customer experience consulting that finds where your digital journey breaks first, puts a revenue value on each fix and helps your team deliver it.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Customer Experience Consulting"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Customer Experience Consulting",
+      "a": "Customer experience consulting",
+      "b": "with AI agents and expert teams.",
+      "lead": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "ctas": [
+        {
+          "l": "Get your free AI scan",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "l": "Book a DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ]
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All nine"
+    },
+    {
+      "type": "gates",
+      "eb": "Cited, Clicked, Chosen",
+      "h": "Nine gates every customer passes through.",
+      "p": "Lost revenue shows up at conversion, but it usually starts earlier. We find the earliest gate that fails and fix that first.",
+      "link": {
+        "l": "See the Nine Gates framework",
+        "href": "/nine-gates/"
+      }
+    },
+    {
+      "type": "ai",
+      "eb": "AI plus human in the loop",
+      "h": "AI watches every gate. Experts fix what matters.",
+      "watch": [
+        "Zero-result and failed searches",
+        "Speed and errors by template",
+        "Tracking breaks and data gaps",
+        "Product feed and spec gaps",
+        "Mentions and citations in AI answers",
+        "Drop-off at checkout, quote or form"
+      ],
+      "decide": [
+        "Which signals are real",
+        "What fixing it is worth",
+        "What to fix first",
+        "How to design and build it",
+        "When it is ready to ship"
+      ]
+    },
+    {
+      "type": "cards",
+      "eb": "Services in this solution",
+      "h": "What makes it up.",
+      "items": [
+        {
+          "t": "DCX Strategy and Transformation",
+          "d": "One roadmap and one team owning every gate.",
+          "href": "/services/dcx-transformation/",
+          "meta": [
+            "All nine"
+          ]
+        },
+        {
+          "t": "Conversion Rate Optimization",
+          "d": "A testing program that fixes causes, not symptoms.",
+          "href": "/services/conversion-rate-optimization/",
+          "meta": [
+            "Usability, Trust, Conversion"
+          ]
+        },
+        {
+          "t": "Digital Analytics",
+          "d": "Tracking for orders and leads that every team trusts.",
+          "href": "/services/digital-analytics/",
+          "meta": [
+            "All (the measuring layer)"
+          ]
+        },
+        {
+          "t": "AI Search Visibility (GEO)",
+          "d": "Be the brand ChatGPT, Gemini and Google AI Mode recommend.",
+          "href": "/services/ai-search-visibility/",
+          "meta": [
+            "Discoverability"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ladder",
+      "eb": "Ways to start",
+      "h": "Small enough to say yes to.",
+      "p": "Each step sets up the next. Audits and fixed-price jobs sit beside the ladder as a side door, paid as you go or with prepaid credits.",
+      "items": [
+        {
+          "n": "01",
+          "t": "Free AI scan",
+          "d": "Automated. Nine Gate score, catalog health snapshot, zero-result search sample and AI visibility check. AI does the work, a human adds a two-line note before it goes out.",
+          "time": "About 48 hours",
+          "price": "Free",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "n": "02",
+          "t": "DCX Audit",
+          "d": "Human-led. Finds the earliest failing gate and puts a money value on fixing it. Ends with a prioritised roadmap.",
+          "time": "About 30 days",
+          "price": "Paid, fixed price",
+          "href": "/services/dcx-transformation/dcx-audit/",
+          "hi": true
+        },
+        {
+          "n": "03",
+          "t": "90-day Build sprint",
+          "d": "Fixes the top issues from the roadmap: templates, product data, search, tracking, first tests.",
+          "time": "90 days",
+          "price": "Fixed scope",
+          "href": "/services/dcx-transformation/"
+        }
+      ],
+      "link": {
+        "l": "Compare ways to work",
+        "href": "/ways-to-work/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Customer experience consulting with delivery built in",
+      "paras": [
+        "Without a shared way to prioritise, optimisation follows opinion, urgency or whoever asks loudest. The result is a long backlog with no clear view of what each idea is worth, how sure anyone is, or what it costs to try. Tests run in isolation, and lessons from one rarely shape the next.",
+        "We build an optimisation system that links the problems found in diagnosis to experiments your teams can run. Every opportunity is scored on the same terms, such as likely impact, confidence in the evidence and effort to deliver, using established models like ICE and PIE.",
+        "Experiment: Run an A/B or multivariate test where traffic allows, or another method where it doesn't."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How do you prioritise CX opportunities?",
+          "Every idea is scored on the same few questions: how much impact it could have, how strong the evidence is, and how much effort it takes. Established models such as ICE (Impact, Confidence, Ease) and PIE (Potential, Importance, Ease) provide the structure, adapted to your business. Ideas then compete on evidence, not on who asked for them."
+        ],
+        [
+          "Is this the same as CRO?",
+          "CRO is a core part of it, but the framework is broader. It connects testing to the problems found across the whole journey, so experiments target the gates that are actually holding performance back."
+        ],
+        [
+          "What if we don't have enough traffic for A/B testing?",
+          "Many sites don’t, especially for smaller segments or B2B journeys. We match the method to your traffic, using longer test windows, bigger changes, usability testing or before-and-after measurement where a split test can’t reach significance."
+        ],
+        [
+          "Do you run the tests, or does our team?",
+          "We can work both ways. CXWorks can run the first sprints with your team, then hand over, or support your existing CRO team from the start."
+        ],
+        [
+          "What happens after the first roadmap?",
+          "The cycle keeps going. Each result updates the hypothesis library and the scores, so the next sprint starts from what you’ve learned rather than from scratch. The Measurement & Intelligence Layer tracks the impact over time. Many sites don't, especially for smaller segments or B2B journeys. We match the method to your traffic, using longer test windows, bigger changes, usability testing or before-and-after measurement where a split test can't reach significance. The cycle keeps going. Each result updates the hypothesis library and the scores, so the next sprint starts from what you've learned rather than from scratch. The Measurement & Intelligence Layer tracks the impact over time."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More solutions",
+      "items": [
+        [
+          "Customer Journey Optimization",
+          "/customer-journey-optimization/"
+        ],
+        [
+          "Ecommerce Consulting",
+          "/ecommerce-consulting/"
+        ]
+      ],
+      "hubs": [],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Find your earliest failing gate.",
+      "p": "Free AI scan in about 48 hours.",
+      "btn": {
+        "l": "Get your free AI scan",
+        "href": "/free-ai-scan/"
+      },
+      "form": true
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "key": "free-ai-scan",
+  "path": "/free-ai-scan/",
+  "title": "Free AI Website Scan: Nine Gate Score in 48h | CXWorks",
+  "description": "Get a free AI scan of your eCommerce site: a Nine Gate score, catalog snapshot, zero-result search sample and AI visibility check within about 48 hours.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Free AI scan"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "convert",
+      "kind": "scan",
+      "eb": "Free AI scan",
+      "a": "Your Nine Gate score",
+      "b": "in about 48 hours.",
+      "items": [
+        "Nine Gate score",
+        "Catalog health snapshot",
+        "Zero-result search sample",
+        "AI visibility check",
+        "A two-line note from an expert"
+      ],
+      "steps": [
+        [
+          "Submit",
+          "Four fields, under a minute."
+        ],
+        [
+          "AI scans",
+          "Agents check all nine gates."
+        ],
+        [
+          "An expert adds a note",
+          "You get the score within about 48 hours."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample output",
+      "h": "What lands in your inbox.",
+      "name": "Free AI scan"
+    },
+    {
+      "type": "logos",
+      "eb": "Platforms we work with"
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "What the free AI scan checks",
+      "paras": [
+        "The free AI scan gives you a quick read on your digital customer experience. Our AI agents review your key pages and score them against the Nine Gates.",
+        "You get a first score per gate, the top issues we found and a suggestion for the best next step, usually a focused audit or the full DCX Audit.",
+        "It takes about 48 hours and there is no obligation."
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "Build: our services",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    }
+  ]
+}

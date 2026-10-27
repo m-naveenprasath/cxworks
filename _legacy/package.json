@@ -1,0 +1,10 @@
+{
+  "name": "cxworks-site",
+  "private": true,
+  "description": "CXWorks DCX website, unpacked from a single-file Claude Design export into editable HTML / CSS / JS.",
+  "scripts": {
+    "build": "node build.js",
+    "watch": "node build.js --watch",
+    "serve": "npx --yes serve . -l 5500"
+  }
+}

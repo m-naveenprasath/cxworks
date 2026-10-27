@@ -1,0 +1,285 @@
+{
+  "key": "audit:dcx-diagnostic",
+  "path": "/services/dcx-transformation/dcx-audit/",
+  "title": "DCX Audit: Find Where Your Journey Leaks Revenue | CXWorks",
+  "description": "The CXWorks DCX Audit scores your customer journey across nine gates, from Cited to Clicked to Chosen, and shows which fix returns the most revenue first.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Diagnose"
+    ],
+    [
+      "DCX Audit"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "DCX Audit",
+      "a": "DCX Audit",
+      "b": "",
+      "lead": "See Where Your Customer Journey is Leaking Revenue",
+      "ctas": [
+        {
+          "l": "Book a DCX Audit",
+          "act": "book",
+          "topic": "DCX Audit"
+        },
+        {
+          "l": "Start with the free AI scan",
+          "href": "/free-ai-scan/"
+        }
+      ],
+      "meta": [
+        "About 30 days",
+        "Fixed price by site size"
+      ],
+      "badge": "Most complete"
+    },
+    {
+      "type": "list",
+      "eb": "Who it is for",
+      "h": "Get it when:",
+      "items": [
+        "Revenue is flat and nobody agrees why",
+        "Several agencies, no single owner of the journey",
+        "Planning a replatform or redesign"
+      ]
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All nine"
+    },
+    {
+      "type": "chart",
+      "slug": "audit-dcx-diagnostic"
+    },
+    {
+      "type": "checklist",
+      "eb": "What we check",
+      "h": "Checklist by gate.",
+      "groups": [
+        {
+          "gate": "Cited",
+          "items": [
+            [
+              "Discoverability",
+              "Showing up in Google, AI answers and marketplaces when buyers search."
+            ],
+            [
+              "Findability",
+              "Search, menus and filters that get people to the right product or page fast."
+            ]
+          ]
+        },
+        {
+          "gate": "Clicked",
+          "items": [
+            [
+              "Relevance",
+              "The landing page matches what they searched for."
+            ],
+            [
+              "Clarity",
+              "They understand what you offer, who it is for and what to do next."
+            ],
+            [
+              "Usability",
+              "Speed, mobile, navigation and forms that never get in the way."
+            ]
+          ]
+        },
+        {
+          "gate": "Chosen",
+          "items": [
+            [
+              "Trust",
+              "Reviews, specs, policies and proof that remove doubt."
+            ],
+            [
+              "Conversion",
+              "Checkout, quote, form, call or booking that works first time."
+            ],
+            [
+              "Assistance",
+              "Order updates, onboarding, enquiry follow-up and fast answers on calls, email, chat and WhatsApp."
+            ],
+            [
+              "Retention",
+              "Reorders, renewals and referrals."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "What you get",
+      "h": "Delivered as:",
+      "items": [
+        "Nine Gates score with evidence",
+        "Earliest failing gate, valued in money",
+        "Prioritised 90-day roadmap",
+        "Walkthrough with your leadership team"
+      ],
+      "check": true
+    },
+    {
+      "type": "steps",
+      "eb": "How it works",
+      "h": "AI first, experts always.",
+      "items": [
+        [
+          "AI first pass",
+          "Agents scan pages, logs and feeds."
+        ],
+        [
+          "Expert review",
+          "A specialist checks every finding."
+        ],
+        [
+          "Walkthrough call",
+          "We present the priorities and quick wins."
+        ]
+      ]
+    },
+    {
+      "type": "sample",
+      "eb": "Sample report",
+      "h": "What the report looks like.",
+      "name": "DCX Audit"
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "DCX Audit Form",
+      "paras": [
+        "The DCX Audit scores your customer journey across the nine gates that take a buyer from being Cited, to Clicked, to Chosen. We identify the earliest and most impactful gates where your journey breaks, because everything downstream of that leads to lost opportunities.",
+        "Most CX audits produce a long list of issues. The harder question is which one matters first.",
+        "CXWorks scores each of the nine gates against behavioural evidence, customer feedback and competitor benchmarks. We then trace upstream from where revenue is leaking to find the earliest gate where the journey meaningfully breaks. That gate, not the loudest symptom, is where intervention starts.",
+        "Score each gate. Analytics, session behaviour and an expert UX and content review, rated against defined criteria for that gate."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What does a gate-based CX diagnosis uncover?",
+          "Where your journey is breaking across the nine gates, which break comes first, and roughly what each is costing. That gives you a sequence for investment, not just a list of problems."
+        ],
+        [
+          "How is this different from a standard website audit?",
+          "A standard audit catalogues usability, content or technical issues, usually as a flat list. A gate audit places each issue in the journey sequence and sizes its business impact. You see which issues to fix first and which are symptoms of an earlier break."
+        ],
+        [
+          "How do you estimate revenue leakage?",
+          "We take the drop-off at each gate, apply your conversion rate and average order value, and compare it with benchmark performance for that gate. The gap is the estimated leakage. Every assumption is shown, and the figure is used to rank priorities rather than as a claim of exact attribution."
+        ],
+        [
+          "How long does a CX Audit take?",
+          "24 to 48 hours, depending on how quickly we can access your data and how many journeys are in scope."
+        ],
+        [
+          "What if our analytics data is incomplete?",
+          "We work with what exists, add session analysis, expert review and customer research, and flag where confidence in a finding is lower."
+        ],
+        [
+          "What happens after the diagnosis?",
+          "Most of our clients move into Journey Mapping & Experience Redesign for the gates that break first, then use the Experience Optimisation Framework to improve them. The scorecard baseline lets you track progress through the Measurement & Intelligence Layer."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to diagnose",
+      "items": [
+        [
+          "SEO Audit",
+          "/audits/seo-audit/"
+        ],
+        [
+          "Technical SEO Audit",
+          "/audits/technical-seo-audit/"
+        ],
+        [
+          "AI Visibility Audit",
+          "/audits/ai-visibility-audit/"
+        ],
+        [
+          "CRO Audit",
+          "/services/conversion-rate-optimization/audit/"
+        ],
+        [
+          "Digital Analytics Audit",
+          "/services/digital-analytics/audit/"
+        ],
+        [
+          "Accessibility Audit",
+          "/audits/accessibility-audit/"
+        ],
+        [
+          "Digital Merchandising Audit",
+          "/services/digital-merchandising/audit/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Book the DCX Audit.",
+      "p": "About 30 days · Fixed price by site size",
+      "btn": {
+        "l": "Book this audit",
+        "act": "book",
+        "topic": "DCX Audit"
+      },
+      "form": true
+    }
+  ]
+}

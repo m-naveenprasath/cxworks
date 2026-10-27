@@ -1,0 +1,38 @@
+{
+  "Discoverability": {
+    "sell": "AI shopping answers list a competitor for your best-selling category.",
+    "enq": "An AI tool recommends three rival clinics, not yours."
+  },
+  "Findability": {
+    "sell": "\"3/8 hex bolt\" returns no results.",
+    "enq": "The pricing page is three clicks deep."
+  },
+  "Relevance": {
+    "sell": "A search ad lands on the home page, not the category.",
+    "enq": "A demo ad lands on a generic blog post."
+  },
+  "Clarity": {
+    "sell": "Specs are buried under marketing copy.",
+    "enq": "The service page never says who it is for."
+  },
+  "Usability": {
+    "sell": "Filters reset when you go back.",
+    "enq": "The booking form breaks on mobile."
+  },
+  "Trust": {
+    "sell": "No delivery date or returns policy near the button.",
+    "enq": "Accreditations hidden in the footer."
+  },
+  "Conversion": {
+    "sell": "Shipping cost appears only at the last step.",
+    "enq": "The form asks 20 questions before a call."
+  },
+  "Assistance": {
+    "sell": "Order emails go out with no tracking link.",
+    "enq": "Onboarding starts a week after signup."
+  },
+  "Retention": {
+    "sell": "No quick reorder for repeat trade buyers.",
+    "enq": "No renewal reminder or referral ask."
+  }
+}

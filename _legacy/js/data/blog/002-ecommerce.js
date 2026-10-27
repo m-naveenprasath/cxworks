@@ -1,0 +1,382 @@
+/* Insight: eCommerce Insights */
+window.CX_BLOGS.push({
+  "slug": "ecommerce",
+  "url": "/insights/ecommerce/",
+  "cat": "eCommerce",
+  "t": "eCommerce Insights",
+  "title": "eCommerce Insights, Trends & Expert Articles - CXWorks",
+  "d": "Explore expert eCommerce insights, industry trends, customer experience strategies, CRO, analytics, merchandising, AI search, and growth marketing from CXWorks.",
+  "ex": "Explore expert eCommerce insights, industry trends, customer experience strategies, CRO, analytics, merchandising, AI search, and growth marketing from CXWorks.",
+  "date": "July 14, 2026",
+  "read": "12 min",
+  "secs": [
+    {
+      "h": "What Is eCommerce?",
+      "b": [
+        {
+          "p": "eCommerce is the buying and selling of products or services through digital channels. A modern eCommerce business combines technology, customer data, digital marketing, operations, payment systems, and fulfillment into one connected ecosystem that enables customers to discover, evaluate, purchase, and repurchase products online."
+        },
+        {
+          "p": "The definition of eCommerce has expanded significantly over the past decade. Digital commerce now includes marketplaces, direct-to-consumer brands, B2B self-service portals, subscription businesses, mobile commerce, social commerce, and increasingly AI-assisted shopping experiences. Customers no longer interact with brands through a single website. They move across search engines, AI assistants, social platforms, marketplaces, mobile apps, email, and physical stores before making a purchasing decision."
+        },
+        {
+          "p": "For this reason, successful eCommerce businesses measure the complete customer journey not just individual transactions. Every interaction influences conversion, customer lifetime value, and long-term profitability."
+        }
+      ]
+    },
+    {
+      "h": "The Evolution of eCommerce",
+      "b": [
+        {
+          "p": "The first generation of eCommerce focused on digitizing transactions. Businesses created online catalogs, added shopping carts, and accepted digital payments. Competitive advantage often depended on simply having an online presence. The second generation shifted toward user experience. Faster websites, responsive design, better navigation, improved checkout flows, and secure payment processing became standard expectations. During this period, platforms such as Shopify, Magento, and BigCommerce accelerated digital adoption for businesses of every size."
+        },
+        {
+          "p": "“eCommerce has entered a customer intelligence era, organizations collect behavioral, transactional, and engagement data to understand customer intent, personalize experiences, optimize merchandising, and continuously improve performance. Artificial intelligence, predictive analytics, and automation now influence product recommendations, pricing, inventory forecasting, customer support, and content creation.”"
+        },
+        {
+          "p": "Search behavior has also changed. Traditional search engines coexist with AI-powered answer engines. Businesses must optimize for discoverability across both areas through technical SEO, structured content, and emerging disciplines such as Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO). CXWorks incorporates these capabilities within its Digital CX Operating System because discoverability now begins before a customer reaches a website."
+        },
+        {
+          "ul": [
+            "Types of eCommerce Business Models",
+            "B2C (Business-to-Consumer)",
+            "B2C businesses sell directly to individual consumers. Fashion retailers, electronics brands, beauty companies, furniture retailers, and grocery businesses typically operate within this model. Purchasing decisions often depend on convenience, trust, pricing, product presentation, and brand perception."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "B2B (Business-to-Business)",
+      "b": [
+        {
+          "p": "B2B eCommerce supports organizations purchasing from other organizations. These buying journeys typically involve negotiated pricing, account-based catalogs, approval workflows, repeat purchasing, technical documentation, and ERP integration."
+        }
+      ]
+    },
+    {
+      "h": "D2C (Direct-to-Consumer)",
+      "b": [
+        {
+          "p": "D2C brands remove traditional retail intermediaries by selling directly to customers. This model provides greater control over customer relationships, first-party data, pricing, merchandising, and lifecycle marketing while increasing responsibility for acquisition and retention."
+        }
+      ]
+    },
+    {
+      "h": "Marketplace Commerce",
+      "b": [
+        {
+          "p": "Marketplace sellers operate through platforms such as Amazon, Walmart Marketplace, and regional marketplaces. These businesses benefit from existing customer demand but compete aggressively on pricing, reviews, fulfillment performance, and product visibility."
+        },
+        {
+          "p": "Many successful organizations now operate hybrid models, combining multiple revenue channels to diversify acquisition while maintaining ownership of customer relationships."
+        }
+      ]
+    },
+    {
+      "h": "How the Modern eCommerce Ecosystem Works",
+      "b": [
+        {
+          "p": "“Modern eCommerce operates as an interconnected ecosystem, the customer journey begins with a search engine, AI assistant, paid advertisement, social recommendation, influencer content, email campaign, or marketplace listing. Customers evaluate product information, compare alternatives, read reviews, interact with support, and assess trust signals before deciding whether to purchase.”"
+        },
+        {
+          "p": "Behind every customer interaction sits an integrated technology ecosystem. Analytics platforms capture behavioral data. Customer Data Platforms unify customer profiles. Product Information Management systems distribute consistent product content. Marketing automation platforms deliver personalized communications. Inventory systems synchronize availability across channels while fulfillment platforms manage delivery."
+        },
+        {
+          "p": "Each component influences the next. Poor analytics creates poor decisions. Weak merchandising reduces discoverability. Ineffective product content lowers conversion. Inconsistent fulfillment damages retention. High-performing organizations recognize these dependencies and optimize the complete system."
+        },
+        {
+          "p": "Essential Components of a Successful eCommerce Business"
+        },
+        {
+          "p": "Customer Experience"
+        },
+        {
+          "p": "Customer experience influences every commercial outcome. Navigation, usability, product content, mobile responsiveness, checkout efficiency, accessibility, and post-purchase communication collectively determine whether visitors become loyal customers. Research from the Baymard Institute consistently shows that checkout friction remains one of the largest contributors to cart abandonment. Businesses that simplify purchasing improve conversion without increasing acquisition spend."
+        }
+      ]
+    },
+    {
+      "h": "Data and Analytics",
+      "b": [
+        {
+          "p": "Analytics transforms customer behavior into measurable business decisions. Organizations require reliable measurement frameworks, event tracking, funnel analysis, customer segmentation, attribution modeling, and executive dashboards before optimization becomes repeatable. Tools such as Google Analytics 4 (GA4), Google Tag Manager (GTM), Mixpanel, Adobe Analytics, and Looker Studio provide the visibility needed to identify growth opportunities. Without trustworthy data, optimization becomes opinion."
+        }
+      ]
+    },
+    {
+      "h": "Digital Merchandising",
+      "b": [
+        {
+          "p": "Digital merchandising determines how effectively products are presented and discovered. Effective merchandising combines product content optimization, search relevance, category structure, assortment planning, pricing strategy, recommendation engines, and promotional planning. Businesses that improve on-site search and product discoverability frequently increase average order value alongside conversion rates."
+        }
+      ]
+    },
+    {
+      "h": "Continuous Optimization",
+      "b": [
+        {
+          "p": "Digital performance does not improve through one-time redesign projects. Successful organizations establish continuous experimentation programs using hypothesis development, A/B testing, behavioral research, customer feedback, and iterative releases. Every improvement creates new customer insight that informs the next optimization cycle. CXWorks structures this process as an ongoing operating model instead of isolated consulting engagements."
+        }
+      ]
+    },
+    {
+      "h": "The eCommerce Customer Journey",
+      "b": [
+        {
+          "p": "Modern customer journeys are not following a straight line. Customers discover brands through search engines, AI-generated answers, paid campaigns, marketplaces, referrals, or social media. They compare products across multiple websites, revisit previously viewed items, evaluate trust signals, and frequently switch between desktop and mobile devices before purchasing."
+        },
+        {
+          "p": "After purchase, the experience continues through fulfillment, customer support, returns, loyalty programs, lifecycle communications, and repeat purchasing. Every stage creates opportunities for growth or friction."
+        }
+      ]
+    },
+    {
+      "h": "Awareness",
+      "b": [
+        {
+          "p": "Customers first recognize a need and begin researching possible solutions. Organic visibility, paid acquisition, AI discoverability, content marketing, and social engagement determine whether a business becomes part of the consideration set."
+        }
+      ]
+    },
+    {
+      "h": "Consideration",
+      "b": [
+        {
+          "p": "Customers compare alternatives based on relevance, clarity, product information, pricing, reviews, availability, and trust. High-quality product content and intuitive navigation significantly influence progression through this stage."
+        }
+      ]
+    },
+    {
+      "h": "Conversion",
+      "b": [
+        {
+          "p": "The purchase experience depends on usability, checkout simplicity, payment flexibility, page performance, and confidence-building elements such as reviews, guarantees, delivery transparency, and security indicators."
+        }
+      ]
+    },
+    {
+      "h": "Retention",
+      "b": [
+        {
+          "p": "Customer lifetime value depends on what happens after conversion. Lifecycle email programs, personalized recommendations, loyalty initiatives, replenishment reminders, customer support, and proactive communication encourage repeat purchases while reducing acquisition dependency."
+        }
+      ]
+    },
+    {
+      "h": "The CXWorks Digital CX Operating System",
+      "b": [
+        {
+          "p": "“Many organizations invest independently in SEO, paid advertising, CRO, analytics, merchandising, and customer experience. Each discipline may improve individual metrics while the overall customer journey remains fragmented.”"
+        },
+        {
+          "p": "CXWorks addresses this challenge through the Digital Customer Experience (Digital CX) Operating System, a connected framework that identifies where customer journeys fail and aligns every optimization initiative around measurable business outcomes. Instead of treating digital marketing, analytics, merchandising, and experimentation as separate services, the framework integrates them through one operating model delivered via a Digital Center of Excellence (dCOE)."
+        }
+      ]
+    },
+    {
+      "h": "The Nine Gates Framework",
+      "b": [
+        {
+          "p": "The Digital CX Operating System evaluates customer journeys across nine sequential decision points grouped into three commercial stages: Cited, Clicked, and Chosen. The Cited stage measures discoverability and findability. The Clicked stage evaluates relevance, clarity, and usability. The Chosen stage measures trust, conversion, assistance, and retention. Failure at any gate reduces the effectiveness of every downstream investment, making early diagnosis essential for efficient optimization."
+        }
+      ]
+    },
+    {
+      "h": "Continuous Optimization",
+      "b": [
+        {
+          "p": "The framework follows a recurring operating cycle of Diagnose, Prioritize, Execute, Measure, and Iterate. Customer insights become hypotheses, hypotheses become experiments, experiments generate measurable outcomes, and those outcomes inform the next cycle of improvement and this creates a compounding optimization system."
+        }
+      ]
+    },
+    {
+      "h": "Core Disciplines That Drive eCommerce Growth",
+      "b": [
+        {
+          "p": "Sustainable eCommerce growth depends on the coordinated performance of multiple business disciplines. Many organizations increase advertising budgets to acquire more traffic while overlooking weaknesses in merchandising, analytics, customer experience, or retention. This approach increases acquisition costs without improving profitability. High-performing retailers treat growth as a connected operating system in which every discipline contributes to the customer journey."
+        }
+      ]
+    },
+    {
+      "h": "Digital Customer Experience (Digital CX)",
+      "b": [
+        {
+          "p": "Digital Customer Experience defines how customers interact with a brand from discovery through repeat purchase. Every page load, navigation decision, product comparison, checkout interaction, and post-purchase communication shapes customer perception. A strong customer experience reduces friction, increases confidence, and improves conversion rates across every acquisition channel."
+        },
+        {
+          "p": "Customer experience also influences operational efficiency. Clear navigation reduces support enquiries, intuitive product pages reduce returns, and streamlined checkout experiences improve conversion without requiring additional advertising investment."
+        }
+      ]
+    },
+    {
+      "h": "Digital Merchandising",
+      "b": [
+        {
+          "p": "Digital merchandising determines whether customers discover the right products at the right time. It extends beyond arranging products within a category page. Effective merchandising combines product information management, search optimization, taxonomy, pricing strategy, promotional planning, recommendation engines, and assortment analysis."
+        },
+        {
+          "p": "Leading retailers continuously evaluate product performance using metrics such as conversion rate, margin contribution, inventory turnover, search behavior, and customer demand. Customer segmentation techniques such as RFM (Recency, Frequency, Monetary) analysis also allow merchandising teams to personalize product presentation for different customer groups. CXWorks integrates merchandising with behavioral analytics so merchandising decisions are informed by customer behavior."
+        }
+      ]
+    },
+    {
+      "h": "Analytics and Customer Intelligence",
+      "b": [
+        {
+          "p": "Analytics provides the evidence required for effective decision-making. Businesses cannot optimize customer experiences if they cannot accurately measure customer behavior. A modern analytics capability includes clean event tracking, conversion funnels, attribution modeling, cohort analysis, customer lifetime value (CLV), churn prediction, and executive dashboards. Organizations combine GA4, Google Tag Manager, BigQuery, customer data platforms (CDPs), and visualization tools such as Looker Studio or Power BI to create a single source of truth."
+        },
+        {
+          "p": "Instead of reporting historical performance, advanced analytics identifies opportunities before they become commercial problems. Customer intelligence helps organizations predict churn, identify high-value customer segments, optimize pricing strategies, and prioritize experimentation initiatives."
+        }
+      ]
+    },
+    {
+      "h": "Conversion Rate Optimization (CRO)",
+      "b": [
+        {
+          "p": "Conversion Rate Optimization improves the percentage of visitors who complete meaningful business objectives. Successful CRO programs rely on structured experimentation. Optimization begins with quantitative analysis to identify where customers abandon journeys and qualitative research to understand why. Behavioral analytics, heatmaps, session recordings, surveys, and usability testing reveal friction that traditional reporting misses. Each observation becomes a measurable hypothesis that can be validated through controlled A/B testing."
+        },
+        {
+          "p": "Businesses that maintain continuous experimentation programs consistently improve conversion while reducing dependence on additional traffic acquisition."
+        }
+      ]
+    },
+    {
+      "h": "Growth Marketing",
+      "b": [
+        {
+          "p": "Growth marketing connects acquisition, engagement, and retention into one measurable framework. Unlike channel-specific marketing, growth marketing evaluates the entire customer lifecycle. Search engine optimization, paid media, lifecycle email, CRM automation, content marketing, and customer retention programs operate together. Customer acquisition costs continue to increase across many advertising platforms, making retention and lifetime value important commercial metrics. Organizations that improve customer retention often achieve stronger long-term profitability than those focused exclusively on new customer acquisition."
+        }
+      ]
+    },
+    {
+      "h": "Choosing the Right eCommerce Platform",
+      "b": [
+        {
+          "p": "Technology should support business strategy, the most suitable eCommerce platform depends on business complexity, operational requirements, integration needs, and future scalability. Shopify has become the preferred platform for many D2C and mid-market B2C businesses because of its ease of use, extensive application ecosystem, and managed infrastructure. Adobe Commerce (formerly Magento) supports highly customized enterprise implementations requiring sophisticated catalog management and complex integrations. BigCommerce offers strong API capabilities and multi-channel commerce functionality, while WooCommerce provides flexibility for organizations operating within the WordPress ecosystem."
+        },
+        {
+          "p": "Platform selection should extend beyond licensing costs. Businesses should evaluate integration capabilities, API maturity, scalability, security, ecosystem support, content management, search capabilities, performance, and ownership costs over several years."
+        },
+        {
+          "p": "Organizations invest in new technology while retaining the same customer experience, merchandising strategy, analytics gaps, and operational processes. Sustainable growth depends on combining technology investment with continuous optimization."
+        }
+      ]
+    },
+    {
+      "h": "eCommerce Technology Stack",
+      "b": [
+        {
+          "p": "Modern eCommerce businesses operate multiple connected technology platforms. The commerce platform manages products, orders, payments, and customer accounts. Product Information Management (PIM) systems maintain consistent product content across channels, while Customer Data Platforms unify customer behavior from multiple sources into comprehensive customer profiles."
+        },
+        {
+          "p": "Analytics platforms measure digital performance. Behavioral analytics tools reveal customer interactions beyond traditional reports. Customer Relationship Management systems support lifecycle marketing, while marketing automation platforms deliver personalized communications throughout the customer journey."
+        },
+        {
+          "p": "Search and discovery technologies have become important as product catalogs expand. Intelligent search platforms improve relevance, autocomplete, faceted navigation, and product recommendations, helping customers locate products more efficiently. Artificial intelligence connects these technologies by automating segmentation, personalization, forecasting, recommendation engines, conversational support, and operational workflows."
+        }
+      ]
+    },
+    {
+      "h": "Digital Marketing Channels for eCommerce",
+      "b": [
+        {
+          "p": "Customer acquisition requires a balanced portfolio of marketing channels, each channel contributes differently throughout the customer lifecycle. Organic search remains one of the highest-return acquisition channels because it captures existing customer intent. High-quality informational content, technical SEO, structured data, and topical authority improve long-term visibility while reducing dependency on paid advertising."
+        },
+        {
+          "p": "Paid search and shopping campaigns capture immediate commercial demand. Performance marketing provides predictable scalability when supported by accurate attribution and landing page optimization. Social media builds brand awareness, community engagement, and product discovery. Video content, creator partnerships, and user-generated content influence purchase decisions, particularly in consumer markets."
+        },
+        {
+          "p": "Email and lifecycle marketing remain among the highest-performing owned channels because they support customer activation, retention, replenishment, cross-selling, and win-back campaigns using first-party customer data. Content marketing strengthens every acquisition channel simultaneously. Educational resources, buying guides, comparison articles, and industry insights establish authority while supporting both traditional search engines and AI-powered discovery platforms."
+        }
+      ]
+    },
+    {
+      "h": "AI in eCommerce",
+      "b": [
+        {
+          "p": "Artificial intelligence is changing how customers discover products, evaluate brands, and complete purchases. Retailers use AI to personalize product recommendations, generate dynamic merchandising rules, forecast inventory demand, optimize pricing, classify products, automate customer service, and predict customer churn. Machine learning models identify behavioral patterns that would be impossible to detect through manual analysis."
+        },
+        {
+          "p": "Generative AI is also reshaping digital discovery. Customers ask conversational questions instead of performing keyword-based searches. This shift requires businesses to produce structured, authoritative content that AI systems can understand, reference, and cite."
+        },
+        {
+          "p": "Within the CXWorks Digital CX Operating System, AI supports discoverability through Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO), extending visibility beyond traditional search rankings into AI-generated responses. Businesses that establish topical authority today will be better positioned as AI-assisted shopping continues to grow."
+        }
+      ]
+    },
+    {
+      "h": "Measuring eCommerce Success",
+      "b": [
+        {
+          "p": "Revenue alone provides an incomplete view of digital performance. Sustainable growth depends on balancing acquisition efficiency, customer behavior, profitability, and retention. Organizations should monitor customer acquisition cost (CAC), customer lifetime value (CLV), conversion rate, average order value (AOV), cart abandonment rate, revenue per visitor, repeat purchase rate, retention rate, return on advertising spend (ROAS), and gross margin alongside operational metrics such as fulfillment accuracy and return rates."
+        },
+        {
+          "p": "Behavioral metrics are equally important. Funnel progression, search success rate, product page engagement, checkout completion, and customer satisfaction reveal where customer journeys begin to deteriorate before financial performance declines. The most effective organizations establish KPI hierarchies that distinguish strategic business outcomes from operational diagnostic metrics. This approach ensures that optimization efforts remain aligned with commercial objectives."
+        }
+      ]
+    },
+    {
+      "h": "Common eCommerce Challenges",
+      "b": [
+        {
+          "p": "Most eCommerce businesses do not struggle because of insufficient technology. They struggle because disconnected teams optimize individual functions without understanding how those decisions affect the entire customer journey. Fragmented analytics prevent confident decision-making. Poor product content reduces discoverability and conversion. Weak on-site search hides valuable products. Checkout friction increases abandonment. Generic customer experiences reduce loyalty, while rising advertising costs make customer acquisition expensive."
+        },
+        {
+          "p": "Many organizations also face internal challenges. Marketing, UX, merchandising, analytics, and technology teams operate independently with different priorities and success metrics. Without shared governance and unified measurement, optimization becomes reactive. Addressing these challenges requires an operating model that connects data, customer experience, experimentation, and commercial decision-making into one continuous improvement framework."
+        }
+      ]
+    },
+    {
+      "h": "eCommerce Trends Shaping the Future",
+      "b": [
+        {
+          "p": "The future of eCommerce will be defined by intelligence. Businesses will compete through personalization, automation, predictive analytics, and customer experience. Artificial intelligence will continue transforming product discovery, customer service, merchandising, and marketing operations. First-party customer data will become more valuable as privacy regulations reduce dependence on third-party tracking. Composable commerce architectures will provide greater flexibility for enterprise businesses, while headless commerce will separate presentation layers from backend commerce functionality to improve customer experiences across multiple digital touchpoints."
+        },
+        {
+          "p": "Search itself will continue evolving. Customers will discover products through conversational AI, voice interfaces, visual search, and recommendation engines. Businesses that establish strong topical authority, structured content, and trusted digital experiences will be better positioned for this transition.."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "What is eCommerce?",
+      "eCommerce is the process of buying and selling products or services through digital channels, including websites, marketplaces, mobile applications, and online marketplaces. Modern eCommerce also includes digital marketing, customer analytics, fulfillment, payments, and lifecycle management."
+    ],
+    [
+      "How do eCommerce businesses make money?",
+      "eCommerce businesses generate revenue by selling products or services online while improving profitability through efficient acquisition, higher conversion rates, larger average order values, repeat purchases, and strong customer retention."
+    ],
+    [
+      "What is the difference between B2B and B2C eCommerce?",
+      "B2B eCommerce serves business buyers with complex purchasing processes, negotiated pricing, and account-based experiences. B2C eCommerce focuses on individual consumers, where convenience, brand experience, product presentation, and customer service have greater influence on purchasing decisions."
+    ],
+    [
+      "Which eCommerce platform is best?",
+      "The best platform depends on business requirements. Shopify is popular for growing D2C brands, Adobe Commerce supports complex enterprise commerce, BigCommerce offers strong API flexibility, and WooCommerce suits businesses already invested in WordPress."
+    ],
+    [
+      "What are the biggest challenges in eCommerce?",
+      "The most common challenges include rising customer acquisition costs, fragmented customer experiences, poor analytics, ineffective merchandising, checkout abandonment, customer retention, and increasing competition across digital channels."
+    ],
+    [
+      "What KPIs should eCommerce businesses track?",
+      "Organizations should monitor conversion rate, customer acquisition cost, customer lifetime value, average order value, repeat purchase rate, retention rate, revenue per visitor, cart abandonment rate, and return on advertising spend alongside behavioral metrics that identify customer friction."
+    ],
+    [
+      "What is the future of eCommerce?",
+      "The future of eCommerce centers on AI-powered personalization, conversational search, first-party customer data, predictive analytics, automation, composable commerce, and continuous customer experience optimization."
+    ],
+    [
+      "How does AI impact eCommerce?",
+      "AI improves personalization, customer support, merchandising, demand forecasting, fraud detection, search relevance, pricing optimization, content generation, and customer segmentation while changing how customers discover products through AI-powered search experiences. eCommerce is the process of buying and selling products or services through digital channels, including websites, marketplaces, mobile applications, and online marketplaces. Modern eCommerce also includes digital marketing, customer analytics, fulfillment, payments, and lifecycle management. eCommerce businesses generate revenue by selling products or services online while improving profitability through efficient acquisition, higher conversion rates, larger average order values, repeat purchases, and strong customer retention. B2B eCommerce serves business buyers with complex purchasing processes, negotiated pricing, and account-based experiences. B2C eCommerce focuses on individual consumers, where convenience, brand experience, product presentation, and customer service have greater influence on purchasing decisions. The best platform depends on business requirements. Shopify is popular for growing D2C brands, Adobe Commerce supports complex enterprise commerce, BigCommerce offers strong API flexibility, and WooCommerce suits businesses already invested in WordPress. The most common challenges include rising customer acquisition costs, fragmented customer experiences, poor analytics, ineffective merchandising, checkout abandonment, customer retention, and increasing competition across digital channels. Organizations should monitor conversion rate, customer acquisition cost, customer lifetime value, average order value, repeat purchase rate, retention rate, revenue per visitor, cart abandonment rate, and return on advertising spend alongside behavioral metrics that identify customer friction. The future of eCommerce centers on AI-powered personalization, conversational search, first-party customer data, predictive analytics, automation, composable commerce, and continuous customer experience optimization. AI improves personalization, customer support, merchandising, demand forecasting, fraud detection, search relevance, pricing optimization, content generation, and customer segmentation while changing how customers discover products through AI-powered search experiences."
+    ]
+  ],
+  "draft": false,
+  "sols": [
+    "dcx-transformation",
+    "conversion-rate-optimization",
+    "digital-analytics"
+  ]
+});

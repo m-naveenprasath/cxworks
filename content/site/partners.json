@@ -1,0 +1,8 @@
+[
+  { "slug": "quantum-metric", "name": "Quantum Metric" },
+  { "slug": "adobe", "name": "Adobe" },
+  { "slug": "google-analytics", "name": "Google Analytics" },
+  { "slug": "qualtrics", "name": "Qualtrics" },
+  { "slug": "contentsquare", "name": "Contentsquare" },
+  { "slug": "optimizely", "name": "Optimizely" }
+]

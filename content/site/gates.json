@@ -1,0 +1,56 @@
+[
+  {
+    "stage": "Cited",
+    "tag": "Can they find you?",
+    "gates": [
+      [
+        "Discoverability",
+        "Showing up in Google, AI answers and marketplaces when buyers search."
+      ],
+      [
+        "Findability",
+        "Search, menus and filters that get people to the right product or page fast."
+      ]
+    ]
+  },
+  {
+    "stage": "Clicked",
+    "tag": "Do they stay?",
+    "gates": [
+      [
+        "Relevance",
+        "The landing page matches what they searched for."
+      ],
+      [
+        "Clarity",
+        "They understand what you offer, who it is for and what to do next."
+      ],
+      [
+        "Usability",
+        "Speed, mobile, navigation and forms that never get in the way."
+      ]
+    ]
+  },
+  {
+    "stage": "Chosen",
+    "tag": "Do they buy, and come back?",
+    "gates": [
+      [
+        "Trust",
+        "Reviews, specs, policies and proof that remove doubt."
+      ],
+      [
+        "Conversion",
+        "Checkout, quote, form, call or booking that works first time."
+      ],
+      [
+        "Assistance",
+        "Order updates, onboarding, enquiry follow-up and fast answers on calls, email, chat and WhatsApp."
+      ],
+      [
+        "Retention",
+        "Reorders, renewals and referrals."
+      ]
+    ]
+  }
+]

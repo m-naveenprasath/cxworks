@@ -1,0 +1,428 @@
+/* Insight: What Are eCommerce Growth Disciplines? */
+window.CX_BLOGS.push({
+  "slug": "ecommerce/channels",
+  "url": "/insights/ecommerce/channels/",
+  "cat": "Channels & Marketing",
+  "t": "What Are eCommerce Growth Disciplines?",
+  "title": "Core Disciplines That Drive eCommerce Growth - CXWorks",
+  "d": "eCommerce growth disciplines are the strategic functions that collectively influence how an online business attracts visitors, converts them into…",
+  "ex": "eCommerce growth disciplines are the strategic functions that collectively influence how an online business attracts visitors, converts them into customers, and builds lasting relationships. Rather…",
+  "date": "August 18, 2026",
+  "read": "13 min",
+  "secs": [
+    {
+      "h": "Introduction",
+      "b": [
+        {
+          "p": "eCommerce growth disciplines are the strategic functions that collectively influence how an online business attracts visitors, converts them into customers, and builds lasting relationships. Rather than operating independently, these disciplines work together to improve every stage of the customer journey and support continuous eCommerce performance improvement."
+        },
+        {
+          "p": "A modern eCommerce growth strategy extends beyond marketing. It encompasses website performance, merchandising, customer experience, search visibility, experimentation, analytics, technology, and customer retention. Each discipline contributes to the broader objective of delivering seamless Digital CX while maximizing revenue and profitability."
+        },
+        {
+          "p": "For example, attracting more visitors through SEO or paid advertising delivers little value if customers struggle to find products or abandon the checkout process. Likewise, a beautifully designed website cannot achieve its potential without relevant traffic, effective merchandising, or meaningful customer insights. Sustainable growth depends on strengthening every component of the customer journey rather than optimizing isolated metrics."
+        },
+        {
+          "p": "Leading organizations therefore treat growth as an ongoing operational capability rather than a series of one-time projects."
+        }
+      ]
+    },
+    {
+      "h": "Why Businesses Need an Integrated Growth Strategy",
+      "b": [
+        {
+          "p": "Customer expectations continue to evolve alongside rapid advances in technology. Buyers now engage with brands across search engines, AI-powered search experiences, marketplaces, mobile apps, social media platforms, and physical retail environments before making purchasing decisions. Every interaction shapes perceptions of the brand and influences whether customers continue their journey."
+        },
+        {
+          "p": "This growing complexity makes isolated optimization increasingly ineffective. Marketing teams may generate traffic while merchandising teams improve product presentation, but if these initiatives are disconnected from customer analytics or user experience improvements, overall business performance often remains stagnant."
+        },
+        {
+          "p": "An integrated growth strategy for eCommerce aligns every customer-facing discipline around shared business objectives. Instead of measuring departmental success independently, organizations evaluate how each function contributes to customer progression, conversion, retention, and long-term value."
+        },
+        {
+          "p": "This connected approach enables businesses to:"
+        }
+      ]
+    },
+    {
+      "h": "improve Digital CX across every touchpoint",
+      "b": [
+        {
+          "ul": [
+            "reduce customer friction throughout the buying journey",
+            "increase conversion rates through continuous optimization",
+            "improve customer retention and Customer Lifetime Value (CLV)",
+            "make faster, data-driven decisions using unified analytics",
+            "create a scalable eCommerce operating model capable of supporting future growth"
+          ]
+        },
+        {
+          "p": "Rather than treating optimization as a collection of isolated initiatives, leading organizations build repeatable processes that continuously improve customer experiences and commercial performance."
+        }
+      ]
+    },
+    {
+      "h": "The Core Disciplines That Drive eCommerce Growth",
+      "b": [
+        {
+          "p": "While every business has unique objectives, several disciplines consistently influence digital commerce growth regardless of industry or business model. Together, these capabilities create a balanced eCommerce optimization strategy that supports acquisition, engagement, conversion, and customer loyalty."
+        }
+      ]
+    },
+    {
+      "h": "Customer Experience (CX) and Digital CX",
+      "b": [
+        {
+          "p": "Customer experience has become one of the strongest competitive differentiators in digital commerce. Every interaction shapes trust, influences purchase decisions, and affects customer loyalty."
+        },
+        {
+          "p": "Digital CX focuses on improving every online interaction customers have with a brand. This includes website usability, navigation, accessibility, mobile responsiveness, checkout efficiency, customer support, and post-purchase experiences."
+        },
+        {
+          "p": "A strong Digital CX strategy removes unnecessary friction while helping customers accomplish their goals with minimal effort. Faster page loading, intuitive navigation, simplified checkout processes, and consistent experiences across devices all contribute to improved customer satisfaction and higher conversion rates."
+        },
+        {
+          "p": "Rather than viewing customer experience as a design initiative, successful organizations embed Digital CX into product development, marketing, technology, and operational decision-making."
+        }
+      ]
+    },
+    {
+      "h": "Conversion Rate Optimization (CRO)",
+      "b": [
+        {
+          "p": "Generating additional website traffic becomes increasingly expensive as competition grows. Improving how existing visitors convert often delivers significantly greater returns."
+        },
+        {
+          "p": "Conversion Rate Optimization (CRO) uses customer research, experimentation, behavioral insights, and A/B testing to improve how visitors interact with websites. Rather than relying on assumptions, CRO identifies friction points that prevent customers from progressing through the purchasing journey."
+        },
+        {
+          "p": "Optimization opportunities commonly include product pages, category navigation, checkout flows, trust signals, promotional messaging, and mobile usability. Continuous experimentation enables businesses to validate improvements using measurable evidence before implementing them at scale."
+        },
+        {
+          "p": "Over time, incremental optimization produces substantial revenue gains while reducing customer acquisition costs."
+        }
+      ]
+    },
+    {
+      "h": "Merchandising and Product Discovery",
+      "b": [
+        {
+          "p": "Customers cannot purchase products they cannot find."
+        },
+        {
+          "p": "Effective merchandising strategy ensures products are presented in ways that support customer decision-making while maximizing commercial performance. Product categorization, promotional placement, inventory visibility, product imagery, and pricing all contribute to successful merchandising."
+        },
+        {
+          "p": "Equally important is product discovery, which helps customers quickly locate relevant products through intuitive navigation, filtering, recommendations, and site search optimization."
+        },
+        {
+          "p": "Modern businesses increasingly adopt searchandising, combining intelligent search capabilities with merchandising strategies to surface the most relevant products based on customer intent. Search technologies such as Algolia enable businesses to deliver faster, more personalized search experiences that improve engagement and conversion."
+        }
+      ]
+    },
+    {
+      "h": "SEO and Organic Visibility",
+      "b": [
+        {
+          "p": "Organic search remains one of the most sustainable drivers of long-term eCommerce business growth."
+        },
+        {
+          "p": "Modern SEO for eCommerce extends far beyond keyword optimization. It combines technical SEO, structured data, internal linking, entity optimization, content strategy, and high-quality product information to improve search visibility and support AI-powered discovery."
+        },
+        {
+          "p": "As search evolves, businesses must create authoritative content that clearly communicates expertise while helping search engines and large language models understand products, services, and subject matter."
+        },
+        {
+          "p": "Platforms such as Google Search Console help monitor indexing, keyword performance, technical issues, and opportunities for continuous optimization."
+        }
+      ]
+    },
+    {
+      "h": "Personalization",
+      "b": [
+        {
+          "p": "Customers increasingly expect experiences tailored to their preferences and behaviors."
+        },
+        {
+          "p": "Personalization uses customer data to present relevant products, recommendations, offers, and content throughout the buying journey. Instead of delivering identical experiences to every visitor, businesses create dynamic experiences based on browsing history, purchase behavior, geographic location, or customer segments."
+        },
+        {
+          "p": "Combined with behavioral insights and customer segmentation, personalization improves engagement, increases conversion rates, and strengthens customer loyalty by making every interaction feel more relevant."
+        }
+      ]
+    },
+    {
+      "h": "Analytics and Data-Driven Decision Making",
+      "b": [
+        {
+          "p": "Growth without measurement quickly becomes guesswork."
+        },
+        {
+          "p": "Modern eCommerce analytics enable organizations to understand how customers behave across every stage of the purchasing journey. Platforms such as Google Analytics 4 (GA4), Google Tag Manager (GTM), and Microsoft Clarity provide valuable insights into traffic sources, engagement, conversion funnels, and customer behavior."
+        },
+        {
+          "p": "Leading organizations supplement quantitative analytics with heatmaps, session recordings, Voice of Customer (VoC) research, and behavioral analytics to understand not only what customers do, but why they behave that way."
+        },
+        {
+          "p": "These insights enable teams to prioritize improvements based on evidence rather than assumptions, ensuring resources are directed toward initiatives with the greatest commercial impact."
+        }
+      ]
+    },
+    {
+      "h": "Customer Journey Optimization",
+      "b": [
+        {
+          "p": "Every customer journey consists of interconnected decisions rather than isolated interactions."
+        },
+        {
+          "p": "Customer journey optimization focuses on improving the transitions between discovery, product research, evaluation, purchase, fulfillment, retention, and customer loyalty. Instead of optimizing individual webpages, businesses examine how each stage influences progression toward the next."
+        },
+        {
+          "p": "Removing friction early in the journey often produces greater commercial impact than optimizing later stages alone, making journey optimization a core component of any successful digital commerce strategy."
+        }
+      ]
+    },
+    {
+      "h": "Customer Retention and Lifetime Value",
+      "b": [
+        {
+          "p": "Long-term profitability depends on retaining customers rather than continually replacing them."
+        },
+        {
+          "p": "Customer retention initiatives strengthen relationships beyond the initial purchase through personalized communication, loyalty programs, subscription services, exceptional customer support, and relevant post-purchase experiences."
+        },
+        {
+          "p": "Increasing Customer Lifetime Value (CLV) enables businesses to improve profitability while reducing dependence on rising acquisition costs. Organizations that balance acquisition with retention create more resilient growth models capable of sustaining performance over time."
+        }
+      ]
+    },
+    {
+      "h": "How These Disciplines Work Together",
+      "b": [
+        {
+          "p": "Although each discipline delivers measurable value independently, their greatest impact comes from operating as an integrated system."
+        },
+        {
+          "p": "SEO and marketing channels attract qualified visitors. Merchandising and product discovery help customers find relevant products. Digital CX builds confidence through intuitive experiences, while personalization increases relevance throughout the buying journey. Conversion Rate Optimization removes friction during purchasing, and analytics identify new opportunities for improvement through continuous experimentation."
+        },
+        {
+          "p": "Customer retention initiatives then extend the relationship beyond the first purchase, increasing lifetime value while reducing future acquisition costs."
+        },
+        {
+          "p": "This interconnected approach transforms individual optimization projects into a continuous cycle of improvement. Rather than competing for resources, every discipline reinforces the next, creating sustainable business growth built on customer satisfaction and operational excellence."
+        }
+      ]
+    },
+    {
+      "h": "Common Challenges That Limit eCommerce Growth",
+      "b": [
+        {
+          "p": "Despite significant investments in technology and digital transformation, many businesses struggle to achieve sustainable eCommerce growth. The challenge is rarely a lack of ambition or investment. Instead, growth is often limited by disconnected processes, inconsistent customer experiences, and optimization efforts that focus on symptoms rather than underlying causes."
+        },
+        {
+          "p": "One of the most common barriers is organizational silos. Marketing teams may focus on generating traffic, merchandising teams concentrate on product presentation, while technology teams prioritize platform stability. Although each department may achieve its own objectives, customers experience the business as a single journey. When teams operate independently, inconsistencies emerge that create friction and reduce overall performance."
+        },
+        {
+          "p": "Another challenge is prioritizing technology over strategy. Businesses frequently invest in new platforms or tools expecting immediate improvements, yet technology alone does not solve customer experience problems. Whether using Shopify, Adobe Commerce, BigCommerce, or Salesforce Commerce Cloud, success depends on how effectively the platform supports customer journeys, operational processes, and business objectives."
+        },
+        {
+          "p": "Many organizations also struggle with fragmented data. Information is often spread across analytics platforms, CRM systems, marketing tools, and commerce platforms, making it difficult to develop a unified understanding of customer behavior. Without reliable insights, optimization decisions become reactive rather than strategic."
+        },
+        {
+          "p": "Customer acquisition costs continue to increase across paid channels, making retention more important than ever. However, businesses often devote a disproportionate share of their budgets to acquiring new customers while underinvesting in customer loyalty, personalization, and post-purchase experiences that increase Customer Lifetime Value (CLV)."
+        },
+        {
+          "p": "Finally, many businesses view optimization as a one-time project instead of an ongoing discipline. Customer expectations, search algorithms, technology, and market conditions evolve constantly. Organizations that fail to continuously monitor performance, test improvements, and adapt to change often lose momentum over time."
+        }
+      ]
+    },
+    {
+      "h": "Choosing the Right Growth Priorities",
+      "b": [
+        {
+          "p": "Every business faces different challenges, making it essential to prioritize initiatives that deliver the greatest commercial impact rather than attempting to improve everything simultaneously."
+        },
+        {
+          "p": "The most effective approach begins with understanding where customers experience friction. Businesses should analyze the customer journey, identify points where visitors abandon or hesitate, and determine which improvements will have the greatest influence on revenue, customer satisfaction, and operational efficiency."
+        },
+        {
+          "p": "Organizations with limited organic visibility should focus on strengthening SEO for eCommerce, content strategy, and technical optimization to increase qualified traffic. Businesses attracting healthy traffic but experiencing low conversion rates should prioritize Digital CX improvements, Conversion Rate Optimization (CRO), and product discovery."
+        },
+        {
+          "p": "If customers frequently abandon the checkout process, simplifying checkout flows, improving payment options, and strengthening trust signals may produce the greatest return on investment. Businesses with declining repeat purchases should instead invest in customer retention, loyalty initiatives, customer segmentation, and personalized engagement."
+        },
+        {
+          "p": "Data should guide every decision. Rather than relying on assumptions, businesses should combine quantitative insights from Google Analytics 4 (GA4) with qualitative research from Microsoft Clarity, customer feedback, heatmaps, session recordings, and behavioral analytics to understand why customers behave as they do."
+        },
+        {
+          "p": "An effective eCommerce growth strategy is not about doing more. It is about investing in the disciplines that remove the biggest barriers to customer progression and aligning every improvement with measurable business outcomes."
+        }
+      ]
+    },
+    {
+      "h": "Measuring Success Across Growth Disciplines",
+      "b": [
+        {
+          "p": "Sustainable eCommerce performance improvement requires more than monitoring sales figures. Businesses need a balanced measurement framework that evaluates acquisition, engagement, conversion, customer satisfaction, and long-term profitability."
+        },
+        {
+          "p": "Traffic remains an important indicator, but increasing visitor numbers without improving customer experience rarely produces sustainable growth. Instead, organizations should evaluate how efficiently visitors progress through each stage of the buying journey."
+        },
+        {
+          "p": "Conversion rate remains one of the most widely used performance indicators because it reflects how effectively a website turns visitors into customers. However, conversion rate alone does not provide the full picture. Revenue per visitor, Average Order Value (AOV), Customer Lifetime Value (CLV), customer retention rate, and repeat purchase frequency all provide deeper insight into long-term business performance."
+        },
+        {
+          "p": "Businesses should also measure product discovery success by analyzing search usage, search exit rates, product page engagement, category navigation, and internal search performance. Effective merchandising and searchandising strategies enable customers to find relevant products more quickly, improving both conversion and customer satisfaction."
+        },
+        {
+          "p": "Customer experience metrics such as Net Promoter Score (NPS), Customer Satisfaction (CSAT), and Voice of Customer (VoC) feedback help organizations understand how customers perceive digital experiences beyond transactional data."
+        },
+        {
+          "p": "Experimentation should become a continuous process rather than an occasional activity. Platforms such as VWO and Optimizely allow businesses to validate changes through A/B testing before implementing them across the entire website. This evidence-based approach reduces risk while supporting continuous optimization."
+        },
+        {
+          "p": "The most successful organizations build a culture of data-driven decision making, where every improvement is measured, evaluated, and refined based on customer behavior rather than opinion."
+        }
+      ]
+    },
+    {
+      "h": "Future Trends Shaping eCommerce Growth",
+      "b": [
+        {
+          "p": "Digital commerce continues to evolve as customer expectations, technology, and buying behaviors change. Businesses that anticipate these shifts are better positioned to maintain competitive advantage and deliver exceptional Digital CX."
+        },
+        {
+          "p": "Artificial intelligence is transforming how customers discover products and interact with brands. AI-powered search experiences, conversational assistants, predictive recommendations, and intelligent merchandising are becoming integral parts of the customer journey. As these technologies mature, businesses will need structured content, entity-based SEO, and accurate product information to remain visible across both traditional search engines and AI-driven discovery platforms."
+        },
+        {
+          "p": "Personalization will become increasingly sophisticated through real-time behavioral analysis and predictive modeling. Rather than responding to customer actions after they occur, businesses will proactively anticipate customer needs and deliver relevant recommendations throughout the buying journey."
+        },
+        {
+          "p": "Omnichannel commerce will continue to blur the boundaries between online and offline experiences. Customers increasingly expect consistent pricing, inventory visibility, promotions, and customer service across websites, mobile applications, marketplaces, social commerce platforms, and physical stores. Organizations that integrate these experiences into a unified digital commerce strategy will create stronger customer relationships and higher retention."
+        },
+        {
+          "p": "Privacy regulations and evolving consumer expectations around data transparency will also influence how businesses collect and use customer information. First-party data strategies, consent management, and ethical personalization practices will become essential components of sustainable growth."
+        },
+        {
+          "p": "Finally, experimentation, automation, and advanced analytics will continue to shape modern eCommerce optimization. Businesses that continuously learn from customer behavior and adapt quickly will outperform competitors relying on static strategies."
+        }
+      ]
+    },
+    {
+      "h": "Marketing Channels",
+      "b": [
+        {
+          "p": "Marketing channels are responsible for generating awareness, attracting qualified audiences, and creating demand throughout the customer journey. They represent the pathways through which businesses communicate with potential customers and influence purchasing decisions before visitors ever reach an online store."
+        },
+        {
+          "p": "An effective marketing channel strategy combines organic and paid acquisition to create a balanced and resilient growth model. Organic search, content marketing, email marketing, social media, affiliate partnerships, influencer collaborations, and paid advertising each contribute differently depending on customer intent and business objectives."
+        },
+        {
+          "p": "Rather than measuring channels by traffic alone, successful businesses evaluate performance through customer acquisition cost, conversion rate, revenue contribution, and Customer Lifetime Value. This ensures marketing investment supports long-term eCommerce business growth rather than short-term traffic increases."
+        },
+        {
+          "p": "As customer journeys become increasingly fragmented, organizations should ensure consistent messaging and brand experiences across every marketing channel. When acquisition aligns with Digital CX and customer journey optimization, marketing becomes a strategic driver of sustainable growth rather than simply a source of website visits."
+        }
+      ]
+    },
+    {
+      "h": "Digital Marketing Channels",
+      "b": [
+        {
+          "p": "Digital marketing channels include the online platforms and technologies businesses use to reach, engage, and convert customers throughout the buying journey. Together, these channels form the foundation of a modern digital commerce strategy."
+        },
+        {
+          "p": "Search Engine Optimization (SEO), paid search advertising, social media marketing, content marketing, email automation, display advertising, video marketing, and AI-driven search experiences all play distinct roles in attracting and nurturing potential customers. Each channel contributes valuable customer data that can be used to improve targeting, personalization, and overall campaign performance."
+        },
+        {
+          "p": "The most successful organizations avoid managing digital channels independently. Instead, they integrate campaign data with analytics platforms, customer relationship management systems, and commerce platforms to create a connected view of customer behavior."
+        },
+        {
+          "p": "As AI-powered search and personalized digital experiences continue to evolve, businesses must focus on creating authoritative content, optimizing for entity-based search, and maintaining consistent brand information across every digital touchpoint. This integrated approach strengthens Digital CX while improving discoverability and customer engagement."
+        }
+      ]
+    },
+    {
+      "h": "Sales Channels",
+      "b": [
+        {
+          "p": "Sales channels define where and how customers purchase products. While an organization's eCommerce website is often its primary sales channel, modern commerce increasingly extends across online marketplaces, mobile applications, social commerce platforms, physical stores, and business-to-business commerce portals."
+        },
+        {
+          "p": "Customers expect consistent pricing, inventory availability, promotions, and customer service regardless of where they choose to shop. Delivering this consistency requires integrated systems that synchronize product information, inventory management, fulfillment processes, and customer data across every channel."
+        },
+        {
+          "p": "An effective omnichannel strategy enables businesses to meet customers wherever they prefer to buy while maintaining a seamless experience throughout the purchasing journey. This not only improves customer satisfaction but also creates new opportunities for revenue optimization and long-term customer retention."
+        },
+        {
+          "p": "Rather than treating each sales channel as a separate business, leading organizations manage them through a unified eCommerce operating model supported by centralized analytics, shared customer insights, and connected operational processes. This integrated approach strengthens Digital CX and enables scalable digital commerce growth."
+        }
+      ]
+    },
+    {
+      "h": "Conclusion",
+      "b": [
+        {
+          "p": "Sustainable eCommerce success is built on more than increasing website traffic or launching new marketing campaigns. It requires a connected framework where acquisition, Digital CX, merchandising, product discovery, personalization, analytics, experimentation, and customer retention work together to improve every stage of the customer journey."
+        },
+        {
+          "p": "The core disciplines that drive eCommerce growth are interconnected capabilities that strengthen one another over time. When businesses align these disciplines within a unified eCommerce growth framework, they create better customer experiences, make smarter data-driven decisions, and achieve more consistent commercial outcomes."
+        },
+        {
+          "p": "As digital commerce continues to evolve, organizations that embrace continuous optimization, cross-functional collaboration, and customer-centric thinking will be best positioned to adapt to changing technologies and customer expectations. By treating growth as an ongoing operational capability rather than a series of isolated initiatives, businesses can build a scalable foundation for long-term success."
+        },
+        {
+          "p": "Whether your priority is improving Digital CX, optimizing conversion rates, strengthening merchandising, or expanding marketing and sales channels, every investment should contribute to a unified strategy that delivers measurable business value and sustainable eCommerce growth."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "What drives eCommerce growth?",
+      "eCommerce growth is driven by multiple connected disciplines, including Digital CX, SEO, merchandising, product discovery, analytics, personalization, Conversion Rate Optimization (CRO), and customer retention. Sustainable growth comes from improving the entire customer journey rather than optimizing individual channels in isolation."
+    ],
+    [
+      "What are the key disciplines of eCommerce?",
+      "The key disciplines include Customer Experience (CX), Digital CX, merchandising, product discovery, SEO, analytics, experimentation, personalization, customer journey optimization, customer retention, and revenue optimization. Together, they create a scalable eCommerce growth framework."
+    ],
+    [
+      "How do successful eCommerce brands grow?",
+      "Leading brands continuously analyze customer behavior, remove friction across the buying journey, optimize product discovery, improve customer experiences, and validate changes through experimentation. They combine multiple growth disciplines into an integrated operating model rather than relying on individual tactics."
+    ],
+    [
+      "What is an eCommerce growth strategy?",
+      "An eCommerce growth strategy is a structured approach that aligns acquisition, customer experience, merchandising, analytics, technology, and retention to improve business performance. It focuses on creating sustainable revenue growth through continuous optimization and data-driven decision making."
+    ],
+    [
+      "How do analytics improve eCommerce performance?",
+      "Analytics provide insights into customer behavior, purchasing patterns, conversion funnels, and friction points. Platforms such as Google Analytics 4, Google Tag Manager, and Microsoft Clarity help businesses identify opportunities for optimization while measuring the impact of improvements."
+    ],
+    [
+      "Why is merchandising important in eCommerce?",
+      "Merchandising influences how easily customers discover, evaluate, and purchase products. Effective merchandising improves product visibility, supports better purchasing decisions, and increases conversion rates through optimized product presentation and navigation."
+    ],
+    [
+      "How does Customer Experience affect online sales?",
+      "Customer experience directly influences trust, engagement, and purchase decisions. Websites that provide intuitive navigation, relevant content, fast performance, and seamless checkout experiences typically achieve higher conversion rates and stronger customer loyalty."
+    ],
+    [
+      "What role does CRO play in eCommerce growth?",
+      "Conversion Rate Optimization improves how efficiently websites convert visitors into customers. Through experimentation, A/B testing, and behavioral analysis, CRO removes friction and increases revenue without necessarily increasing website traffic."
+    ],
+    [
+      "What metrics should eCommerce leaders track?",
+      "Important metrics include conversion rate, revenue per visitor, Average Order Value (AOV), Customer Lifetime Value (CLV), customer retention rate, organic traffic, product discovery success, cart abandonment, customer satisfaction, and Net Promoter Score (NPS)."
+    ],
+    [
+      "How do you build a scalable eCommerce operating model?",
+      "A scalable eCommerce operating model integrates marketing, Digital CX, merchandising, analytics, technology, and customer retention into a connected framework supported by continuous optimization, cross-functional collaboration, and data-driven decision making."
+    ]
+  ],
+  "draft": false,
+  "sols": [
+    "growth-marketing",
+    "dcx-transformation",
+    "digital-analytics"
+  ]
+});

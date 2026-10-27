@@ -1,0 +1,206 @@
+{
+  "key": "svc:ai-search-visibility",
+  "path": "/services/ai-search-visibility/",
+  "title": "AI Search Visibility & GEO Services | CXWorks",
+  "description": "Get your brand cited in AI answers. CXWorks improves AI search visibility across ChatGPT, Gemini and Perplexity with structured content and entity signals.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "AI Search Visibility (GEO)"
+    ]
+  ],
+  "sticky": {
+    "l": "Book the AI Visibility Audit",
+    "href": "/contact-us/?topic=AI%20Visibility%20Audit"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Generative engine optimization agency",
+      "a": "Generative engine optimization:",
+      "b": "get cited in AI answers.",
+      "lead": "Be the brand ChatGPT, Gemini and Google AI Mode recommend.",
+      "ctas": [
+        {
+          "l": "Book the AI Visibility Audit",
+          "act": "book",
+          "topic": "AI Visibility Audit"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "AI Search Visibility (GEO)"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Competitors named in AI answers, you are not",
+        "Product feeds with missing attributes",
+        "No FAQs or specs AI can quote"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "ai-search-visibility"
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "aianswer",
+      "eb": "What winning looks like",
+      "h": "A sample AI answer that cites a brand."
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "Discoverability"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy AI Search Visibility (GEO).",
+      "d": "AI visibility audit",
+      "b": "Feed, structured data and content fixes",
+      "r": "Monthly citation tracking"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch discoverability, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Google Merchant Center",
+        "Schema.org",
+        "ChatGPT",
+        "Gemini",
+        "Perplexity"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "How generative engine optimization gets you cited",
+      "paras": [
+        "Buyers now ask AI assistants which product, supplier or provider to choose. If your brand is not in the answer, you are not in the shortlist. Generative engine optimization, or GEO, is the work of making your pages, products and expertise easy for AI tools to find, trust and quote.",
+        "We start with an AI visibility audit. We run the questions your buyers ask across ChatGPT, Google AI Overviews, Perplexity and Gemini, record where you are cited, where competitors are cited instead and which pages AI tools rely on. That gives you a clear share-of-voice baseline.",
+        "Then we fix the causes. Structured data and product feeds that AI tools can read. FAQ and comparison content written in the plain format answer engines quote. Clean catalog attributes so your products match specific questions. Strong technical SEO so the right pages are crawled at all.",
+        "GEO sits on top of good SEO, not instead of it. Our answer engine optimization work is tracked monthly, so you can see citations, mentions and AI referral traffic grow over time. Cited first, then clicked, then chosen."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What does AI Search Visibility (GEO) cover?",
+          "Be the brand ChatGPT, Gemini and Google AI Mode recommend. Main gates: Discoverability."
+        ],
+        [
+          "Where do we start?",
+          "With the matching audit, or the full DCX Audit if the problem spans several gates."
+        ],
+        [
+          "How do AI agents help?",
+          "They watch the gates this service affects, flag changes and draft fixes. Experts decide and deliver."
+        ],
+        [
+          "How is it priced?",
+          "Fixed-price jobs for Diagnose and Build, monthly retainer for Run."
+        ],
+        [
+          "Which platforms do you work with?",
+          "Google Merchant Center, Schema.org, ChatGPT, Gemini, Perplexity, and others."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with the AI Visibility Audit.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book the AI Visibility Audit",
+        "act": "book",
+        "topic": "AI Visibility Audit"
+      },
+      "form": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+/*
+ * Hover styles shared by components (className="hv-xxxxxxx").
+ * They use !important because the elements they target are styled inline.
+ * To add one: create a new class here and reference it from the component.
+ */
+.hv-13b5983:hover{transform:translateY(-4px) !important;border-color:var(--acc) !important;background:rgba(var(--acc-rgb),.14) !important;box-shadow:0 24px 50px -28px rgba(var(--acc-rgb),.7) !important}
+.hv-ebdf00e:hover{transform:translateX(6px) !important;color:var(--acc) !important}
+.hv-f71741d:hover{border-color:rgba(var(--acc-rgb),.55) !important;transform:translateY(-4px) !important;box-shadow:0 24px 60px -30px rgba(var(--acc-rgb),.55), inset 0 1px 0 rgba(var(--glass),.2) !important;color:var(--ink) !important}
+.hv-3ffee7d:hover{color:var(--acc) !important}
+.hv-702eb0d:hover{border-color:rgba(var(--acc-rgb),.55) !important;transform:translateY(-3px) !important;color:var(--ink) !important}
+.hv-5ade74a:hover{filter:brightness(1.12) !important}
+.hv-f7ff006:hover{background:rgba(var(--acc-rgb),.06) !important}
+.hv-65bf45b:hover{background:rgba(var(--acc-rgb),.18) !important}
+.hv-b608ae2:hover{filter:brightness(1.15) !important;transform:translateY(-3px) !important}
+.hv-8c2777f:hover{padding-left:10px !important}
+.hv-a3fdaa4:hover{border-color:var(--acc) !important;background:rgba(var(--acc-rgb),.08) !important;color:var(--ink) !important}
+.hv-7f8fefb:hover{border-color:rgba(var(--acc-rgb),.5) !important}
+.hv-2fe54be:hover{background:rgba(var(--acc-rgb),.14) !important}
+.hv-7760e51:hover{background:var(--acc2) !important;color:var(--on-acc) !important;transform:translateY(-1px) !important}
+.hv-2961766:hover{border-color:rgba(var(--acc-rgb),.55) !important;color:var(--ink) !important}
+.hv-83ee23b:hover{transform:translateY(-2px) !important;filter:brightness(1.08) !important}
+.hv-88d6c5d:hover{color:var(--acc2) !important;text-decoration:underline !important}
+.hv-ba8ff82:hover{border-color:rgba(var(--acc-rgb),.55) !important;transform:translateY(-4px) !important}
+.hv-7891572:hover{color:var(--ink) !important}
+.hv-f43028e:hover{transform:translateY(-6px) !important;border-color:rgba(var(--acc-rgb),.5) !important;color:var(--ink) !important}
+.hv-f3109f6:hover{transform:translateY(-2px) !important;border-color:var(--acc) !important}
+.hv-088d9e0:hover{transform:translateY(-4px) !important;color:var(--ink) !important}
+.hv-df6606e:hover{--p:paused !important}
+.hv-cd53f70:hover{opacity:1 !important;filter:none !important}
+.hv-464937f:hover{background:rgba(var(--acc-rgb),.12) !important}
+.hv-48aa3a4:hover{transform:translateY(-3px) !important;border-color:rgba(var(--acc-rgb),.6) !important;background:rgba(var(--acc-rgb),.06) !important;color:var(--ink) !important}
+.hv-5dd360e:hover{border-color:var(--acc) !important;background:rgba(var(--acc-rgb),.1) !important;color:var(--ink) !important}
+.hv-c59165b:hover{border-color:var(--acc) !important;background:rgba(var(--acc-rgb),.14) !important;color:var(--ink) !important}
+.hv-6189f2d:hover{background:rgba(var(--acc-rgb),.22) !important;color:var(--acc) !important}
+.hv-fb6026e:hover{transform:translateY(-2px) !important;filter:brightness(1.1) !important}
+.hv-84a942f:hover{border-color:var(--acc) !important}
+.hv-6d9cbc8:hover{border-color:rgba(var(--acc-rgb),.7) !important;transform:translateY(-3px) !important}
+.hv-afdf513:hover{border-color:rgba(var(--acc-rgb),.7) !important;background:rgba(var(--acc-rgb),.06) !important}
+.hv-bbf9009:hover{border-color:rgba(var(--acc-rgb),.5) !important;background:rgba(var(--acc-rgb),.06) !important}
+.hv-9ccb562:hover{border-color:rgba(var(--acc-rgb),.7) !important;background:radial-gradient(120% 120% at 30% 0%, rgba(var(--glass),.34), rgba(var(--glass),.08) 55%), rgba(var(--acc-rgb),.2) !important}
+.hv-c30ce7c:hover{background:var(--acc2) !important;color:var(--on-acc) !important}
+.hv-d9e551b:hover{color:var(--ink) !important;text-decoration:underline !important}
+.hv-531886e:hover{text-decoration:underline !important;color:var(--acc) !important}
+.hv-a228edf:hover{background:rgba(var(--acc-rgb),.1) !important;color:var(--ink) !important}
+.hv-d01cd28:hover{color:var(--ink) !important;border-color:var(--acc) !important}
+.hv-fc3bd76:hover{background:rgba(var(--acc-rgb),.1) !important;color:var(--acc) !important}
+.hv-b719e6d:hover{border-color:var(--acc) !important;color:var(--acc) !important}
+.hv-ea59758:hover{background:var(--acc2) !important}
+.hv-7c93944:hover{transform:translateX(6px) !important}
+.hv-a23e27c:hover{background:var(--acc3) !important;color:var(--on-acc) !important}

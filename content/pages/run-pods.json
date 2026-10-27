@@ -1,0 +1,212 @@
+{
+  "key": "run-pods",
+  "path": "/run-pods/",
+  "title": "Run Pods: Ongoing DCX Optimisation for eCommerce | CXWorks",
+  "description": "Keep all nine customer journey gates improving with a CXWorks Run pod: AI agents monitor every gate and a dedicated team ships fixes and tests each month.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Run"
+    ],
+    [
+      "Run pods"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Run",
+      "a": "Run:",
+      "b": "An embedded pod that keeps all nine gates improving, month after month.",
+      "lead": "Small, Medium or Large pods with AI agents watching every gate.",
+      "ctas": [
+        {
+          "l": "Talk to us about a Run pod",
+          "act": "book",
+          "topic": "Run pod"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "Signs you need this stage",
+      "h": "You will recognise these.",
+      "items": [
+        "Fixes slip back after launch",
+        "You need a team, not another agency",
+        "Testing has stopped"
+      ]
+    },
+    {
+      "type": "cards",
+      "eb": "Everything in Run",
+      "h": "Pick a pod size.",
+      "items": [
+        {
+          "t": "Small pod",
+          "d": "One storefront, focused catalog. DCX lead plus analyst plus AI agents.",
+          "meta": [
+            "Monthly",
+            "Price on request"
+          ],
+          "href": "/ways-to-work/",
+          "badge": ""
+        },
+        {
+          "t": "Medium pod",
+          "d": "Several categories or storefronts. Adds a merchandiser and developer.",
+          "meta": [
+            "Monthly",
+            "Price on request"
+          ],
+          "href": "/ways-to-work/",
+          "badge": "Most chosen"
+        },
+        {
+          "t": "Large pod",
+          "d": "Many storefronts or regions. Full team with AI agents across every gate.",
+          "meta": [
+            "Monthly",
+            "Price on request"
+          ],
+          "href": "/ways-to-work/",
+          "badge": ""
+        }
+      ],
+      "cols": 3
+    },
+    {
+      "type": "split",
+      "eb": "How AI and experts split the work",
+      "ai": "AI watches every gate daily and alerts the pod to changes.",
+      "hu": "The pod decides what matters, ships fixes and reviews results monthly."
+    },
+    {
+      "type": "facts",
+      "eb": "What you get",
+      "items": [
+        [
+          "You get",
+          "Monthly reviews, a live roadmap, steady test and fix releases."
+        ],
+        [
+          "Timeline",
+          "Monthly"
+        ],
+        [
+          "Pricing",
+          "Monthly retainer. Small, Medium or Large pod."
+        ]
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is a Run pod?",
+          "An embedded CXWorks team, for example a DCX lead, analyst, merchandiser and developer, plus AI agents that watch all nine gates every day. It keeps your digital customer experience improving month after month."
+        ],
+        [
+          "How is a Run pod different from a Build sprint?",
+          "A Build sprint fixes a set list of roadmap issues in 90 days. A Run pod is ongoing: it tests, tunes and ships improvements every month, so gains keep compounding."
+        ],
+        [
+          "Do I need a Diagnostic or Build sprint first?",
+          "It is the usual path, because the pod then starts from a clear roadmap. If you already know your earliest failing gate, a pod can start with a short onboarding review instead."
+        ],
+        [
+          "What is the difference between Small, Medium and Large?",
+          "Small suits one storefront with a focused catalog. Medium adds a merchandiser and developer for several categories or storefronts. Large is a full team with a dedicated pod lead for many storefronts or regions."
+        ],
+        [
+          "What work does a pod cover?",
+          "Conversion testing, search and merchandising tuning, catalog data upkeep, analytics and tracking, AI search visibility and growth marketing. The mix follows whichever gate is weakest that month."
+        ],
+        [
+          "What do the AI agents do, and what do people do?",
+          "AI agents monitor search logs, speed, tracking, feeds and AI answers, and flag changes. The team decides what matters, ships the fix and checks the result."
+        ],
+        [
+          "How is a Run pod priced?",
+          "A fixed monthly retainer based on pod size, catalog size and number of storefronts. No hourly billing, and the price is agreed before you start."
+        ],
+        [
+          "What do I get each month?",
+          "A monthly review, a live roadmap, shipped tests and fixes, and a gate-by-gate report on what moved and why."
+        ],
+        [
+          "How soon will we see results?",
+          "Quick wins usually ship in the first month. Testing and merchandising gains build over three to six months as each cycle sharpens the next."
+        ],
+        [
+          "Can we change pod size or stop?",
+          "Yes. You can move between Small, Medium and Large as needs change. Pods run on a rolling monthly basis after an agreed minimum term."
+        ],
+        [
+          "Does the pod work with our in-house team and tools?",
+          "Yes. The pod works inside your existing platforms (Shopify, Adobe Commerce, SAP, GA4 and others) and alongside your own staff and agencies."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "Build: our services",
+      "items": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Ready to talk scope?",
+      "p": "Tell us what you need and we will reply within one business day.",
+      "btn": {
+        "l": "Talk to us about a Run pod",
+        "act": "book",
+        "topic": "Run pod"
+      },
+      "form": true
+    }
+  ]
+}

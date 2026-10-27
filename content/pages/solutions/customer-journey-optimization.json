@@ -1,0 +1,267 @@
+{
+  "key": "sol:customer-journey-optimization",
+  "path": "/customer-journey-optimization/",
+  "title": "Customer Journey Optimization for eCommerce | CXWorks",
+  "description": "Customer journey optimization across all nine gates, from search to repeat order, using journey mapping, analytics and testing to remove friction.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Customer Journey Optimization"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Customer Journey Optimization",
+      "a": "Customer journey optimization:",
+      "b": "find where you lose customers and fix it first.",
+      "lead": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "ctas": [
+        {
+          "l": "Get your free AI scan",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "l": "Book a DCX Audit",
+          "href": "/services/dcx-transformation/dcx-audit/"
+        }
+      ]
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All nine"
+    },
+    {
+      "type": "journey",
+      "eb": "The method",
+      "h": "Earliest failing gate first."
+    },
+    {
+      "type": "ai",
+      "eb": "AI plus human in the loop",
+      "h": "AI watches every gate. Experts fix what matters.",
+      "watch": [
+        "Zero-result and failed searches",
+        "Speed and errors by template",
+        "Tracking breaks and data gaps",
+        "Product feed and spec gaps",
+        "Mentions and citations in AI answers",
+        "Drop-off at checkout, quote or form"
+      ],
+      "decide": [
+        "Which signals are real",
+        "What fixing it is worth",
+        "What to fix first",
+        "How to design and build it",
+        "When it is ready to ship"
+      ]
+    },
+    {
+      "type": "cards",
+      "eb": "Services in this solution",
+      "h": "What makes it up.",
+      "items": [
+        {
+          "t": "Conversion Rate Optimization",
+          "d": "A testing program that fixes causes, not symptoms.",
+          "href": "/services/conversion-rate-optimization/",
+          "meta": [
+            "Usability, Trust, Conversion"
+          ]
+        },
+        {
+          "t": "Digital Merchandising",
+          "d": "Search, filters and categories that turn browsing into buying.",
+          "href": "/services/digital-merchandising/",
+          "meta": [
+            "Findability, Relevance"
+          ]
+        },
+        {
+          "t": "Digital Analytics",
+          "d": "Tracking for orders and leads that every team trusts.",
+          "href": "/services/digital-analytics/",
+          "meta": [
+            "All (the measuring layer)"
+          ]
+        },
+        {
+          "t": "DCX Strategy and Transformation",
+          "d": "One roadmap and one team owning every gate.",
+          "href": "/services/dcx-transformation/",
+          "meta": [
+            "All nine"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ladder",
+      "eb": "Ways to start",
+      "h": "Small enough to say yes to.",
+      "p": "Each step sets up the next. Audits and fixed-price jobs sit beside the ladder as a side door, paid as you go or with prepaid credits.",
+      "items": [
+        {
+          "n": "01",
+          "t": "Free AI scan",
+          "d": "Automated. Nine Gate score, catalog health snapshot, zero-result search sample and AI visibility check. AI does the work, a human adds a two-line note before it goes out.",
+          "time": "About 48 hours",
+          "price": "Free",
+          "href": "/free-ai-scan/"
+        },
+        {
+          "n": "02",
+          "t": "DCX Audit",
+          "d": "Human-led. Finds the earliest failing gate and puts a money value on fixing it. Ends with a prioritised roadmap.",
+          "time": "About 30 days",
+          "price": "Paid, fixed price",
+          "href": "/services/dcx-transformation/dcx-audit/",
+          "hi": true
+        },
+        {
+          "n": "03",
+          "t": "90-day Build sprint",
+          "d": "Fixes the top issues from the roadmap: templates, product data, search, tracking, first tests.",
+          "time": "90 days",
+          "price": "Fixed scope",
+          "href": "/services/dcx-transformation/"
+        }
+      ],
+      "link": {
+        "l": "Compare ways to work",
+        "href": "/ways-to-work/"
+      }
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "Optimizing the journey one gate at a time",
+      "paras": [
+        "A journey can be technically complete and still feel broken. A customer may land on a product page from search without the context they would have had on the homepage. Someone else might start on mobile and be unable to continue where they left off on desktop. Another customer may see one promise in an ad and a different one at checkout. Each page works on its own, but the overall journey doesn’t.",
+        "When teams improve screens one at a time, fixing one gap can create another. A shared future-state design gives every team a clear picture of what the experience should look like before anyone starts building.",
+        "Choose the journeys. Agree the 3–5 segments and journeys with the most value at stake, using gate audit evidence where it exists.",
+        "Map the current state. Trace how each segment really moves, including entry points midway through, device switches and loops back."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "How do you map a non-linear customer journey?",
+          "We start from where customers actually enter, not where the site expects them to. Analytics shows the real entry points and paths for each segment, and we map those, including loops back and device switches, rather than forcing everyone into a single funnel."
+        ],
+        [
+          "How many journeys should we map?",
+          "We usually start with the 3–5 customer segments that carry the most value. Focusing there gets designs built sooner; other journeys can follow once the first set is live."
+        ],
+        [
+          "Does this include UX design, or just maps?",
+          "Both. The work runs from journey maps through to information architecture, wireframes and clickable prototypes your teams can build from."
+        ],
+        [
+          "Do we need a CX Diagnosis & Gate Audit first?",
+          "It isn’t required, but it helps. The audit shows which gates break first, so the redesign starts where it will recover the most value."
+        ],
+        [
+          "Will our design and engineering teams be able to use the output?",
+          "Yes. Blueprints, IA and prototypes are built to slot into your existing design system and backlog, and we hand them over in a working session rather than a slide deck."
+        ],
+        [
+          "How do we know the redesign worked?",
+          "The target gates are scored before and after, and the Experience Optimisation Framework and Measurement & Intelligence Layer track the change once designs go live. It isn't required, but it helps. The audit shows which gates break first, so the redesign starts where it will recover the most value."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More solutions",
+      "items": [
+        [
+          "Customer Experience Consulting",
+          "/customer-experience-consulting/"
+        ],
+        [
+          "Ecommerce Consulting",
+          "/ecommerce-consulting/"
+        ]
+      ],
+      "hubs": [],
+      "hasSvcs": true,
+      "svcs": [
+        [
+          "DCX Strategy and Transformation",
+          "/services/dcx-transformation/"
+        ],
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Find your earliest failing gate.",
+      "p": "Free AI scan in about 48 hours.",
+      "btn": {
+        "l": "Get your free AI scan",
+        "href": "/free-ai-scan/"
+      },
+      "form": true
+    }
+  ]
+}

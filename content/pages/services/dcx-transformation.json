@@ -1,0 +1,209 @@
+{
+  "key": "svc:dcx-transformation",
+  "path": "/services/dcx-transformation/",
+  "title": "DCX Strategy & Transformation Solutions | CXWorks",
+  "description": "Transform fragmented digital initiatives into a connected DCX Operating System that improves discoverability, conversion, retention, and long-term growth.",
+  "crumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Services"
+    ],
+    [
+      "DCX Strategy and Transformation"
+    ]
+  ],
+  "sticky": {
+    "l": "Book the DCX Audit",
+    "href": "/contact-us/?topic=DCX%20Audit"
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eb": "Customer experience strategy",
+      "a": "DCX Strategy & Transformation Solutions",
+      "b": "",
+      "lead": "Turn fragmented customer experiences into a connected growth strategy.",
+      "ctas": [
+        {
+          "l": "Book the DCX Audit",
+          "act": "book",
+          "topic": "DCX Audit"
+        },
+        {
+          "l": "Talk to an expert",
+          "act": "book",
+          "topic": "DCX Strategy and Transformation"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eb": "The problem",
+      "h": "Symptoms you will recognise.",
+      "items": [
+        "Five agencies, no single owner",
+        "Every team has its own numbers",
+        "Fixes ship, results do not"
+      ]
+    },
+    {
+      "type": "chart",
+      "slug": "dcx-transformation"
+    },
+    {
+      "type": "doors",
+      "eb": "Two doors",
+      "h": "Whether customers buy from you online or enquire online, they can drop off at any step.",
+      "sell": {
+        "eg": "A distributor whose search shows \"no results\" for common part numbers.",
+        "fix": "Search tuning and product data.",
+        "pts": [
+          "Product pages",
+          "Search",
+          "Checkout",
+          "Reorders"
+        ]
+      },
+      "enq": {
+        "eg": "A rehab centre whose admission form asks 20 questions before a call.",
+        "fix": "Shorter form, trust signals, call-back option.",
+        "pts": [
+          "Service pages",
+          "Forms",
+          "Demo or booking",
+          "Onboarding"
+        ]
+      }
+    },
+    {
+      "type": "gatechips",
+      "eb": "Gates it covers",
+      "gates": "All nine"
+    },
+    {
+      "type": "dbr",
+      "eb": "Diagnose and Build",
+      "h": "Two ways to buy DCX Strategy and Transformation.",
+      "d": "DCX Audit, journey mapping",
+      "b": "Roadmap, governance setup",
+      "r": "dCOE pod that owns the roadmap"
+    },
+    {
+      "type": "split",
+      "eb": "How AI agents and experts work on it",
+      "ai": "Agents watch all nine, flag changes and draft fixes.",
+      "hu": "Experts decide what matters, build it and check results."
+    },
+    {
+      "type": "tools",
+      "eb": "Tools and platforms",
+      "items": [
+        "Adobe",
+        "Google Analytics",
+        "Quantum Metric",
+        "Contentsquare",
+        "Qualtrics"
+      ]
+    },
+    {
+      "type": "seo",
+      "eb": "In depth",
+      "h": "DCX Strategy & Transformation Solutions",
+      "paras": [
+        "CXWorks helps B2B, B2C, and D2C ecommerce businesses identify where digital customer journeys break down, understand what causes the friction, and prioritize the changes that matter commercially.",
+        "Customers experience one journey. Businesses manage that journey across separate teams, platforms, channels, data sets, and initiatives.",
+        "Marketing owns acquisition. Merchandising owns product discovery. Ecommerce owns conversion. Technology owns platforms. Analytics reports performance. Operations own fulfillment. Customer service handles issues after the purchase.",
+        "That disconnect creates commercial friction. A customer can find the right product through search but struggle to understand it on the product page. Checkout can work technically while still creating unnecessary abandonment. A successful acquisition campaign can send qualified traffic into an experience that fails to convert."
+      ]
+    },
+    {
+      "type": "faq",
+      "eb": "",
+      "h": "FAQ",
+      "items": [
+        [
+          "What is DCX strategy?",
+          "DCX strategy defines how a business improves digital customer experience across the complete customer journey. It connects customer behavior, experience, commerce, data, technology, and business priorities so teams can make informed transformation decisions."
+        ],
+        [
+          "What does a DCX transformation include?",
+          "A DCX transformation can include customer journey assessment, experience analysis, commerce and conversion analysis, analytics review, technology assessment, operating-model considerations, prioritization, and transformation roadmap development. The exact scope depends on business objectives and current maturity."
+        ],
+        [
+          "How does DCX strategy improve ecommerce performance?",
+          "DCX strategy improves ecommerce performance by identifying customer-experience issues that affect measurable business outcomes. The work connects journey friction with metrics such as discovery, conversion, retention, and customer lifetime value."
+        ],
+        [
+          "What does a DCX assessment deliver?",
+          "A DCX assessment delivers an evidence-based view of current customer experience, key friction points, opportunity areas, and strategic priorities. CXWorks uses these findings to establish what should happen next rather than stopping at diagnosis."
+        ],
+        [
+          "How do you measure digital customer experience?",
+          "Digital customer experience is measured through customer behavior, experience quality, and business performance. Depending on the business, this can include conversion, search behavior, checkout progression, retention, customer feedback, task completion, and customer lifetime value."
+        ],
+        [
+          "How long does DCX transformation take?",
+          "The timeframe depends on the scope, business objectives, current digital maturity, and number of systems and teams involved. CXWorks establishes the appropriate roadmap after assessing the current state rather than applying a fixed timeframe to every business."
+        ],
+        [
+          "Does DCX strategy include implementation?",
+          "DCX strategy establishes the priorities, roadmap, measurement requirements, and direction needed for implementation. Implementation scope depends on the engagement and the transformation priorities identified during the assessment."
+        ]
+      ]
+    },
+    {
+      "type": "related",
+      "eb": "More ways to build",
+      "items": [
+        [
+          "Conversion Rate Optimization",
+          "/services/conversion-rate-optimization/"
+        ],
+        [
+          "AI Search Visibility (GEO)",
+          "/services/ai-search-visibility/"
+        ],
+        [
+          "Digital Merchandising",
+          "/services/digital-merchandising/"
+        ],
+        [
+          "Catalog and Product Data",
+          "/services/catalog-management/"
+        ],
+        [
+          "Digital Analytics",
+          "/services/digital-analytics/"
+        ],
+        [
+          "Growth Marketing",
+          "/services/growth-marketing/"
+        ],
+        [
+          "Ecommerce Website Development",
+          "/services/ecommerce-website-development/"
+        ]
+      ],
+      "hubs": [
+        [
+          "Solutions",
+          "/customer-experience-consulting/"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "h": "Start with the DCX Audit.",
+      "p": "Fixed price, clear output, no long scoping.",
+      "btn": {
+        "l": "Book the DCX Audit",
+        "act": "book",
+        "topic": "DCX Audit"
+      },
+      "form": true
+    }
+  ]
+}
