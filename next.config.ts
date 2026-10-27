@@ -34,6 +34,8 @@ const legacyRedirects = [
 ].map((r) => ({ ...r, permanent: true }));
 
 const nextConfig: NextConfig = {
+  // Self-contained server bundle for the Docker image (see Dockerfile).
+  output: 'standalone',
   // Canonical URLs on the site end with a slash (/services/digital-analytics/).
   trailingSlash: true,
   poweredByHeader: false,
